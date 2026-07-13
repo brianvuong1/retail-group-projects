@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Name 1, Name 2, Name 3, Name 4, Name 5">
+<meta name="author" content="Brian V, Ron S, Name 3, Name 4, Name 5">
 <meta name="dcterms.date" content="2026-07-12">
 
 <title>GP3: Product Feed and Retail Media Setup</title>
@@ -21,6 +21,41 @@ ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
 width: 0.8em;
 margin: 0 0.8em 0.2em -1em;  vertical-align: middle;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+{ counter-reset: source-line 0; }
+pre.numberSource code > span
+{ position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+{ content: counter(source-line);
+position: relative; left: -1em; text-align: right; vertical-align: baseline;
+border: none; display: inline-block;
+-webkit-touch-callout: none; -webkit-user-select: none;
+-khtml-user-select: none; -moz-user-select: none;
+-ms-user-select: none; user-select: none;
+padding: 0 4px; width: 4em;
+}
+pre.numberSource { margin-left: 3em; padding-left: 4px; }
+div.sourceCode
+{ }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -2181,7 +2216,7 @@ vertical-align: -.125em;
   <li><a href="#step-2-select-products" id="toc-step-2-select-products" class="nav-link" data-scroll-target="#step-2-select-products"><span class="header-section-number">2.2</span> Step 2: Select products</a></li>
   <li><a href="#step-3-create-product-feed-fields" id="toc-step-3-create-product-feed-fields" class="nav-link" data-scroll-target="#step-3-create-product-feed-fields"><span class="header-section-number">2.3</span> Step 3: Create product feed fields</a></li>
   <li><a href="#step-4-improve-product-titles" id="toc-step-4-improve-product-titles" class="nav-link" data-scroll-target="#step-4-improve-product-titles"><span class="header-section-number">2.4</span> Step 4: Improve product titles</a></li>
-  <li><a href="#step-5-improve-product-descriptions" id="toc-step-5-improve-product-descriptions" class="nav-link" data-scroll-target="#step-5-improve-product-descriptions"><span class="header-section-number">2.5</span> Step 5: Improve product descriptions</a></li>
+  <li><a href="#step-5-improve-product-descriptions-brian" id="toc-step-5-improve-product-descriptions-brian" class="nav-link" data-scroll-target="#step-5-improve-product-descriptions-brian"><span class="header-section-number">2.5</span> Step 5: Improve product descriptions (Brian)</a></li>
   <li><a href="#step-6-check-image-readiness" id="toc-step-6-check-image-readiness" class="nav-link" data-scroll-target="#step-6-check-image-readiness"><span class="header-section-number">2.6</span> Step 6: Check image readiness</a></li>
   <li><a href="#step-7-identify-feed-quality-concerns" id="toc-step-7-identify-feed-quality-concerns" class="nav-link" data-scroll-target="#step-7-identify-feed-quality-concerns"><span class="header-section-number">2.7</span> Step 7: Identify feed-quality concerns</a></li>
   <li><a href="#step-8-explain-retail-media-strategy" id="toc-step-8-explain-retail-media-strategy" class="nav-link" data-scroll-target="#step-8-explain-retail-media-strategy"><span class="header-section-number">2.8</span> Step 8: Explain retail-media strategy</a></li>
@@ -2203,7 +2238,7 @@ vertical-align: -.125em;
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Name 1, Name 2, Name 3, Name 4, Name 5 </p>
+             <p>Brian V, Ron S, Name 3, Name 4, Name 5 </p>
           </div>
   </div>
     
@@ -2243,15 +2278,274 @@ vertical-align: -.125em;
 <section id="step-3-create-product-feed-fields" class="level3" data-number="2.3">
 <h3 data-number="2.3" class="anchored" data-anchor-id="step-3-create-product-feed-fields"><span class="header-section-number">2.3</span> Step 3: Create product feed fields</h3>
 <p>Your product feed should include relevant fields such as: * Product ID * Product title * Product description * Price * Availability * Product category * Product type * Brand * Condition * Image link or image recommendation * Landing page URL * Shipping or pickup information * Promotion message * Custom label, if useful</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tibble)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Create the product feed dataset</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>product_feed <span class="ot">&lt;-</span> tibble<span class="sc">::</span><span class="fu">tribble</span>(</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="sc">~</span><span class="st">`</span><span class="at">Product ID</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Product title</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Product description</span><span class="st">`</span>, <span class="sc">~</span>Price, <span class="sc">~</span>Availability, <span class="sc">~</span><span class="st">`</span><span class="at">Product category</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Product type</span><span class="st">`</span>, <span class="sc">~</span>Brand, <span class="sc">~</span>Condition, <span class="sc">~</span><span class="st">`</span><span class="at">Image link or image recommendation</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Landing page URL</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Shipping or pickup information</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Promotion message</span><span class="st">`</span>, <span class="sc">~</span><span class="st">`</span><span class="at">Custom label, if useful</span><span class="st">`</span>,</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-001&quot;</span>, <span class="st">&quot;Gourmet Fruit and Preserve Basket&quot;</span>, <span class="st">&quot;A premium selection of seasonal fresh fruits paired with artisan fruit preserves.&quot;</span>, <span class="st">&quot;85.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Fruit &amp; Preserve Basket&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/gourmet-fruit-preserve.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/gourmet-fruit-preserve&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Best Seller&quot;</span>,</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-002&quot;</span>, <span class="st">&quot;Preserve and Honey Gift Basket&quot;</span>, <span class="st">&quot;Hand-crafted fruit preserves and raw, organic local honey in a rustic basket.&quot;</span>, <span class="st">&quot;65.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Preserve &amp; Honey Basket&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/preserve-honey.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/preserve-honey&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Gift Idea&quot;</span>,</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-003&quot;</span>, <span class="st">&quot;Heritage Apple Basket&quot;</span>, <span class="st">&quot;A curated mix of heirloom apple varieties, hand-picked from our oldest orchards.&quot;</span>, <span class="st">&quot;45.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Fresh Fruit&quot;</span>, <span class="st">&quot;Fresh Fruit Basket&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/heritage-apple.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/heritage-apple&quot;</span>, <span class="st">&quot;In-store pickup available&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Seasonal&quot;</span>,</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-004&quot;</span>, <span class="st">&quot;Orchard Pear Box&quot;</span>, <span class="st">&quot;Sweet and juicy orchard-fresh pears elegantly packed in a wooden gift box.&quot;</span>, <span class="st">&quot;50.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Fresh Fruit&quot;</span>, <span class="st">&quot;Fresh Fruit Box&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/orchard-pear.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/orchard-pear&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Seasonal&quot;</span>,</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-005&quot;</span>, <span class="st">&quot;Farmhouse Preserve Trio&quot;</span>, <span class="st">&quot;Three of our most popular traditional farmhouse jams in a beautiful gift set.&quot;</span>, <span class="st">&quot;35.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies&quot;</span>, <span class="st">&quot;Preserve Trio&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/farmhouse-trio.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/farmhouse-trio&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Bundle&quot;</span>,</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-006&quot;</span>, <span class="st">&quot;Citrus and Jam Crate&quot;</span>, <span class="st">&quot;Bright seasonal citrus fruits combined with our signature marmalades and jams.&quot;</span>, <span class="st">&quot;70.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Fruit &amp; Jam Crate&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/citrus-jam-crate.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/citrus-jam-crate&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Winter Special&quot;</span>,</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-007&quot;</span>, <span class="st">&quot;Dried Fruit and Jam&quot;</span>, <span class="st">&quot;A savory and sweet combination of sun-dried fruits and classic fruit jams.&quot;</span>, <span class="st">&quot;40.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Dried Fruit &amp; Jam&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/dried-fruit-jam.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/dried-fruit-jam&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Pantry Staple&quot;</span>,</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-008&quot;</span>, <span class="st">&quot;Berry Patch Sampler&quot;</span>, <span class="st">&quot;A collection of our finest summer berry jams, jellies, and fresh berry assortments.&quot;</span>, <span class="st">&quot;55.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Berry Gift Set&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/berry-patch.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/berry-patch&quot;</span>, <span class="st">&quot;In-store pickup available&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Summer Special&quot;</span>,</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-009&quot;</span>, <span class="st">&quot;Gourmet Fig Spread Trio&quot;</span>, <span class="st">&quot;A decadent trio of artisanal fig spreads, perfect for charcuterie and cheese boards.&quot;</span>, <span class="st">&quot;30.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies&quot;</span>, <span class="st">&quot;Fig Spread Trio&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/fig-spread-trio.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/fig-spread-trio&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Bundle&quot;</span>,</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-010&quot;</span>, <span class="st">&quot;Stone Fruit Preserve Crate&quot;</span>, <span class="st">&quot;A beautiful crate featuring peach, plum, and apricot preserves from our summer harvest.&quot;</span>, <span class="st">&quot;75.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Preserve Crate&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/stone-fruit-crate.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/stone-fruit-crate&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;10% off with code FRESH10&quot;</span>, <span class="st">&quot;Summer Special&quot;</span>,</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-011&quot;</span>, <span class="st">&quot;Signature Orchard Basket&quot;</span>, <span class="st">&quot;Our ultimate collection of fresh fruits, raw honey, and assorted artisan preserves.&quot;</span>, <span class="st">&quot;120.00 USD&quot;</span>, <span class="st">&quot;in stock&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets&quot;</span>, <span class="st">&quot;Large Gift Basket&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/signature-orchard.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/signature-orchard&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;Complimentary greeting card included&quot;</span>, <span class="st">&quot;Premium&quot;</span>,</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>  <span class="st">&quot;SKU-012&quot;</span>, <span class="st">&quot;Limited Run Fig Conserve&quot;</span>, <span class="st">&quot;An exclusive, small-batch fig conserve made with fresh walnuts and citrus zest.&quot;</span>, <span class="st">&quot;25.00 USD&quot;</span>, <span class="st">&quot;limited availability&quot;</span>, <span class="st">&quot;Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies&quot;</span>, <span class="st">&quot;Limited Edition Conserve&quot;</span>, <span class="st">&quot;Orchard Heritage&quot;</span>, <span class="st">&quot;new&quot;</span>, <span class="st">&quot;https://example.com/img/fig-conserve.jpg&quot;</span>, <span class="st">&quot;https://example.com/shop/fig-conserve&quot;</span>, <span class="st">&quot;Free standard shipping&quot;</span>, <span class="st">&quot;Limit 2 per customer&quot;</span>, <span class="st">&quot;Limited Edition&quot;</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="co"># Render as a markdown table in Quarto</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(product_feed)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<colgroup>
+<col style="width: 2%">
+<col style="width: 6%">
+<col style="width: 18%">
+<col style="width: 2%">
+<col style="width: 4%">
+<col style="width: 16%">
+<col style="width: 5%">
+<col style="width: 3%">
+<col style="width: 2%">
+<col style="width: 10%">
+<col style="width: 9%">
+<col style="width: 6%">
+<col style="width: 7%">
+<col style="width: 4%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Product ID</th>
+<th style="text-align: left;">Product title</th>
+<th style="text-align: left;">Product description</th>
+<th style="text-align: left;">Price</th>
+<th style="text-align: left;">Availability</th>
+<th style="text-align: left;">Product category</th>
+<th style="text-align: left;">Product type</th>
+<th style="text-align: left;">Brand</th>
+<th style="text-align: left;">Condition</th>
+<th style="text-align: left;">Image link or image recommendation</th>
+<th style="text-align: left;">Landing page URL</th>
+<th style="text-align: left;">Shipping or pickup information</th>
+<th style="text-align: left;">Promotion message</th>
+<th style="text-align: left;">Custom label, if useful</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">SKU-001</td>
+<td style="text-align: left;">Gourmet Fruit and Preserve Basket</td>
+<td style="text-align: left;">A premium selection of seasonal fresh fruits paired with artisan fruit preserves.</td>
+<td style="text-align: left;">85.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Fruit &amp; Preserve Basket</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/gourmet-fruit-preserve.jpg</td>
+<td style="text-align: left;">https://example.com/shop/gourmet-fruit-preserve</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Best Seller</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-002</td>
+<td style="text-align: left;">Preserve and Honey Gift Basket</td>
+<td style="text-align: left;">Hand-crafted fruit preserves and raw, organic local honey in a rustic basket.</td>
+<td style="text-align: left;">65.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Preserve &amp; Honey Basket</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/preserve-honey.jpg</td>
+<td style="text-align: left;">https://example.com/shop/preserve-honey</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Gift Idea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SKU-003</td>
+<td style="text-align: left;">Heritage Apple Basket</td>
+<td style="text-align: left;">A curated mix of heirloom apple varieties, hand-picked from our oldest orchards.</td>
+<td style="text-align: left;">45.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Fresh Fruit</td>
+<td style="text-align: left;">Fresh Fruit Basket</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/heritage-apple.jpg</td>
+<td style="text-align: left;">https://example.com/shop/heritage-apple</td>
+<td style="text-align: left;">In-store pickup available</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Seasonal</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-004</td>
+<td style="text-align: left;">Orchard Pear Box</td>
+<td style="text-align: left;">Sweet and juicy orchard-fresh pears elegantly packed in a wooden gift box.</td>
+<td style="text-align: left;">50.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Fresh Fruit</td>
+<td style="text-align: left;">Fresh Fruit Box</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/orchard-pear.jpg</td>
+<td style="text-align: left;">https://example.com/shop/orchard-pear</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Seasonal</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SKU-005</td>
+<td style="text-align: left;">Farmhouse Preserve Trio</td>
+<td style="text-align: left;">Three of our most popular traditional farmhouse jams in a beautiful gift set.</td>
+<td style="text-align: left;">35.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies</td>
+<td style="text-align: left;">Preserve Trio</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/farmhouse-trio.jpg</td>
+<td style="text-align: left;">https://example.com/shop/farmhouse-trio</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Bundle</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-006</td>
+<td style="text-align: left;">Citrus and Jam Crate</td>
+<td style="text-align: left;">Bright seasonal citrus fruits combined with our signature marmalades and jams.</td>
+<td style="text-align: left;">70.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Fruit &amp; Jam Crate</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/citrus-jam-crate.jpg</td>
+<td style="text-align: left;">https://example.com/shop/citrus-jam-crate</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Winter Special</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SKU-007</td>
+<td style="text-align: left;">Dried Fruit and Jam</td>
+<td style="text-align: left;">A savory and sweet combination of sun-dried fruits and classic fruit jams.</td>
+<td style="text-align: left;">40.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Dried Fruit &amp; Jam</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/dried-fruit-jam.jpg</td>
+<td style="text-align: left;">https://example.com/shop/dried-fruit-jam</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Pantry Staple</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-008</td>
+<td style="text-align: left;">Berry Patch Sampler</td>
+<td style="text-align: left;">A collection of our finest summer berry jams, jellies, and fresh berry assortments.</td>
+<td style="text-align: left;">55.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Berry Gift Set</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/berry-patch.jpg</td>
+<td style="text-align: left;">https://example.com/shop/berry-patch</td>
+<td style="text-align: left;">In-store pickup available</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Summer Special</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SKU-009</td>
+<td style="text-align: left;">Gourmet Fig Spread Trio</td>
+<td style="text-align: left;">A decadent trio of artisanal fig spreads, perfect for charcuterie and cheese boards.</td>
+<td style="text-align: left;">30.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies</td>
+<td style="text-align: left;">Fig Spread Trio</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/fig-spread-trio.jpg</td>
+<td style="text-align: left;">https://example.com/shop/fig-spread-trio</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Bundle</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-010</td>
+<td style="text-align: left;">Stone Fruit Preserve Crate</td>
+<td style="text-align: left;">A beautiful crate featuring peach, plum, and apricot preserves from our summer harvest.</td>
+<td style="text-align: left;">75.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Preserve Crate</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/stone-fruit-crate.jpg</td>
+<td style="text-align: left;">https://example.com/shop/stone-fruit-crate</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">10% off with code FRESH10</td>
+<td style="text-align: left;">Summer Special</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SKU-011</td>
+<td style="text-align: left;">Signature Orchard Basket</td>
+<td style="text-align: left;">Our ultimate collection of fresh fruits, raw honey, and assorted artisan preserves.</td>
+<td style="text-align: left;">120.00 USD</td>
+<td style="text-align: left;">in stock</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Food Gift Baskets</td>
+<td style="text-align: left;">Large Gift Basket</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/signature-orchard.jpg</td>
+<td style="text-align: left;">https://example.com/shop/signature-orchard</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">Complimentary greeting card included</td>
+<td style="text-align: left;">Premium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SKU-012</td>
+<td style="text-align: left;">Limited Run Fig Conserve</td>
+<td style="text-align: left;">An exclusive, small-batch fig conserve made with fresh walnuts and citrus zest.</td>
+<td style="text-align: left;">25.00 USD</td>
+<td style="text-align: left;">limited availability</td>
+<td style="text-align: left;">Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces &gt; Jams &amp; Jellies</td>
+<td style="text-align: left;">Limited Edition Conserve</td>
+<td style="text-align: left;">Orchard Heritage</td>
+<td style="text-align: left;">new</td>
+<td style="text-align: left;">https://example.com/img/fig-conserve.jpg</td>
+<td style="text-align: left;">https://example.com/shop/fig-conserve</td>
+<td style="text-align: left;">Free standard shipping</td>
+<td style="text-align: left;">Limit 2 per customer</td>
+<td style="text-align: left;">Limited Edition</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 </section>
 <section id="step-4-improve-product-titles" class="level3" data-number="2.4">
 <h3 data-number="2.4" class="anchored" data-anchor-id="step-4-improve-product-titles"><span class="header-section-number">2.4</span> Step 4: Improve product titles</h3>
 <p>Product titles should be clear, searchable, and customer-friendly. * <strong>Weak title example:</strong> Jam * <strong>Better title example:</strong> CPP Farm Store Strawberry Jam, 12 oz</p>
 <p>Good product titles often include: * Brand or store name * Product type * Key attribute * Size, flavor, or quantity * Seasonal or local relevance, if appropriate</p>
 </section>
-<section id="step-5-improve-product-descriptions" class="level3" data-number="2.5">
-<h3 data-number="2.5" class="anchored" data-anchor-id="step-5-improve-product-descriptions"><span class="header-section-number">2.5</span> Step 5: Improve product descriptions</h3>
+<section id="step-5-improve-product-descriptions-brian" class="level3" data-number="2.5">
+<h3 data-number="2.5" class="anchored" data-anchor-id="step-5-improve-product-descriptions-brian"><span class="header-section-number">2.5</span> Step 5: Improve product descriptions (Brian)</h3>
 <p>Descriptions should help customers understand value. Strong descriptions may include: * What the product is * Key benefits or features * Suggested use * Local or seasonal relevance * Pickup or availability note * Gift or bundle potential</p>
+<p><strong>1. CPP Farm Store Local Gift Basket</strong> * <strong>What the product is:</strong> A carefully curated collection of premium CPP Farm Store favorites, beautifully packaged and ready to give. * <strong>Key benefits or features:</strong> Takes the guesswork out of gifting by offering a high-quality, pre-arranged selection of farm-fresh and artisanal goods. * <strong>Suggested use:</strong> Perfect for corporate gifts, holiday presents, or a thoughtful “thank you” for friends, family, and professors. * <strong>Local or seasonal relevance:</strong> Features seasonal jams, snacks, and treats crafted by Cal Poly Pomona students and local artisans. * <strong>Gift or bundle potential:</strong> Acts as a complete gift bundle in itself, but pairs wonderfully with a CPP greeting card or a fresh campus floral arrangement. * <strong>Pickup or availability note:</strong> Available for convenient in-store pickup (pre-order recommended during busy holiday seasons). * <strong>Final Feed Description:</strong> &gt; “Share the best of the farm with the CPP Farm Store Local Gift Basket. This beautifully packaged collection features premium, seasonal treats and jams crafted by Cal Poly Pomona students and local artisans. Perfect for holiday presents, corporate gifting, or a thoughtful ‘thank you,’ this curated box takes the guesswork out of giving. Pair it with a local greeting card for the ultimate farm-to-table gift. Available now for in-store pickup at the Cal Poly Pomona Farm Store (pre-ordering is recommended during the holidays).”</p>
+<p><strong>2. CPP Campus Apiary Raw Honey (16 oz)</strong> * <strong>What the product is:</strong> Pure, raw, and unfiltered local honey in a classic 16 oz glass jar. * <strong>Key benefits or features:</strong> Offers a rich, natural sweetness and preserves the natural pollen and enzymes missing from commercial honeys. * <strong>Suggested use:</strong> Ideal for sweetening hot tea, drizzling over morning yogurt and granola, or elevating your baking recipes. * <strong>Local or seasonal relevance:</strong> Harvested directly from the Cal Poly Pomona campus apiary, offering a true taste of the local flora. * <strong>Gift or bundle potential:</strong> An excellent addition to any gift basket; pairs perfectly with our farm-fresh fruit or herbal tea selections. * <strong>Pickup or availability note:</strong> Available for quick grab-and-go in-store pickup. * <strong>Final Feed Description:</strong> &gt; “Taste the local landscape with our CPP Campus Apiary Raw Honey (16 oz). Harvested directly from the Cal Poly Pomona campus apiary, this pure, unfiltered honey preserves the natural pollen and rich flavors you won’t find in commercial alternatives. It is the perfect natural sweetener for hot teas, drizzling over yogurt, or elevating your favorite baking recipes. Bundle it with our herbal teas or fresh fruit for a sweet local gift. Available today for grab-and-go in-store pickup.”</p>
+<p><strong>3. CPP Seasonal Fresh Produce Box</strong> * <strong>What the product is:</strong> A mixed, pre-packed box of seasonal, freshly harvested vegetables and fruits. * <strong>Key benefits or features:</strong> Provides convenient variety, ultimate farm-to-table freshness, and supports sustainable campus agriculture. * <strong>Suggested use:</strong> Great for weekly meal prepping, fresh juicing, or inspiring new seasonal culinary creations at home. * <strong>Local or seasonal relevance:</strong> Contents rotate weekly to feature exactly what is currently in season and growing on the CPP campus farm. * <strong>Gift or bundle potential:</strong> Makes a fantastic, healthy care package for students, or can be bundled with a jar of our campus honey. * <strong>Pickup or availability note:</strong> Order online for scheduled weekly in-store pickup. * <strong>Final Feed Description:</strong> &gt; “Bring the harvest directly to your kitchen with the CPP Seasonal Fresh Produce Box. This mixed box is packed with the freshest vegetables and fruits, rotating weekly to feature exactly what is currently in season on the Cal Poly Pomona campus farm. Supporting sustainable agriculture, this box offers incredible farm-to-table freshness that is perfect for weekly meal prepping, juicing, or healthy snacking. It also makes a wonderful, healthy care package for local students! Order online today for your scheduled weekly in-store pickup.”</p>
 </section>
 <section id="step-6-check-image-readiness" class="level3" data-number="2.6">
 <h3 data-number="2.6" class="anchored" data-anchor-id="step-6-check-image-readiness"><span class="header-section-number">2.6</span> Step 6: Check image readiness</h3>
@@ -2264,7 +2558,11 @@ vertical-align: -.125em;
 </section>
 <section id="step-8-explain-retail-media-strategy" class="level3" data-number="2.8">
 <h3 data-number="2.8" class="anchored" data-anchor-id="step-8-explain-retail-media-strategy"><span class="header-section-number">2.8</span> Step 8: Explain retail-media strategy</h3>
-<p>Your group should briefly explain how this product feed supports the campaign plan. For example: * Which products should be promoted first? * Which products are best for seasonal campaigns? * Which products are best for gift buyers? * Which products may attract students? * Which products connect to store pickup or local shopping?</p>
+<p>This product feed supports the campaign plan by giving each product a distinct role rather than promoting all three equally.</p>
+<p>The <strong>CPP Campus Apiary Raw Honey</strong> should be promoted first. It’s low-cost, grab-and-go, and has the clearest local story of the three — making it the easiest entry point for someone discovering the store through Google Shopping for the first time, and the best product for building initial search relevance before layering in the others.</p>
+<p>The <strong>CPP Seasonal Fresh Produce Box</strong> is best suited for seasonal and recurring campaigns, since its entire appeal is built around what’s currently in season on campus. This makes it a natural fit for retargeting ads and ongoing email/social content that gives customers a reason to keep coming back week after week, rather than a one-time purchase.</p>
+<p>The <strong>CPP Farm Store Local Gift Basket</strong> is the clearest fit for gift buyers, with the highest price point of the three and a pre-curated format that removes decision fatigue. This is the product to prioritize around key gifting windows — finals week, graduation, and holidays — where a pre-order/pickup model helps address the fulfillment friction our group identified earlier.</p>
+<p>Together, the three products cover three different campaign goals — acquisition (Honey), retention (Produce Box), and high-value occasions (Gift Basket) — rather than competing for the same customer at the same time.</p>
 </section>
 </section>
 

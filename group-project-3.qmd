@@ -36,6 +36,37 @@ Choose a focused set of products from your Shopify mini-store. Suggested number:
 
 Your product feed should include relevant fields such as: \* Product ID \* Product title \* Product description \* Price \* Availability \* Product category \* Product type \* Brand \* Condition \* Image link or image recommendation \* Landing page URL \* Shipping or pickup information \* Promotion message \* Custom label, if useful
 
+```{r}
+#| label: product-feed-data
+#| message: false
+#| warning: false
+
+library(tibble)
+library(knitr)
+
+# Create the product feed dataset
+product_feed <- tibble::tribble(
+  ~`Product ID`, ~`Product title`, ~`Product description`, ~Price, ~Availability, ~`Product category`, ~`Product type`, ~Brand, ~Condition, ~`Image link or image recommendation`, ~`Landing page URL`, ~`Shipping or pickup information`, ~`Promotion message`, ~`Custom label, if useful`,
+  "SKU-001", "Gourmet Fruit and Preserve Basket", "A premium selection of seasonal fresh fruits paired with artisan fruit preserves.", "85.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Fruit & Preserve Basket", "Orchard Heritage", "new", "https://example.com/img/gourmet-fruit-preserve.jpg", "https://example.com/shop/gourmet-fruit-preserve", "Free standard shipping", "10% off with code FRESH10", "Best Seller",
+  "SKU-002", "Preserve and Honey Gift Basket", "Hand-crafted fruit preserves and raw, organic local honey in a rustic basket.", "65.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Preserve & Honey Basket", "Orchard Heritage", "new", "https://example.com/img/preserve-honey.jpg", "https://example.com/shop/preserve-honey", "Free standard shipping", "10% off with code FRESH10", "Gift Idea",
+  "SKU-003", "Heritage Apple Basket", "A curated mix of heirloom apple varieties, hand-picked from our oldest orchards.", "45.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Fresh Fruit", "Fresh Fruit Basket", "Orchard Heritage", "new", "https://example.com/img/heritage-apple.jpg", "https://example.com/shop/heritage-apple", "In-store pickup available", "10% off with code FRESH10", "Seasonal",
+  "SKU-004", "Orchard Pear Box", "Sweet and juicy orchard-fresh pears elegantly packed in a wooden gift box.", "50.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Fresh Fruit", "Fresh Fruit Box", "Orchard Heritage", "new", "https://example.com/img/orchard-pear.jpg", "https://example.com/shop/orchard-pear", "Free standard shipping", "10% off with code FRESH10", "Seasonal",
+  "SKU-005", "Farmhouse Preserve Trio", "Three of our most popular traditional farmhouse jams in a beautiful gift set.", "35.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Preserve Trio", "Orchard Heritage", "new", "https://example.com/img/farmhouse-trio.jpg", "https://example.com/shop/farmhouse-trio", "Free standard shipping", "10% off with code FRESH10", "Bundle",
+  "SKU-006", "Citrus and Jam Crate", "Bright seasonal citrus fruits combined with our signature marmalades and jams.", "70.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Fruit & Jam Crate", "Orchard Heritage", "new", "https://example.com/img/citrus-jam-crate.jpg", "https://example.com/shop/citrus-jam-crate", "Free standard shipping", "10% off with code FRESH10", "Winter Special",
+  "SKU-007", "Dried Fruit and Jam", "A savory and sweet combination of sun-dried fruits and classic fruit jams.", "40.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Dried Fruit & Jam", "Orchard Heritage", "new", "https://example.com/img/dried-fruit-jam.jpg", "https://example.com/shop/dried-fruit-jam", "Free standard shipping", "10% off with code FRESH10", "Pantry Staple",
+  "SKU-008", "Berry Patch Sampler", "A collection of our finest summer berry jams, jellies, and fresh berry assortments.", "55.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Berry Gift Set", "Orchard Heritage", "new", "https://example.com/img/berry-patch.jpg", "https://example.com/shop/berry-patch", "In-store pickup available", "10% off with code FRESH10", "Summer Special",
+  "SKU-009", "Gourmet Fig Spread Trio", "A decadent trio of artisanal fig spreads, perfect for charcuterie and cheese boards.", "30.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Fig Spread Trio", "Orchard Heritage", "new", "https://example.com/img/fig-spread-trio.jpg", "https://example.com/shop/fig-spread-trio", "Free standard shipping", "10% off with code FRESH10", "Bundle",
+  "SKU-010", "Stone Fruit Preserve Crate", "A beautiful crate featuring peach, plum, and apricot preserves from our summer harvest.", "75.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Preserve Crate", "Orchard Heritage", "new", "https://example.com/img/stone-fruit-crate.jpg", "https://example.com/shop/stone-fruit-crate", "Free standard shipping", "10% off with code FRESH10", "Summer Special",
+  "SKU-011", "Signature Orchard Basket", "Our ultimate collection of fresh fruits, raw honey, and assorted artisan preserves.", "120.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Large Gift Basket", "Orchard Heritage", "new", "https://example.com/img/signature-orchard.jpg", "https://example.com/shop/signature-orchard", "Free standard shipping", "Complimentary greeting card included", "Premium",
+  "SKU-012", "Limited Run Fig Conserve", "An exclusive, small-batch fig conserve made with fresh walnuts and citrus zest.", "25.00 USD", "limited availability", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Limited Edition Conserve", "Orchard Heritage", "new", "https://example.com/img/fig-conserve.jpg", "https://example.com/shop/fig-conserve", "Free standard shipping", "Limit 2 per customer", "Limited Edition"
+)
+
+# Render as a markdown table in Quarto
+kable(product_feed)
+
+
+```
+
 ### Step 4: Improve product titles
 
 Product titles should be clear, searchable, and customer-friendly. \* **Weak title example:** Jam \* **Better title example:** CPP Farm Store Strawberry Jam, 12 oz
