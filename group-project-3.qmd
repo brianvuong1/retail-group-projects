@@ -1,6 +1,6 @@
 ---
 title: "GP3: Product Feed and Retail Media Setup"
-author: "Brian V, Ron S, Name 3, Name 4, Name 5"
+author: "Brian V, Ron S, Name 3, Name 4, Sandy Qian Zhu"
 date: today
 format: 
   html: 
@@ -63,11 +63,22 @@ kable(product_feed)
 
 ```
 
-### Step 4: Improve product titles
+### Step 4: Improve product titles The product titles were improved by adding the CPP Farm Store brand name and descriptive keywords. The updated titles are more searchable, customer-friendly, and optimized for Google Merchant Center and Google Shopping.
 
-Product titles should be clear, searchable, and customer-friendly. \* **Weak title example:** Jam \* **Better title example:** CPP Farm Store Strawberry Jam, 12 oz
-
-Good product titles often include: \* Brand or store name \* Product type \* Key attribute \* Size, flavor, or quantity \* Seasonal or local relevance, if appropriate
+| SKU | Original Title | Improved Title |
+|------|----------------|----------------|
+| SKU-001 | Gourmet Fruit and Preserve Basket | CPP Farm Store Gourmet Fruit & Preserve Gift Basket |
+| SKU-002 | Preserve and Honey Gift Basket | CPP Farm Store Local Honey & Preserve Gift Basket |
+| SKU-003 | Heritage Apple Basket | CPP Farm Store Fresh Heritage Apple Basket |
+| SKU-004 | Orchard Pear Box | CPP Farm Store Fresh Pear Gift Box |
+| SKU-005 | Farmhouse Preserve Trio | CPP Farm Store Farmhouse Preserve Trio – Artisan Fruit Jams |
+| SKU-006 | Citrus and Jam Crate | CPP Farm Store Citrus & Jam Gift Crate |
+| SKU-007 | Dried Fruit and Jam | CPP Farm Store Dried Fruit & Jam Gift Set |
+| SKU-008 | Berry Patch Sampler | CPP Farm Store Berry Patch Sampler – Fresh Berries & Homemade Jams |
+| SKU-009 | Gourmet Fig Spread Trio | CPP Farm Store Gourmet Fig Spread Trio |
+| SKU-010 | Stone Fruit Preserve Crate | CPP Farm Store Stone Fruit Preserve Crate |
+| SKU-011 | Signature Orchard Basket | CPP Farm Store Signature Orchard Gift Basket |
+| SKU-012 | Limited Run Fig Conserve | CPP Farm Store Limited Edition Fig Conserve |
 
 ### Step 5: Improve product descriptions (Brian)
 
