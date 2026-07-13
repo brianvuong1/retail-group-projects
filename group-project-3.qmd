@@ -1,6 +1,6 @@
 ---
 title: "GP3: Product Feed and Retail Media Setup"
-author: "Brian V, Name 2, Name 3, Name 4, Name 5"
+author: "Brian V, Ron S, Name 3, Name 4, Name 5"
 date: today
 format: 
   html: 
@@ -88,4 +88,12 @@ For each product, identify potential problems such as: \* Missing product image 
 
 ### Step 8: Explain retail-media strategy
 
-Your group should briefly explain how this product feed supports the campaign plan. For example: \* Which products should be promoted first? \* Which products are best for seasonal campaigns? \* Which products are best for gift buyers? \* Which products may attract students? \* Which products connect to store pickup or local shopping?
+This product feed supports the campaign plan by giving each product a distinct role rather than promoting all three equally.
+
+The **CPP Campus Apiary Raw Honey** should be promoted first. It's low-cost, grab-and-go, and has the clearest local story of the three — making it the easiest entry point for someone discovering the store through Google Shopping for the first time, and the best product for building initial search relevance before layering in the others.
+
+The **CPP Seasonal Fresh Produce Box** is best suited for seasonal and recurring campaigns, since its entire appeal is built around what's currently in season on campus. This makes it a natural fit for retargeting ads and ongoing email/social content that gives customers a reason to keep coming back week after week, rather than a one-time purchase.
+
+The **CPP Farm Store Local Gift Basket** is the clearest fit for gift buyers, with the highest price point of the three and a pre-curated format that removes decision fatigue. This is the product to prioritize around key gifting windows — finals week, graduation, and holidays — where a pre-order/pickup model helps address the fulfillment friction our group identified earlier.
+
+Together, the three products cover three different campaign goals — acquisition (Honey), retention (Produce Box), and high-value occasions (Gift Basket) — rather than competing for the same customer at the same time.
