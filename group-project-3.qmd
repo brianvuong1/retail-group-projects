@@ -77,35 +77,17 @@ Good product titles often include: \* Brand or store name \* Product type \* Key
 
 Descriptions should help customers understand value. Strong descriptions may include: \* What the product is \* Key benefits or features \* Suggested use \* Local or seasonal relevance \* Pickup or availability note \* Gift or bundle potential
 
-**1. CPP Farm Store Local Gift Basket**
-* **What the product is:** A carefully curated collection of premium CPP Farm Store favorites, beautifully packaged and ready to give.
-* **Key benefits or features:** Takes the guesswork out of gifting by offering a high-quality, pre-arranged selection of farm-fresh and artisanal goods.
-* **Suggested use:** Perfect for corporate gifts, holiday presents, or a thoughtful "thank you" for friends, family, and professors.
-* **Local or seasonal relevance:** Features seasonal jams, snacks, and treats crafted by Cal Poly Pomona students and local artisans.
-* **Gift or bundle potential:** Acts as a complete gift bundle in itself, but pairs wonderfully with a CPP greeting card or a fresh campus floral arrangement.
-* **Pickup or availability note:** Available for convenient in-store pickup (pre-order recommended during busy holiday seasons).
-* **Final Feed Description:** 
-> "Share the best of the farm with the CPP Farm Store Local Gift Basket. This beautifully packaged collection features premium, seasonal treats and jams crafted by Cal Poly Pomona students and local artisans. Perfect for holiday presents, corporate gifting, or a thoughtful 'thank you,' this curated box takes the guesswork out of giving. Pair it with a local greeting card for the ultimate farm-to-table gift. Available now for in-store pickup at the Cal Poly Pomona Farm Store (pre-ordering is recommended during the holidays)."
 
-**2. CPP Campus Apiary Raw Honey (16 oz)**
-* **What the product is:** Pure, raw, and unfiltered local honey in a classic 16 oz glass jar.
-* **Key benefits or features:** Offers a rich, natural sweetness and preserves the natural pollen and enzymes missing from commercial honeys.
-* **Suggested use:** Ideal for sweetening hot tea, drizzling over morning yogurt and granola, or elevating your baking recipes.
-* **Local or seasonal relevance:** Harvested directly from the Cal Poly Pomona campus apiary, offering a true taste of the local flora.
-* **Gift or bundle potential:** An excellent addition to any gift basket; pairs perfectly with our farm-fresh fruit or herbal tea selections.
-* **Pickup or availability note:** Available for quick grab-and-go in-store pickup.
-* **Final Feed Description:** 
-> "Taste the local landscape with our CPP Campus Apiary Raw Honey (16 oz). Harvested directly from the Cal Poly Pomona campus apiary, this pure, unfiltered honey preserves the natural pollen and rich flavors you won't find in commercial alternatives. It is the perfect natural sweetener for hot teas, drizzling over yogurt, or elevating your favorite baking recipes. Bundle it with our herbal teas or fresh fruit for a sweet local gift. Available today for grab-and-go in-store pickup."
+## Product Feed Data
 
-**3. CPP Seasonal Fresh Produce Box**
-* **What the product is:** A mixed, pre-packed box of seasonal, freshly harvested vegetables and fruits.
-* **Key benefits or features:** Provides convenient variety, ultimate farm-to-table freshness, and supports sustainable campus agriculture.
-* **Suggested use:** Great for weekly meal prepping, fresh juicing, or inspiring new seasonal culinary creations at home.
-* **Local or seasonal relevance:** Contents rotate weekly to feature exactly what is currently in season and growing on the CPP campus farm.
-* **Gift or bundle potential:** Makes a fantastic, healthy care package for students, or can be bundled with a jar of our campus honey.
-* **Pickup or availability note:** Order online for scheduled weekly in-store pickup.
-* **Final Feed Description:** 
-> "Bring the harvest directly to your kitchen with the CPP Seasonal Fresh Produce Box. This mixed box is packed with the freshest vegetables and fruits, rotating weekly to feature exactly what is currently in season on the Cal Poly Pomona campus farm. Supporting sustainable agriculture, this box offers incredible farm-to-table freshness that is perfect for weekly meal prepping, juicing, or healthy snacking. It also makes a wonderful, healthy care package for local students! Order online today for your scheduled weekly in-store pickup."
+| Product ID | Product title | Product description | Price | Availability | Product category | Product type | Brand | Condition | Image link or image recommendation | Landing page URL | Shipping or pickup information | Promotion message | Custom label, if useful |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SKU-001** | Gourmet Fruit and Preserve Basket | A luxurious collection of hand-picked seasonal orchard fruits paired perfectly with our signature artisan fruit preserves. Ideal for corporate gifting or holiday family gatherings, this curated basket brings the taste of the local harvest straight to your table. Best enjoyed fresh as a centerpiece display. Available for free standard shipping or local orchard pickup. | 85.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Food Gift Baskets | Fruit & Preserve Basket | Orchard Heritage | new | Free standard shipping or local pickup | 10% off with code FRESH10 | Best Seller |
+| **SKU-003** | Heritage Apple Basket | A rustic wooden basket brimming with crisp, heirloom apple varieties hand-picked from our historic centennial orchards. Perfect for autumn baking, homemade cider, or pairing with sharp artisan cheeses, this limited seasonal harvest captures the authentic taste of tradition. Available for quick in-store pickup to ensure maximum freshness. | 45.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Fresh Fruit | Fresh Fruit Basket | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Seasonal |
+| **SKU-005** | Farmhouse Preserve Trio | A beautifully boxed bundle of our three most-loved, small-batch traditional farmhouse jams. Hand-crafted using locally sourced, ripe summer fruits, this set serves as an essential pantry upgrade and an effortless housewarming gift. Perfect for elevating your morning sourdough toast, spreading over warm biscuits, or pairing with afternoon tea. | 35.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies | Preserve Trio | Orchard Heritage | new | Free standard shipping | 10% off with code FRESH10 | Gift Bundle |
+| **SKU-008** | Berry Patch Sampler | Celebrate the peak of summer with this vibrant collection of our finest berry jams, jellies, and freshly harvested summer berries. A delightful gift for berry lovers, this sampler is perfect for topping buttermilk pancakes, mixing into morning yogurt bowls, or building a weekend brunch board. Reserve online for fresh local orchard pickup. | 55.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Food Gift Baskets | Berry Gift Set | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Summer Special |
+| **SKU-012** | Limited Run Fig Conserve | An exclusive, small-batch gourmet conserve featuring rich, jammy estate-grown figs slow-cooked with crunchy local walnuts and bright citrus zest. This limited-edition reserve instantly elevates any charcuterie board or premium cheese pairing. A sophisticated addition to holiday gift baskets; available only while supplies last this season. | 25.00 USD | limited availability | Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies | Limited Edition Conserve | Orchard Heritage | new | Free standard shipping | Limit 2 per customer | Limited Edition |
+
 
 ### Step 6: Check image readiness
 
