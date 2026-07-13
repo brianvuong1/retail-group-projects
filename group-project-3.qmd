@@ -1,0 +1,61 @@
+---
+title: "GP3: Product Feed and Retail Media Setup"
+author: "Name 1, Name 2, Name 3, Name 4, Name 5"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Key Question
+
+**How can CPP Farm Store prepare its product information for Google Merchant Center, Amazon Ads, or another retail-media channel?**
+
+## Step-by-Step Guidance
+
+### Step 1: Choose a retail-media or product-listing channel
+
+Your group should focus on at least one channel. Recommended options: \* Google Merchant Center \* Google Shopping / Shopping Ads \* Amazon listing logic \* Amazon Ads concept \* Another approved retail-media platform
+
+> **Note:** Google Merchant Center is recommended because it connects clearly to product feeds, product listings, search visibility, and ecommerce traffic.
+
+### Step 2: Select products
+
+Choose a focused set of products from your Shopify mini-store. Suggested number: \* **Minimum:** 5 products \* **Recommended:** 8–12 products
+
+*Choose products that make sense for online discovery or promotion.*
+
+### Step 3: Create product feed fields
+
+Your product feed should include relevant fields such as: \* Product ID \* Product title \* Product description \* Price \* Availability \* Product category \* Product type \* Brand \* Condition \* Image link or image recommendation \* Landing page URL \* Shipping or pickup information \* Promotion message \* Custom label, if useful
+
+### Step 4: Improve product titles
+
+Product titles should be clear, searchable, and customer-friendly. \* **Weak title example:** Jam \* **Better title example:** CPP Farm Store Strawberry Jam, 12 oz
+
+Good product titles often include: \* Brand or store name \* Product type \* Key attribute \* Size, flavor, or quantity \* Seasonal or local relevance, if appropriate
+
+### Step 5: Improve product descriptions
+
+Descriptions should help customers understand value. Strong descriptions may include: \* What the product is \* Key benefits or features \* Suggested use \* Local or seasonal relevance \* Pickup or availability note \* Gift or bundle potential
+
+### Step 6: Check image readiness
+
+Product images matter for ecommerce and retail media. Identify whether each product has: \* Clear image \* Accurate representation \* Good lighting \* Simple background \* Appropriate size or resolution \* No confusing text overlays \* Consistent style across products
+
+*If images are not available, describe what image would be needed.*
+
+### Step 7: Identify feed-quality concerns
+
+For each product, identify potential problems such as: \* Missing product image \* Incomplete description \* Unclear price \* Unclear availability \* No landing page \* Weak product title \* Product category uncertainty \* Missing brand information \* Shipping or pickup ambiguity
+
+### Step 8: Explain retail-media strategy
+
+Your group should briefly explain how this product feed supports the campaign plan. For example: \* Which products should be promoted first? \* Which products are best for seasonal campaigns? \* Which products are best for gift buyers? \* Which products may attract students? \* Which products connect to store pickup or local shopping?
