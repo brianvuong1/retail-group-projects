@@ -44,24 +44,20 @@ Your product feed should include relevant fields such as: \* Product ID \* Produ
 library(tibble)
 library(knitr)
 
-# Create the product feed dataset
 product_feed <- tibble::tribble(
-  ~`Product ID`, ~`Product title`, ~`Product description`, ~Price, ~Availability, ~`Product category`, ~`Product type`, ~Brand, ~Condition, ~`Image link or image recommendation`, ~`Landing page URL`, ~`Shipping or pickup information`, ~`Promotion message`, ~`Custom label, if useful`,
-  "SKU-001", "Gourmet Fruit and Preserve Basket", "A premium selection of seasonal fresh fruits paired with artisan fruit preserves.", "85.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Fruit & Preserve Basket", "Orchard Heritage", "new", "https://example.com/img/gourmet-fruit-preserve.jpg", "https://example.com/shop/gourmet-fruit-preserve", "Free standard shipping", "10% off with code FRESH10", "Best Seller",
-  "SKU-002", "Preserve and Honey Gift Basket", "Hand-crafted fruit preserves and raw, organic local honey in a rustic basket.", "65.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Preserve & Honey Basket", "Orchard Heritage", "new", "https://example.com/img/preserve-honey.jpg", "https://example.com/shop/preserve-honey", "Free standard shipping", "10% off with code FRESH10", "Gift Idea",
-  "SKU-003", "Heritage Apple Basket", "A curated mix of heirloom apple varieties, hand-picked from our oldest orchards.", "45.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Fresh Fruit", "Fresh Fruit Basket", "Orchard Heritage", "new", "https://example.com/img/heritage-apple.jpg", "https://example.com/shop/heritage-apple", "In-store pickup available", "10% off with code FRESH10", "Seasonal",
-  "SKU-004", "Orchard Pear Box", "Sweet and juicy orchard-fresh pears elegantly packed in a wooden gift box.", "50.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Fresh Fruit", "Fresh Fruit Box", "Orchard Heritage", "new", "https://example.com/img/orchard-pear.jpg", "https://example.com/shop/orchard-pear", "Free standard shipping", "10% off with code FRESH10", "Seasonal",
-  "SKU-005", "Farmhouse Preserve Trio", "Three of our most popular traditional farmhouse jams in a beautiful gift set.", "35.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Preserve Trio", "Orchard Heritage", "new", "https://example.com/img/farmhouse-trio.jpg", "https://example.com/shop/farmhouse-trio", "Free standard shipping", "10% off with code FRESH10", "Bundle",
-  "SKU-006", "Citrus and Jam Crate", "Bright seasonal citrus fruits combined with our signature marmalades and jams.", "70.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Fruit & Jam Crate", "Orchard Heritage", "new", "https://example.com/img/citrus-jam-crate.jpg", "https://example.com/shop/citrus-jam-crate", "Free standard shipping", "10% off with code FRESH10", "Winter Special",
-  "SKU-007", "Dried Fruit and Jam", "A savory and sweet combination of sun-dried fruits and classic fruit jams.", "40.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Dried Fruit & Jam", "Orchard Heritage", "new", "https://example.com/img/dried-fruit-jam.jpg", "https://example.com/shop/dried-fruit-jam", "Free standard shipping", "10% off with code FRESH10", "Pantry Staple",
-  "SKU-008", "Berry Patch Sampler", "A collection of our finest summer berry jams, jellies, and fresh berry assortments.", "55.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Berry Gift Set", "Orchard Heritage", "new", "https://example.com/img/berry-patch.jpg", "https://example.com/shop/berry-patch", "In-store pickup available", "10% off with code FRESH10", "Summer Special",
-  "SKU-009", "Gourmet Fig Spread Trio", "A decadent trio of artisanal fig spreads, perfect for charcuterie and cheese boards.", "30.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Fig Spread Trio", "Orchard Heritage", "new", "https://example.com/img/fig-spread-trio.jpg", "https://example.com/shop/fig-spread-trio", "Free standard shipping", "10% off with code FRESH10", "Bundle",
-  "SKU-010", "Stone Fruit Preserve Crate", "A beautiful crate featuring peach, plum, and apricot preserves from our summer harvest.", "75.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Preserve Crate", "Orchard Heritage", "new", "https://example.com/img/stone-fruit-crate.jpg", "https://example.com/shop/stone-fruit-crate", "Free standard shipping", "10% off with code FRESH10", "Summer Special",
-  "SKU-011", "Signature Orchard Basket", "Our ultimate collection of fresh fruits, raw honey, and assorted artisan preserves.", "120.00 USD", "in stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Large Gift Basket", "Orchard Heritage", "new", "https://example.com/img/signature-orchard.jpg", "https://example.com/shop/signature-orchard", "Free standard shipping", "Complimentary greeting card included", "Premium",
-  "SKU-012", "Limited Run Fig Conserve", "An exclusive, small-batch fig conserve made with fresh walnuts and citrus zest.", "25.00 USD", "limited availability", "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies", "Limited Edition Conserve", "Orchard Heritage", "new", "https://example.com/img/fig-conserve.jpg", "https://example.com/shop/fig-conserve", "Free standard shipping", "Limit 2 per customer", "Limited Edition"
+~`Product ID`, ~`Product title`, ~`Product description`, ~Price, ~Availability, ~`Product category`, ~`Product type`, ~Brand, ~Condition, ~`Image link or image recommendation`, ~`Landing page URL`, ~`Shipping or pickup information`, ~`Promotion message`, ~`Custom label, if useful`,
+
+"SKU-001", "CPP Farm Store Local Gift Basket", "A curated gift basket featuring seasonal treats and locally produced farm products.", "$85.00", "In Stock", "Food, Beverages & Tobacco > Food Items > Food Gift Baskets", "Gift Basket", "CPP Farm Store", "New", "TBD", "TBD", "In-store Pickup Available", "Perfect for holidays and graduation gifts", "Gift Item",
+
+"SKU-002", "CPP Campus Apiary Raw Honey (16 oz)", "Pure, raw honey harvested directly from the Cal Poly Pomona campus apiary.", "$16.00", "In Stock", "Food, Beverages & Tobacco > Food Items > Honey", "Raw Honey", "CPP Farm Store", "New", "TBD", "TBD", "Grab-and-Go Pickup", "Locally harvested honey", "Local Favorite",
+
+"SKU-003", "CPP Seasonal Fresh Produce Box", "A weekly assortment of seasonal fruits and vegetables harvested from the CPP Farm.", "$30.00", "Seasonal", "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables", "Produce Box", "CPP Farm Store", "New", "TBD", "TBD", "Scheduled In-store Pickup", "Farm fresh every week", "Seasonal",
+
+"SKU-004", "CPP Strawberry Jam (12 oz)", "Fresh strawberry jam made from locally grown fruit.", "$9.99", "In Stock", "Food, Beverages & Tobacco > Food Items > Jams & Jellies", "Jam", "CPP Farm Store", "New", "TBD", "TBD", "In-store Pickup Available", "Customer Favorite", "Best Seller",
+
+"SKU-005", "CPP Farm Fresh Eggs (Dozen)", "Farm-fresh eggs produced at Cal Poly Pomona.", "$7.99", "In Stock", "Food, Beverages & Tobacco > Food Items > Eggs", "Fresh Eggs", "CPP Farm Store", "New", "TBD", "TBD", "In-store Pickup Available", "Fresh from the Farm", "Farm Fresh"
 )
 
-# Render as a markdown table in Quarto
 kable(product_feed)
 
 
@@ -97,7 +93,23 @@ Product images matter for ecommerce and retail media. Identify whether each prod
 
 ### Step 7: Identify feed-quality concerns
 
-For each product, identify potential problems such as: \* Missing product image \* Incomplete description \* Unclear price \* Unclear availability \* No landing page \* Weak product title \* Product category uncertainty \* Missing brand information \* Shipping or pickup ambiguity
+Before submitting the product feed to Google Merchant Center, the group should review the product information for accuracy, consistency, and completeness. A complete product feed improves product visibility, reduces the likelihood of feed errors, and creates a better shopping experience for customers.
+
+| Feed-Quality Concern | Issue Identified | Recommendation |
+|----------------------|------------------|----------------|
+| Product Images | Image links are currently listed as **TBD** and final product images have not been uploaded. | Upload high-quality product images with good lighting, a clean background, and no distracting text overlays. |
+| Landing Page URLs | Product landing page URLs are still marked as **TBD**. | Link each product to its corresponding Shopify product page before submitting the feed. |
+| Product Availability | Seasonal products, such as the CPP Seasonal Fresh Produce Box, may not always be available. | Regularly update inventory status using standardized values such as "In Stock," "Out of Stock," or "Seasonal." |
+| Shipping and Pickup Information | Some products only mention pickup, while others may be eligible for shipping. | Clearly specify whether each product is available for shipping, in-store pickup, or both. |
+| Product Pricing | Prices should be reviewed periodically to ensure they remain accurate. | Keep product prices updated to match the Shopify store and prevent customer confusion. |
+| Product Categories | Product categories should accurately match Google Merchant Center requirements. | Review and assign the most appropriate Google product category and product type for each item. |
+| Product Consistency | All product information should remain consistent across the Shopify store, Google Merchant Center, and promotional materials. | Verify that product titles, descriptions, pricing, and branding match across every platform. |
+
+#### Overall Feed Assessment
+
+The product feed includes the key fields required for Google Merchant Center, including product IDs, titles, descriptions, pricing, availability, categories, branding, and promotional information. However, several fields still require completion before the feed is ready for submission, including product images and landing page URLs.
+
+Once these remaining fields are completed and the product information is reviewed for accuracy, the feed will provide a strong foundation for Google Shopping listings and future retail media campaigns. Maintaining accurate and consistent product data will also improve customer trust and support better online visibility.
 
 ### Step 8: Explain retail-media strategy
 
