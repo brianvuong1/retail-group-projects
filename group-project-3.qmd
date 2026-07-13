@@ -63,22 +63,28 @@ kable(product_feed)
 
 ```
 
-### Step 4: Improve product titles The product titles were improved by adding the CPP Farm Store brand name and descriptive keywords. The updated titles are more searchable, customer-friendly, and optimized for Google Merchant Center and Google Shopping.
+### Step 4: Improve product titles The product titles were improved by adding the 
+Product titles should be clear, searchable, and customer-friendly.
+We improved each title by adding the CPP Farm Store brand name, key product attributes, and size or quantity where appropriate. These improvements help increase product visibility in Google Merchant Center and make it easier for customers to identify each product.
 
-| SKU | Original Title | Improved Title |
-|----------------|----------------------------|----------------------------|
-| SKU-001 | Gourmet Fruit and Preserve Basket | CPP Farm Store Gourmet Fruit & Preserve Gift Basket |
-| SKU-002 | Preserve and Honey Gift Basket | CPP Farm Store Local Honey & Preserve Gift Basket |
-| SKU-003 | Heritage Apple Basket | CPP Farm Store Fresh Heritage Apple Basket |
-| SKU-004 | Orchard Pear Box | CPP Farm Store Fresh Pear Gift Box |
-| SKU-005 | Farmhouse Preserve Trio | CPP Farm Store Farmhouse Preserve Trio – Artisan Fruit Jams |
-| SKU-006 | Citrus and Jam Crate | CPP Farm Store Citrus & Jam Gift Crate |
-| SKU-007 | Dried Fruit and Jam | CPP Farm Store Dried Fruit & Jam Gift Set |
-| SKU-008 | Berry Patch Sampler | CPP Farm Store Berry Patch Sampler – Fresh Berries & Homemade Jams |
-| SKU-009 | Gourmet Fig Spread Trio | CPP Farm Store Gourmet Fig Spread Trio |
-| SKU-010 | Stone Fruit Preserve Crate | CPP Farm Store Stone Fruit Preserve Crate |
-| SKU-011 | Signature Orchard Basket | CPP Farm Store Signature Orchard Gift Basket |
-| SKU-012 | Limited Run Fig Conserve | CPP Farm Store Limited Edition Fig Conserve |
+```{r}
+#| label: improved-product-titles
+#| echo: false
+
+library(tibble)
+library(knitr)
+
+improved_titles <- tribble(
+  ~SKU, ~`Original Title`, ~`Improved Title`,
+  "SKU-001", "CPP Farm Store Local Gift Basket", "CPP Farm Store Local Gift Basket – Seasonal Farm Products",
+  "SKU-002", "CPP Campus Apiary Raw Honey (16 oz)", "CPP Farm Store Raw Honey (16 oz) – CPP Campus Apiary",
+  "SKU-003", "CPP Seasonal Fresh Produce Box", "CPP Farm Store Seasonal Fresh Produce Box – Weekly Harvest",
+  "SKU-004", "CPP Strawberry Jam (12 oz)", "CPP Farm Store Strawberry Jam (12 oz) – Locally Made",
+  "SKU-005", "CPP Farm Fresh Eggs (Dozen)", "CPP Farm Store Farm Fresh Eggs (1 Dozen)"
+)
+
+kable(improved_titles)
+```
 
 ### Step 5: Improve product descriptions (Brian)
 
