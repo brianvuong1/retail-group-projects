@@ -1,6 +1,6 @@
 ---
 title: "GP3: Product Feed and Retail Media Setup"
-author: "Brian V, Ron S, Name 3, Name 4, Sandy Qian Zhu"
+author: "Brian V, Ron S, Alexa B, Kevin B, Sandy Qian Zhu"
 date: today
 format: 
   html: 
@@ -66,7 +66,7 @@ kable(product_feed)
 ### Step 4: Improve product titles The product titles were improved by adding the CPP Farm Store brand name and descriptive keywords. The updated titles are more searchable, customer-friendly, and optimized for Google Merchant Center and Google Shopping.
 
 | SKU | Original Title | Improved Title |
-|------|----------------|----------------|
+|----------------|----------------------------|----------------------------|
 | SKU-001 | Gourmet Fruit and Preserve Basket | CPP Farm Store Gourmet Fruit & Preserve Gift Basket |
 | SKU-002 | Preserve and Honey Gift Basket | CPP Farm Store Local Honey & Preserve Gift Basket |
 | SKU-003 | Heritage Apple Basket | CPP Farm Store Fresh Heritage Apple Basket |
@@ -84,17 +84,15 @@ kable(product_feed)
 
 Descriptions should help customers understand value. Strong descriptions may include: \* What the product is \* Key benefits or features \* Suggested use \* Local or seasonal relevance \* Pickup or availability note \* Gift or bundle potential
 
-
 ## Product Feed Data
 
 | Product ID | Product title | Product description | Price | Availability | Product category | Product type | Brand | Condition | Image link or image recommendation | Landing page URL | Shipping or pickup information | Promotion message | Custom label, if useful |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **SKU-001** | Gourmet Fruit and Preserve Basket | A luxurious collection of hand-picked seasonal orchard fruits paired perfectly with our signature artisan fruit preserves. Ideal for corporate gifting or holiday family gatherings, this curated basket brings the taste of the local harvest straight to your table. Best enjoyed fresh as a centerpiece display. Available for free standard shipping or local orchard pickup. | 85.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Food Gift Baskets | Fruit & Preserve Basket | Orchard Heritage | new | Free standard shipping or local pickup | 10% off with code FRESH10 | Best Seller |
-| **SKU-003** | Heritage Apple Basket | A rustic wooden basket brimming with crisp, heirloom apple varieties hand-picked from our historic centennial orchards. Perfect for autumn baking, homemade cider, or pairing with sharp artisan cheeses, this limited seasonal harvest captures the authentic taste of tradition. Available for quick in-store pickup to ensure maximum freshness. | 45.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Fresh Fruit | Fresh Fruit Basket | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Seasonal |
-| **SKU-005** | Farmhouse Preserve Trio | A beautifully boxed bundle of our three most-loved, small-batch traditional farmhouse jams. Hand-crafted using locally sourced, ripe summer fruits, this set serves as an essential pantry upgrade and an effortless housewarming gift. Perfect for elevating your morning sourdough toast, spreading over warm biscuits, or pairing with afternoon tea. | 35.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies | Preserve Trio | Orchard Heritage | new | Free standard shipping | 10% off with code FRESH10 | Gift Bundle |
-| **SKU-008** | Berry Patch Sampler | Celebrate the peak of summer with this vibrant collection of our finest berry jams, jellies, and freshly harvested summer berries. A delightful gift for berry lovers, this sampler is perfect for topping buttermilk pancakes, mixing into morning yogurt bowls, or building a weekend brunch board. Reserve online for fresh local orchard pickup. | 55.00 USD | in stock | Food, Beverages & Tobacco > Food Items > Food Gift Baskets | Berry Gift Set | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Summer Special |
-| **SKU-012** | Limited Run Fig Conserve | An exclusive, small-batch gourmet conserve featuring rich, jammy estate-grown figs slow-cooked with crunchy local walnuts and bright citrus zest. This limited-edition reserve instantly elevates any charcuterie board or premium cheese pairing. A sophisticated addition to holiday gift baskets; available only while supplies last this season. | 25.00 USD | limited availability | Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Jams & Jellies | Limited Edition Conserve | Orchard Heritage | new | Free standard shipping | Limit 2 per customer | Limited Edition |
-
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| **SKU-001** | Gourmet Fruit and Preserve Basket | A luxurious collection of hand-picked seasonal orchard fruits paired perfectly with our signature artisan fruit preserves. Ideal for corporate gifting or holiday family gatherings, this curated basket brings the taste of the local harvest straight to your table. Best enjoyed fresh as a centerpiece display. Available for free standard shipping or local orchard pickup. | 85.00 USD | in stock | Food, Beverages & Tobacco \> Food Items \> Food Gift Baskets | Fruit & Preserve Basket | Orchard Heritage | new | Free standard shipping or local pickup | 10% off with code FRESH10 | Best Seller |  |  |
+| **SKU-003** | Heritage Apple Basket | A rustic wooden basket brimming with crisp, heirloom apple varieties hand-picked from our historic centennial orchards. Perfect for autumn baking, homemade cider, or pairing with sharp artisan cheeses, this limited seasonal harvest captures the authentic taste of tradition. Available for quick in-store pickup to ensure maximum freshness. | 45.00 USD | in stock | Food, Beverages & Tobacco \> Food Items \> Fresh Fruit | Fresh Fruit Basket | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Seasonal |  |  |
+| **SKU-005** | Farmhouse Preserve Trio | A beautifully boxed bundle of our three most-loved, small-batch traditional farmhouse jams. Hand-crafted using locally sourced, ripe summer fruits, this set serves as an essential pantry upgrade and an effortless housewarming gift. Perfect for elevating your morning sourdough toast, spreading over warm biscuits, or pairing with afternoon tea. | 35.00 USD | in stock | Food, Beverages & Tobacco \> Food Items \> Condiments & Sauces \> Jams & Jellies | Preserve Trio | Orchard Heritage | new | Free standard shipping | 10% off with code FRESH10 | Gift Bundle |  |  |
+| **SKU-008** | Berry Patch Sampler | Celebrate the peak of summer with this vibrant collection of our finest berry jams, jellies, and freshly harvested summer berries. A delightful gift for berry lovers, this sampler is perfect for topping buttermilk pancakes, mixing into morning yogurt bowls, or building a weekend brunch board. Reserve online for fresh local orchard pickup. | 55.00 USD | in stock | Food, Beverages & Tobacco \> Food Items \> Food Gift Baskets | Berry Gift Set | Orchard Heritage | new | In-store pickup available | 10% off with code FRESH10 | Summer Special |  |  |
+| **SKU-012** | Limited Run Fig Conserve | An exclusive, small-batch gourmet conserve featuring rich, jammy estate-grown figs slow-cooked with crunchy local walnuts and bright citrus zest. This limited-edition reserve instantly elevates any charcuterie board or premium cheese pairing. A sophisticated addition to holiday gift baskets; available only while supplies last this season. | 25.00 USD | limited availability | Food, Beverages & Tobacco \> Food Items \> Condiments & Sauces \> Jams & Jellies | Limited Edition Conserve | Orchard Heritage | new | Free standard shipping | Limit 2 per customer | Limited Edition |  |  |
 
 ### Step 6: Check image readiness
 
@@ -102,12 +100,44 @@ Product images matter for ecommerce and retail media. Identify whether each prod
 
 *If images are not available, describe what image would be needed.*
 
+## Step 6: Check Image Readiness
+
+This section evaluates the visual assets for the CPP Farm Store to ensure all online product images meet quality, clarity, and accuracy standards.
+
+### Product Evaluations
+
+#### CPP Craft-Brewed Beer (22 oz Bottle)
+- [ ] Product image is clear and easy to identify.
+- [ ] The bottle and label are fully visible.
+- [ ] The image matches the product being sold.
+
+#### Fresh-Ground Peanut Butter
+- [ ] The jar and product label are visible.
+- [ ] The image clearly shows the product.
+- [ ] The image is appropriate for an online product listing.
+
+#### Fresh-Ground Almond Butter
+- [ ] The product label is readable.
+- [ ] The jar is clearly displayed.
+- [ ] The image represents the product accurately.
+
+#### 100% Raw Local Honey
+- [ ] The honey jar is clearly shown.
+- [ ] The product label is visible.
+- [ ] The image accurately represents the item.
+
+#### Fresh Fruit Gift Packs & Custom Baskets
+- [ ] The image shows the contents of the gift basket.
+- [ ] The products inside the basket are visible.
+- [ ] The image helps customers understand what is included.
+
+
 ### Step 7: Identify feed-quality concerns
 
 Before submitting the product feed to Google Merchant Center, the group should review the product information for accuracy, consistency, and completeness. A complete product feed improves product visibility, reduces the likelihood of feed errors, and creates a better shopping experience for customers.
 
 | Feed-Quality Concern | Issue Identified | Recommendation |
-|----------------------|------------------|----------------|
+|----------------------------|-----------------------|---------------------|
 | Product Images | Image links are currently listed as **TBD** and final product images have not been uploaded. | Upload high-quality product images with good lighting, a clean background, and no distracting text overlays. |
 | Landing Page URLs | Product landing page URLs are still marked as **TBD**. | Link each product to its corresponding Shopify product page before submitting the feed. |
 | Product Availability | Seasonal products, such as the CPP Seasonal Fresh Produce Box, may not always be available. | Regularly update inventory status using standardized values such as "In Stock," "Out of Stock," or "Seasonal." |
@@ -133,3 +163,128 @@ The **CPP Seasonal Fresh Produce Box** is best suited for seasonal and recurring
 The **CPP Farm Store Local Gift Basket** is the clearest fit for gift buyers, with the highest price point of the three and a pre-curated format that removes decision fatigue. This is the product to prioritize around key gifting windows — finals week, graduation, and holidays — where a pre-order/pickup model helps address the fulfillment friction our group identified earlier.
 
 Together, the three products cover three different campaign goals — acquisition (Honey), retention (Produce Box), and high-value occasions (Gift Basket) — rather than competing for the same customer at the same time.
+
+---
+title: "Retail-Media Strategy & Feed Quality Diagnosis"
+subtitle: "CPP Farm Store Evaluation"
+date: "2026-07-13"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+---
+
+## Step 8: Retail-Media Strategy
+
+**Platform:** Google Merchant Center
+
+The CPP Farm Store should prioritize products that are unique, locally produced, and have broad customer appeal.
+
+### Promotion Priorities & Audience Segments
+
+#### Promote First
+* **Target Products:** 100% Raw Local Honey, Fresh-Ground Peanut Butter, and Fresh Fruit Gift Packs
+* **Rationale:** These items are popular, locally sourced, and appeal to a wide audience.
+
+#### Seasonal Campaigns
+* **Target Products:** Fresh Fruit Gift Packs, Custom Gift Baskets, citrus fruit, and holiday baskets.
+* **Key Windows:** Ideal for holidays, graduation, Mother’s Day, Thanksgiving, and Christmas.
+
+#### Target Audiences
+* **Gift Buyers:** Focus on gift baskets, local honey, jams, and specialty food bundles which make excellent gifts.
+* **Students:** Focus on fresh-ground peanut butter, almond butter, honey, and seasonal fruit as affordable, healthy options for CPP students.
+
+#### Logistics & Fulfillment Optimization
+* **Store Pickup / Local Shopping:** Fresh fruit, nut butters, honey, and gift baskets are best promoted for local pickup because they are fresh products available directly at the CPP Farm Store.
+
+---
+
+## Overall Feed Issues
+
+Before launching aggressive campaigns, the following structural feed issues must be resolved:
+* Some products have limited descriptions.
+* Product images should have consistent backgrounds and sizing.
+* Product titles could include brand, size, and important keywords.
+* Availability should clearly state “In Stock” or “Seasonal.”
+* Some products do not have dedicated landing pages.
+* Shipping or pickup information should be clearly stated.
+
+---
+
+## Feed Quality Diagnosis by Product
+
+### CPP Craft-Brewed Beer (22 oz Bottle)
+- [ ] Missing a detailed product description.
+- [ ] Should include age restriction information.
+- [ ] Product image could be improved with a consistent background.
+- [ ] Availability should be clearly listed.
+
+### Fresh-Ground Peanut Butter
+- [ ] Description should include ingredients and freshness.
+- [ ] Add serving suggestions and nutritional highlights.
+- [ ] Include a high-quality product image.
+- [ ] Clearly indicate stock availability.
+
+### Fresh-Ground Almond Butter
+- [ ] Add product benefits and ingredient information.
+- [ ] Include suggested uses.
+- [ ] Improve product image consistency.
+- [ ] Add pickup availability.
+
+### 100% Raw Local Wildflower Honey
+- [ ] Add information about local sourcing and benefits.
+- [ ] Include jar size or weight.
+- [ ] Improve product description with keywords.
+- [ ] Clearly indicate availability.
+
+### Fresh Fruit Gift Packs & Custom Baskets
+- [ ] Needs a dedicated product page.
+- [ ] Add pricing information.
+- [ ] Specify seasonal availability.
+- [ ] Include multiple product images showing basket options.
+
+
+## Overall Feed Quality Concerns
+
+::: {.callout-warning}
+### Critical Optimizations Needed
+1. **Incomplete Descriptions:** Several products lack comprehensive detail.
+2. **Product Titles:** Titles should standardized to include the store name, product type, and size.
+3. **Images:** Images require consistent backgrounds and high-resolution formatting.
+4. **Availability status:** Must explicitly clarify whether products are "In Stock" or "Seasonal."
+5. **Fulfillment:** Shipping and pickup options must be dynamically included for every product.
+6. **Web Infrastructure:** Missing dedicated landing pages for specific promotional assets must be built.
+:::
+
+---
+
+## Recommendations: Prioritized Product Launch
+
+Based on demand, margins, and operational readiness, products should be prioritized for promotion in the following order:
+
+### 1. 100% Raw Local Honey
+* High search demand
+* Distinctively local product
+* Great gift item
+* Long shelf life and easy logistics
+
+### 2. Fresh-Ground Peanut Butter
+* High affordability
+* Healthy option
+* Strong appeal to both students and visiting families
+
+### 3. Fresh Fruit Gift Packs
+* High seasonal conversion rate
+* Excellent for holidays and special occasions
+* Drives higher average order value (AOV)
+
+### 4. Fresh-Ground Almond Butter
+* Premium specialty product margin
+* Appeals strongly to health-conscious shoppers
+
+### 5. CPP Craft-Brewed Beer
+* Highly unique campus identity product
+* Strong appeal to alumni and campus visitors *(Promote only where legally permitted by platform policies)*
+
+
