@@ -63,9 +63,9 @@ kable(product_feed)
 
 ```
 
-### Step 4: Improve product titles The product titles were improved by adding the 
-Product titles should be clear, searchable, and customer-friendly.
-We improved each title by adding the CPP Farm Store brand name, key product attributes, and size or quantity where appropriate. These improvements help increase product visibility in Google Merchant Center and make it easier for customers to identify each product.
+### Step 4: Improve product titles The product titles were improved by adding the
+
+Product titles should be clear, searchable, and customer-friendly. We improved each title by adding the CPP Farm Store brand name, key product attributes, and size or quantity where appropriate. These improvements help increase product visibility in Google Merchant Center and make it easier for customers to identify each product.
 
 ```{r}
 #| label: improved-product-titles
@@ -113,30 +113,34 @@ This section evaluates the visual assets for the CPP Farm Store to ensure all on
 ### Product Evaluations
 
 #### CPP Craft-Brewed Beer (22 oz Bottle)
+
 - [ ] Product image is clear and easy to identify.
 - [ ] The bottle and label are fully visible.
 - [ ] The image matches the product being sold.
 
 #### Fresh-Ground Peanut Butter
+
 - [ ] The jar and product label are visible.
 - [ ] The image clearly shows the product.
 - [ ] The image is appropriate for an online product listing.
 
 #### Fresh-Ground Almond Butter
+
 - [ ] The product label is readable.
 - [ ] The jar is clearly displayed.
 - [ ] The image represents the product accurately.
 
 #### 100% Raw Local Honey
+
 - [ ] The honey jar is clearly shown.
 - [ ] The product label is visible.
 - [ ] The image accurately represents the item.
 
 #### Fresh Fruit Gift Packs & Custom Baskets
+
 - [ ] The image shows the contents of the gift basket.
 - [ ] The products inside the basket are visible.
 - [ ] The image helps customers understand what is included.
-
 
 ### Step 7: Identify feed-quality concerns
 
@@ -190,107 +194,113 @@ The CPP Farm Store should prioritize products that are unique, locally produced,
 ### Promotion Priorities & Audience Segments
 
 #### Promote First
-* **Target Products:** 100% Raw Local Honey, Fresh-Ground Peanut Butter, and Fresh Fruit Gift Packs
-* **Rationale:** These items are popular, locally sourced, and appeal to a wide audience.
+
+- **Target Products:** 100% Raw Local Honey, Fresh-Ground Peanut Butter, and Fresh Fruit Gift Packs
+- **Rationale:** These items are popular, locally sourced, and appeal to a wide audience.
 
 #### Seasonal Campaigns
-* **Target Products:** Fresh Fruit Gift Packs, Custom Gift Baskets, citrus fruit, and holiday baskets.
-* **Key Windows:** Ideal for holidays, graduation, Mother’s Day, Thanksgiving, and Christmas.
+
+- **Target Products:** Fresh Fruit Gift Packs, Custom Gift Baskets, citrus fruit, and holiday baskets.
+- **Key Windows:** Ideal for holidays, graduation, Mother’s Day, Thanksgiving, and Christmas.
 
 #### Target Audiences
-* **Gift Buyers:** Focus on gift baskets, local honey, jams, and specialty food bundles which make excellent gifts.
-* **Students:** Focus on fresh-ground peanut butter, almond butter, honey, and seasonal fruit as affordable, healthy options for CPP students.
+
+- **Gift Buyers:** Focus on gift baskets, local honey, jams, and specialty food bundles which make excellent gifts.
+- **Students:** Focus on fresh-ground peanut butter, almond butter, honey, and seasonal fruit as affordable, healthy options for CPP students.
 
 #### Logistics & Fulfillment Optimization
-* **Store Pickup / Local Shopping:** Fresh fruit, nut butters, honey, and gift baskets are best promoted for local pickup because they are fresh products available directly at the CPP Farm Store.
 
----
+- **Store Pickup / Local Shopping:** Fresh fruit, nut butters, honey, and gift baskets are best promoted for local pickup because they are fresh products available directly at the CPP Farm Store.
+
+------------------------------------------------------------------------
 
 ## Overall Feed Issues
 
-Before launching aggressive campaigns, the following structural feed issues must be resolved:
-* Some products have limited descriptions.
-* Product images should have consistent backgrounds and sizing.
-* Product titles could include brand, size, and important keywords.
-* Availability should clearly state “In Stock” or “Seasonal.”
-* Some products do not have dedicated landing pages.
-* Shipping or pickup information should be clearly stated.
+Before launching aggressive campaigns, the following structural feed issues must be resolved: \* Some products have limited descriptions. \* Product images should have consistent backgrounds and sizing. \* Product titles could include brand, size, and important keywords. \* Availability should clearly state “In Stock” or “Seasonal.” \* Some products do not have dedicated landing pages. \* Shipping or pickup information should be clearly stated.
 
----
+------------------------------------------------------------------------
 
 ## Feed Quality Diagnosis by Product
 
 ### CPP Craft-Brewed Beer (22 oz Bottle)
+
 - [ ] Missing a detailed product description.
 - [ ] Should include age restriction information.
 - [ ] Product image could be improved with a consistent background.
 - [ ] Availability should be clearly listed.
 
 ### Fresh-Ground Peanut Butter
+
 - [ ] Description should include ingredients and freshness.
 - [ ] Add serving suggestions and nutritional highlights.
 - [ ] Include a high-quality product image.
 - [ ] Clearly indicate stock availability.
 
 ### Fresh-Ground Almond Butter
+
 - [ ] Add product benefits and ingredient information.
 - [ ] Include suggested uses.
 - [ ] Improve product image consistency.
 - [ ] Add pickup availability.
 
 ### 100% Raw Local Wildflower Honey
+
 - [ ] Add information about local sourcing and benefits.
 - [ ] Include jar size or weight.
 - [ ] Improve product description with keywords.
 - [ ] Clearly indicate availability.
 
 ### Fresh Fruit Gift Packs & Custom Baskets
+
 - [ ] Needs a dedicated product page.
 - [ ] Add pricing information.
 - [ ] Specify seasonal availability.
 - [ ] Include multiple product images showing basket options.
 
-
 ## Overall Feed Quality Concerns
 
-::: {.callout-warning}
+::: callout-warning
 ### Critical Optimizations Needed
-1. **Incomplete Descriptions:** Several products lack comprehensive detail.
-2. **Product Titles:** Titles should standardized to include the store name, product type, and size.
-3. **Images:** Images require consistent backgrounds and high-resolution formatting.
-4. **Availability status:** Must explicitly clarify whether products are "In Stock" or "Seasonal."
-5. **Fulfillment:** Shipping and pickup options must be dynamically included for every product.
-6. **Web Infrastructure:** Missing dedicated landing pages for specific promotional assets must be built.
+
+1.  **Incomplete Descriptions:** Several products lack comprehensive detail.
+2.  **Product Titles:** Titles should standardized to include the store name, product type, and size.
+3.  **Images:** Images require consistent backgrounds and high-resolution formatting.
+4.  **Availability status:** Must explicitly clarify whether products are "In Stock" or "Seasonal."
+5.  **Fulfillment:** Shipping and pickup options must be dynamically included for every product.
+6.  **Web Infrastructure:** Missing dedicated landing pages for specific promotional assets must be built.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Recommendations: Prioritized Product Launch
 
 Based on demand, margins, and operational readiness, products should be prioritized for promotion in the following order:
 
 ### 1. 100% Raw Local Honey
-* High search demand
-* Distinctively local product
-* Great gift item
-* Long shelf life and easy logistics
+
+- High search demand
+- Distinctively local product
+- Great gift item
+- Long shelf life and easy logistics
 
 ### 2. Fresh-Ground Peanut Butter
-* High affordability
-* Healthy option
-* Strong appeal to both students and visiting families
+
+- High affordability
+- Healthy option
+- Strong appeal to both students and visiting families
 
 ### 3. Fresh Fruit Gift Packs
-* High seasonal conversion rate
-* Excellent for holidays and special occasions
-* Drives higher average order value (AOV)
+
+- High seasonal conversion rate
+- Excellent for holidays and special occasions
+- Drives higher average order value (AOV)
 
 ### 4. Fresh-Ground Almond Butter
-* Premium specialty product margin
-* Appeals strongly to health-conscious shoppers
+
+- Premium specialty product margin
+- Appeals strongly to health-conscious shoppers
 
 ### 5. CPP Craft-Brewed Beer
-* Highly unique campus identity product
-* Strong appeal to alumni and campus visitors *(Promote only where legally permitted by platform policies)*
 
-
+- Highly unique campus identity product
+- Strong appeal to alumni and campus visitors *(Promote only where legally permitted by platform policies)*

@@ -1,0 +1,281 @@
+---
+title: "GP4: Mini Campaign Plan"
+author: "Brian V, Ron S, Alexa B, Kevin B, Sandy Qian Zhu"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# GP4 - Mini Campaign Plan: CPP Farm Store
+
+## Purpose
+
+The purpose of this assignment is to develop a campaign plan that supports CPP Farm Store's business goals. Your campaign should be based on the customer journey, Shopify prototype, and product feed work completed earlier in the project.
+
+The campaign plan should not be a generic advertising idea. It should directly respond to a customer problem, business opportunity, or omnichannel gap identified by your group.
+
+## Key Question
+
+**How should CPP Farm Store attract, convert, and retain customers through an integrated campaign?**
+
+------------------------------------------------------------------------
+
+## Step 1: Define the Business Problem
+
+### Business Problem Statement
+
+\[Insert your problem statement here\]
+
+### Examples of Business Problems
+
+- Low awareness among students
+- Limited online product discovery
+- Seasonal products need stronger promotion
+- Gift buyers need clearer bundles
+- Customers do not know store hours or pickup options
+- The store needs more repeat visits
+- The store needs stronger connection between online browsing and in-store purchase
+
+------------------------------------------------------------------------
+
+## Step 2: Define the Campaign Objective
+
+### Primary Objective
+
+\[Insert your primary objective here\]
+
+### Supporting Objectives
+
+1.  \[Insert supporting objective 1\]
+2.  \[Insert supporting objective 2\]
+3.  \[Insert supporting objective 3\]
+
+### Example Objectives
+
+- Increase awareness of CPP Farm Store among students
+- Drive traffic to the Shopify prototype
+- Promote seasonal product bundles
+- Encourage in-store visits
+- Increase pickup interest
+- Promote gift purchases
+- Build email or social media engagement
+
+------------------------------------------------------------------------
+
+## Step 3: Identify the Target Audience
+
+### Demographic Profile
+
+\[Insert demographics: age, campus affiliation, socioeconomic status, etc.\]
+
+### Primary Motivations
+
+\[Insert motivations: convenience, sustainability, cost, quality, local support, etc.\]
+
+### Shopping Behavior
+
+\[Insert shopping habits: online frequency, in-store frequency, device preferences, time of day, etc.\]
+
+### Key Pain Points
+
+\[Insert pain points: awareness, accessibility, pricing, discovery, information gaps, etc.\]
+
+### Relevant Touchpoints
+
+\[Insert where they spend time: Instagram, TikTok, email, campus events, class, etc.\]
+
+### Why This Audience Matters for CPP Farm Store
+
+\[Insert business importance: market size, growth potential, loyalty potential, alignment with business goals, etc.\]
+
+------------------------------------------------------------------------
+
+## Step 4: Develop the Campaign Message
+
+### Primary Campaign Message
+
+\[Insert your primary campaign message here\]
+
+### Message Pillars
+
+1.  \[Message pillar 1\]
+2.  \[Message pillar 2\]
+3.  \[Message pillar 3\]
+
+### Example Messages
+
+- Fresh, local, and convenient
+- Campus-grown products for the CPP community
+- Seasonal gifts from CPP Farm Store
+- Discover what is fresh this week
+- Shop local, support CPP
+
+------------------------------------------------------------------------
+
+## Step 5: Select Channels
+
+### Channel Strategy
+
+| Channel | Selected | Justification |
+|-------------------|---------------------|-------------------------------|
+| Shopify website | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Google Shopping / Google Merchant Center | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Google Search | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Instagram | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| TikTok | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Email | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Campus signage | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Campus events | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Google Maps | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| In-store display | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Retail media channel | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+| Student newsletter | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+
+------------------------------------------------------------------------
+
+## Step 6: Connect Channels into an Omnichannel Experience
+
+### Customer Journey Across Channels
+
+| Stage | Channels Involved | Customer Action |
+|----------------|------------------------------|--------------------------|
+| Awareness | \[List channels that create awareness\] | \[What does the customer do?\] |
+| Consideration | \[List channels that facilitate consideration\] | \[What does the customer do?\] |
+| Conversion | \[List channels that enable conversion\] | \[What does the customer do?\] |
+| Retention | \[List channels that encourage repeat purchase\] | \[What does the customer do?\] |
+
+### Omnichannel Experience Flow
+
+1.  \[Channel 1\] creates awareness and reaches the target audience
+2.  \[Channel 2\] helps customers find products and learn more
+3.  \[Channel 3\] provides detailed product information and reduces purchase friction
+4.  \[Channel 4\] completes the purchase transaction
+5.  \[Channel 5\] encourages repeat visits and builds customer loyalty
+
+------------------------------------------------------------------------
+
+## Step 7: Develop Campaign Tactics
+
+### Specific Campaign Tactics
+
+| Tactic Type | Specific Tactic | Primary Channel | Description |
+|-----------------|-------------------|-------------------|-----------------|
+| Product Strategy | \[e.g., Product bundle, Seasonal promotion\] | \[Channel\] | \[Describe how this tactic works\] |
+| Social Media | \[e.g., Content series, Hashtag campaign\] | \[Channel\] | \[Describe how this tactic works\] |
+| Paid Search/Shopping | \[e.g., Search ad copy, Shopping feed optimization\] | \[Channel\] | \[Describe how this tactic works\] |
+| Email Marketing | \[e.g., Welcome series, Promotional announcement\] | \[Channel\] | \[Describe how this tactic works\] |
+| In-Store Experience | \[e.g., Point-of-sale display, In-store signage\] | \[Channel\] | \[Describe how this tactic works\] |
+| Community Engagement | \[e.g., Campus ambassador, Event sponsorship\] | \[Channel\] | \[Describe how this tactic works\] |
+| Content/Landing Page | \[e.g., Landing page, Blog post, Video\] | \[Channel\] | \[Describe how this tactic works\] |
+
+------------------------------------------------------------------------
+
+## Step 8: Create a Budget Recommendation
+
+### Campaign Budget Allocation
+
+| Channel | Budget Amount | Percentage | Organic vs. Paid | Justification |
+|---------------|---------------|---------------|---------------|---------------|
+| Social Media Ads | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
+| Google Ads | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
+| Email Marketing | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
+| Content Creation | \$\[amount\] | \[%\] | Organic | \[Explain allocation rationale\] |
+| In-Store Materials | \$\[amount\] | \[%\] | Organic | \[Explain allocation rationale\] |
+| Events/Activations | \$\[amount\] | \[%\] | Mixed | \[Explain allocation rationale\] |
+| Contingency | $[amount] | [%] | Reserve | [Explain allocation rationale] |
+| **TOTAL** | **$\[total\]\*\* | **100%** |  |  |
+
+### Budget Summary
+
+- **Total Campaign Budget:** \$\[amount\]
+- **Paid Tactics Total:** \$\[amount\]
+- **Organic Tactics Total:** \$\[amount\]
+- **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
+
+------------------------------------------------------------------------
+
+## Step 9: Define KPIs
+
+### Key Performance Indicators by Stage
+
+| Campaign Stage | Metric | Target Value | Tracking Method |
+|-------------------|----------------|-----------------|--------------------|
+| Awareness | Website visits | \[e.g., 5,000 visits\] | Google Analytics |
+| Awareness | Social engagement | \[e.g., 500 engagements\] | Social platform analytics |
+| Consideration | Product page views | \[e.g., 3,000 views\] | Google Analytics |
+| Consideration | Click-through rate | \[e.g., 5% CTR\] | Ad platform data |
+| Conversion | Add-to-cart rate | \[e.g., 8% ATC rate\] | Shopify analytics |
+| Conversion | Conversion rate | \[e.g., 3% conversion\] | Shopify analytics |
+| Retention | Repeat purchase rate | \[e.g., 20% repeat rate\] | Shopify + Email CRM |
+| Business Impact | Return on ad spend (ROAS) | \[e.g., \$3.50 ROAS\] | Ad platform + Shopify |
+| Business Impact | Cost per acquisition (CPA) | \[e.g., \$15 CPA\] | Ad platform + Shopify |
+| Business Impact | Campaign revenue | \[e.g., \$50,000\] | Shopify analytics |
+
+------------------------------------------------------------------------
+
+## Step 10: Explain Optimization Plan
+
+### Post-Launch Optimization Strategy
+
+| Optimization Area | Specific Action | Frequency | Success Indicator |
+|--------------------|------------------|-----------------|-------------------|
+| Product Optimization | Test product titles, descriptions, and images | Weekly | Improved click-through rate and conversion rate |
+| Creative Testing | Compare messaging variations and creative formats | Bi-weekly | Highest engagement and conversion rates |
+| Performance Analysis | Monitor top-performing products and underperformers | Weekly | Identify trends and adjustment opportunities |
+| Budget Reallocation | Shift budget from low-performing to high-performing channels | Monthly | Improved overall ROAS and campaign efficiency |
+| User Experience | Improve landing pages based on user behavior data | Ongoing | Reduced bounce rate, improved conversion rate |
+| Data Quality | Update and validate product feed regularly | Bi-weekly | Accurate product information and feed quality score |
+| Seasonal Adjustments | Adjust strategy for seasonal demand shifts | As needed | Alignment with seasonal trends and customer behavior |
+
+### Optimization Process
+
+1.  **Weekly Review:** Analyze performance data from all channels and identify underperformers
+2.  **Bi-weekly Testing:** Launch creative tests, product feed updates, and message variations
+3.  **Monthly Strategy Review:** Reallocate budget based on performance and adjust channel mix
+4.  **Continuous Improvement:** Implement learnings from each optimization cycle into the next phase
+
+------------------------------------------------------------------------
+
+## Summary & Recommendations
+
+### Campaign Overview
+
+| Element               | Details                                    |
+|-----------------------|--------------------------------------------|
+| **Business Problem**  | \[Insert the core problem you're solving\] |
+| **Target Audience**   | \[Insert primary audience segment\]        |
+| **Primary Objective** | \[Insert primary objective\]               |
+| **Campaign Message**  | \[Insert primary message\]                 |
+| **Total Budget**      | \$\[amount\]                               |
+| **Key Channels**      | \[List top 3-4 channels\]                  |
+| **Expected Timeline** | \[Insert campaign duration\]               |
+| **Success Metric**    | \[Insert primary KPI\]                     |
+
+### Key Recommendations
+
+1.  \[Recommendation 1\]
+2.  \[Recommendation 2\]
+3.  \[Recommendation 3\]
+
+### Next Steps
+
+- [ ] Finalize audience targeting parameters
+- [ ] Develop creative assets for each channel
+- [ ] Set up tracking and analytics
+- [ ] Brief team on campaign strategy
+- [ ] Launch pilot phase
+- [ ] Monitor and optimize based on KPIs
+
+------------------------------------------------------------------------
+
+**Document prepared by:** \[Your name/team name\]\
+**Date:** \[Date\]\
+**Last updated:** \[Date\]
