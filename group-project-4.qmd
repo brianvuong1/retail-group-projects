@@ -28,49 +28,79 @@ The campaign plan should not be a generic advertising idea. It should directly r
 
 ------------------------------------------------------------------------
 
-## Step 1: Define the Business Problem
+# Step 1: Define the Business Problem (Brian)
 
-### Business Problem Statement
+## Business Problem Statement
 
-\[Insert your problem statement here\]
+CPP Farm Store has invested in developing a custom gift box feature on their Shopify website, but this product offering lacks awareness and adoption among their primary customer segments (students, families, and campus organizations). Currently, customers are unaware that CPP Farm Store offers personalized gift box customization and online ordering capabilities, resulting in missed revenue opportunities during peak gifting seasons (Mother's Day, graduation, holidays, and campus appreciation events).
 
-### Examples of Business Problems
+The core issue is that without visibility and education about the custom gift box ordering feature, potential customers continue to purchase generic gifts elsewhere rather than discovering the unique value of campus-grown, locally sourced gift options from CPP Farm Store.
 
-- Low awareness among students
-- Limited online product discovery
-- Seasonal products need stronger promotion
-- Gift buyers need clearer bundles
-- Customers do not know store hours or pickup options
-- The store needs more repeat visits
-- The store needs stronger connection between online browsing and in-store purchase
+## Why This Problem Matters
+
+1. **Untapped Revenue Opportunity:** Custom gift boxes typically have higher margins and larger order values than standard products
+2. **Seasonal Demand:** Peak gifting occasions (holidays, Mother's Day, graduation) represent concentrated periods when demand for gift products is highest
+3. **Competitive Advantage:** CPP Farm Store's farm-to-table, campus-grown positioning is distinctly different from generic retailers
+4. **Customer Gap:** Campus community members (students, families, staff, organizations) are ideal customers but don't know this service exists
+5. **Online Experience:** The Shopify prototype has been built but has zero discoverability—the product exists but customers can't find it
+
+## Business Opportunity
+
+By driving awareness and adoption of the custom gift box online ordering feature, CPP Farm Store can:
+
+- **Increase Average Order Value:** Custom boxes are premium products with higher price points
+- **Expand Market Reach:** Target students and families shopping for campus-related gifts
+- **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
+- **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
+- **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
+
+---
+
+# Step 2: Define the Campaign Objective (Brian)
+
+## Primary Campaign Objective
+
+**Drive awareness and online adoption of CPP Farm Store's custom gift box ordering feature among students, families, and campus organizations, with a target of increasing custom gift box orders by 40% during the spring peak gifting season (February–May).**
+
+## Supporting Objectives
+
+1. **Build Awareness:** Educate the campus community that CPP Farm Store offers customizable gift box options with online ordering through Shopify
+
+2. **Drive Product Discovery:** Increase traffic to the custom gift box product pages on the Shopify website by 25% within the first 60 days of campaign launch
+
+3. **Encourage Trial and Conversion:** Convert at least 3% of website visitors to the custom gift box product pages into paying customers
+
+4. **Enable Online Ordering:** Position online gifting as a convenient, personalized, and locally sourced alternative to mass-market gift retailers
+
+5. **Build Loyalty:** Create repeat customers by highlighting the gift-giving use cases and encouraging referrals within the campus community
+
+## Alignment with Campaign Theme
+
+**"Thoughtful Gifts, Grown Here"**
+
+This campaign positions CPP Farm Store's custom gift boxes as the perfect solution for gift-givers who want to support local, choose quality products, and give something uniquely tied to the campus community. The message connects customer needs (finding a meaningful gift) with CPP Farm Store's value (farm-fresh, customizable, campus-grown).
+
+## Why These Objectives Matter
+
+- **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
+- **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
+- **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
+- **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
+- **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
+
+## Campaign Success Definition
+
+The campaign will be considered successful if:
+
+✓ Custom gift box product pages receive 25% more traffic than baseline
+✓ At least 3% of visitors to product pages convert to customers
+✓ Custom gift box orders increase by 40% or more during the spring season (Feb–May)
+✓ At least 20% of customers making their first custom gift box purchase make a repeat purchase
+✓ Campaign reaches at least 50% of the target audience (students, families, campus organizations)
 
 ------------------------------------------------------------------------
 
-## Step 2: Define the Campaign Objective
-
-### Primary Objective
-
-\[Insert your primary objective here\]
-
-### Supporting Objectives
-
-1.  \[Insert supporting objective 1\]
-2.  \[Insert supporting objective 2\]
-3.  \[Insert supporting objective 3\]
-
-### Example Objectives
-
-- Increase awareness of CPP Farm Store among students
-- Drive traffic to the Shopify prototype
-- Promote seasonal product bundles
-- Encourage in-store visits
-- Increase pickup interest
-- Promote gift purchases
-- Build email or social media engagement
-
-------------------------------------------------------------------------
-
-## Step 3: Identify the Target Audience
+## Step 3: Identify the Target Audience (Kevin)
 
 ### Demographic Profile
 
@@ -98,7 +128,7 @@ The campaign plan should not be a generic advertising idea. It should directly r
 
 ------------------------------------------------------------------------
 
-## Step 4: Develop the Campaign Message
+## Step 4: Develop the Campaign Message (Kevin)
 
 ### Primary Campaign Message
 
@@ -120,12 +150,12 @@ The campaign plan should not be a generic advertising idea. It should directly r
 
 ------------------------------------------------------------------------
 
-## Step 5: Select Channels
+## Step 5: Select Channels (Alexa)
 
 ### Channel Strategy
 
 | Channel | Selected | Justification |
-|-------------------|---------------------|-------------------------------|
+|--------------------|----------------------|-------------------------------|
 | Shopify website | \[Yes/No\] | \[Explain why this channel is appropriate\] |
 | Google Shopping / Google Merchant Center | \[Yes/No\] | \[Explain why this channel is appropriate\] |
 | Google Search | \[Yes/No\] | \[Explain why this channel is appropriate\] |
@@ -141,12 +171,12 @@ The campaign plan should not be a generic advertising idea. It should directly r
 
 ------------------------------------------------------------------------
 
-## Step 6: Connect Channels into an Omnichannel Experience
+## Step 6: Connect Channels into an Omnichannel Experience (Alexa)
 
 ### Customer Journey Across Channels
 
 | Stage | Channels Involved | Customer Action |
-|----------------|------------------------------|--------------------------|
+|------------------|-----------------------------|-------------------------|
 | Awareness | \[List channels that create awareness\] | \[What does the customer do?\] |
 | Consideration | \[List channels that facilitate consideration\] | \[What does the customer do?\] |
 | Conversion | \[List channels that enable conversion\] | \[What does the customer do?\] |
@@ -167,7 +197,7 @@ The campaign plan should not be a generic advertising idea. It should directly r
 ### Specific Campaign Tactics
 
 | Tactic Type | Specific Tactic | Primary Channel | Description |
-|-----------------|-------------------|-------------------|-----------------|
+|------------------|-------------------|-------------------|------------------|
 | Product Strategy | \[e.g., Product bundle, Seasonal promotion\] | \[Channel\] | \[Describe how this tactic works\] |
 | Social Media | \[e.g., Content series, Hashtag campaign\] | \[Channel\] | \[Describe how this tactic works\] |
 | Paid Search/Shopping | \[e.g., Search ad copy, Shopping feed optimization\] | \[Channel\] | \[Describe how this tactic works\] |
@@ -202,12 +232,12 @@ The campaign plan should not be a generic advertising idea. It should directly r
 
 ------------------------------------------------------------------------
 
-## Step 9: Define KPIs
+## Step 9: Define KPIs (Alexa)
 
 ### Key Performance Indicators by Stage
 
 | Campaign Stage | Metric | Target Value | Tracking Method |
-|-------------------|----------------|-----------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | Awareness | Website visits | \[e.g., 5,000 visits\] | Google Analytics |
 | Awareness | Social engagement | \[e.g., 500 engagements\] | Social platform analytics |
 | Consideration | Product page views | \[e.g., 3,000 views\] | Google Analytics |
@@ -226,7 +256,7 @@ The campaign plan should not be a generic advertising idea. It should directly r
 ### Post-Launch Optimization Strategy
 
 | Optimization Area | Specific Action | Frequency | Success Indicator |
-|--------------------|------------------|-----------------|-------------------|
+|-------------------|------------------|------------------|------------------|
 | Product Optimization | Test product titles, descriptions, and images | Weekly | Improved click-through rate and conversion rate |
 | Creative Testing | Compare messaging variations and creative formats | Bi-weekly | Highest engagement and conversion rates |
 | Performance Analysis | Monitor top-performing products and underperformers | Weekly | Identify trends and adjustment opportunities |
