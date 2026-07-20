@@ -217,16 +217,16 @@ Celebrate every special occasion with a custom gift box from CPP Farm Store. Bui
 ### Specific Campaign Tactics
 
 | Tactic Type | Specific Tactic | Primary Channel | Description |
-|------------------|------------------|------------------|------------------|
-| Product Strategy | \[e.g., Product bundle, Seasonal promotion\] | \[Channel\] | \[Describe how this tactic works\] |
-| Social Media | \[e.g., Content series, Hashtag campaign\] | \[Channel\] | \[Describe how this tactic works\] |
-| Paid Search/Shopping | \[e.g., Search ad copy, Shopping feed optimization\] | \[Channel\] | \[Describe how this tactic works\] |
-| Email Marketing | \[e.g., Welcome series, Promotional announcement\] | \[Channel\] | \[Describe how this tactic works\] |
-| In-Store Experience | \[e.g., Point-of-sale display, In-store signage\] | \[Channel\] | \[Describe how this tactic works\] |
-| Community Engagement | \[e.g., Campus ambassador, Event sponsorship\] | \[Channel\] | \[Describe how this tactic works\] |
-| Content/Landing Page | \[e.g., Landing page, Blog post, Video\] | \[Channel\] | \[Describe how this tactic works\] |
+|------------------|-----------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Product Strategy** | Seasonal Custom Gift Box Collection | Shopify Website | Launch limited-time gift bundles for Mother's Day, Graduation, Holidays, and campus appreciation events to create urgency and increase average order value. |
+| **Social Media** | "Build Your Own Gift Box" Instagram Campaign | Instagram | Publish Instagram Reels, Stories, and posts showcasing the gift box customization process, customer testimonials, and seasonal promotions. Include direct links to the Shopify store. |
+| **Paid Search/Shopping** | Google Search & Shopping Ads | Google Search / Google Merchant Center | Promote keywords such as *custom gift boxes*, *graduation gifts*, and *Cal Poly Pomona gifts* to drive qualified traffic to the Shopify gift box landing page. |
+| **Email Marketing** | Seasonal Promotional Email Campaign | Email | Send personalized promotional emails featuring seasonal gift bundles, ordering deadlines, pickup reminders, and exclusive offers to encourage conversions and repeat purchases. |
+| **In-Store Experience** | QR Code Promotional Display | CPP Farm Store | Place QR code signage near checkout counters and gift displays so customers can quickly access the Shopify gift box page, customize their order, and schedule pickup. |
+| **Community Engagement** | Graduation & Campus Event Booth | Campus Events | Set up promotional booths during graduation ceremonies, Open House, and campus events where visitors can explore sample gift boxes, scan QR codes, and place online orders. |
+| **Content/Landing Page** | Custom Gift Box Landing Page | Shopify Website | Develop a dedicated landing page featuring gift box customization, product storytelling, pricing, pickup information, FAQs, and a clear **"Build Your Gift Box"** call-to-action. |
 
-------------------------------------------------------------------------
+The campaign tactics work together to create a seamless omnichannel experience. Social media and Google Ads increase awareness, the Shopify landing page provides product information and online ordering, while email marketing, in-store QR code displays, and campus events encourage customer engagement, repeat purchases, and long-term loyalty.
 
 ## Step 8: Create a Budget Recommendation (Sandy)
 
