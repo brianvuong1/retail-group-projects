@@ -182,7 +182,7 @@ The campaign will be considered successful if:
 
 ------------------------------------------------------------------------
 
-## Step 7: Develop Campaign Tactics
+## Step 7: Develop Campaign Tactics (Sandy)
 
 ### Specific Campaign Tactics
 
@@ -198,7 +198,7 @@ The campaign will be considered successful if:
 
 ------------------------------------------------------------------------
 
-## Step 8: Create a Budget Recommendation
+## Step 8: Create a Budget Recommendation (Sandy)
 
 ### Campaign Budget Allocation
 
