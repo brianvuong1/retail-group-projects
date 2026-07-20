@@ -38,11 +38,11 @@ The core issue is that without visibility and education about the custom gift bo
 
 ## Why This Problem Matters
 
-1. **Untapped Revenue Opportunity:** Custom gift boxes typically have higher margins and larger order values than standard products
-2. **Seasonal Demand:** Peak gifting occasions (holidays, Mother's Day, graduation) represent concentrated periods when demand for gift products is highest
-3. **Competitive Advantage:** CPP Farm Store's farm-to-table, campus-grown positioning is distinctly different from generic retailers
-4. **Customer Gap:** Campus community members (students, families, staff, organizations) are ideal customers but don't know this service exists
-5. **Online Experience:** The Shopify prototype has been built but has zero discoverability—the product exists but customers can't find it
+1.  **Untapped Revenue Opportunity:** Custom gift boxes typically have higher margins and larger order values than standard products
+2.  **Seasonal Demand:** Peak gifting occasions (holidays, Mother's Day, graduation) represent concentrated periods when demand for gift products is highest
+3.  **Competitive Advantage:** CPP Farm Store's farm-to-table, campus-grown positioning is distinctly different from generic retailers
+4.  **Customer Gap:** Campus community members (students, families, staff, organizations) are ideal customers but don't know this service exists
+5.  **Online Experience:** The Shopify prototype has been built but has zero discoverability—the product exists but customers can't find it
 
 ## Business Opportunity
 
@@ -54,7 +54,7 @@ By driving awareness and adoption of the custom gift box online ordering feature
 - **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
 - **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
 
----
+------------------------------------------------------------------------
 
 # Step 2: Define the Campaign Objective (Brian)
 
@@ -64,15 +64,15 @@ By driving awareness and adoption of the custom gift box online ordering feature
 
 ## Supporting Objectives
 
-1. **Build Awareness:** Educate the campus community that CPP Farm Store offers customizable gift box options with online ordering through Shopify
+1.  **Build Awareness:** Educate the campus community that CPP Farm Store offers customizable gift box options with online ordering through Shopify
 
-2. **Drive Product Discovery:** Increase traffic to the custom gift box product pages on the Shopify website by 25% within the first 60 days of campaign launch
+2.  **Drive Product Discovery:** Increase traffic to the custom gift box product pages on the Shopify website by 25% within the first 60 days of campaign launch
 
-3. **Encourage Trial and Conversion:** Convert at least 3% of website visitors to the custom gift box product pages into paying customers
+3.  **Encourage Trial and Conversion:** Convert at least 3% of website visitors to the custom gift box product pages into paying customers
 
-4. **Enable Online Ordering:** Position online gifting as a convenient, personalized, and locally sourced alternative to mass-market gift retailers
+4.  **Enable Online Ordering:** Position online gifting as a convenient, personalized, and locally sourced alternative to mass-market gift retailers
 
-5. **Build Loyalty:** Create repeat customers by highlighting the gift-giving use cases and encouraging referrals within the campus community
+5.  **Build Loyalty:** Create repeat customers by highlighting the gift-giving use cases and encouraging referrals within the campus community
 
 ## Alignment with Campaign Theme
 
@@ -92,11 +92,7 @@ This campaign positions CPP Farm Store's custom gift boxes as the perfect soluti
 
 The campaign will be considered successful if:
 
-✓ Custom gift box product pages receive 25% more traffic than baseline
-✓ At least 3% of visitors to product pages convert to customers
-✓ Custom gift box orders increase by 40% or more during the spring season (Feb–May)
-✓ At least 20% of customers making their first custom gift box purchase make a repeat purchase
-✓ Campaign reaches at least 50% of the target audience (students, families, campus organizations)
+✓ Custom gift box product pages receive 25% more traffic than baseline ✓ At least 3% of visitors to product pages convert to customers ✓ Custom gift box orders increase by 40% or more during the spring season (Feb–May) ✓ At least 20% of customers making their first custom gift box purchase make a repeat purchase ✓ Campaign reaches at least 50% of the target audience (students, families, campus organizations)
 
 ------------------------------------------------------------------------
 
@@ -155,7 +151,7 @@ The campaign will be considered successful if:
 ### Channel Strategy
 
 | Channel | Selected | Justification |
-|--------------------|----------------------|-------------------------------|
+|--------------------|----------------------|------------------------------|
 | Shopify website | \[Yes/No\] | \[Explain why this channel is appropriate\] |
 | Google Shopping / Google Merchant Center | \[Yes/No\] | \[Explain why this channel is appropriate\] |
 | Google Search | \[Yes/No\] | \[Explain why this channel is appropriate\] |
@@ -176,7 +172,7 @@ The campaign will be considered successful if:
 ### Customer Journey Across Channels
 
 | Stage | Channels Involved | Customer Action |
-|------------------|-----------------------------|-------------------------|
+|-------------------|-----------------------------|-------------------------|
 | Awareness | \[List channels that create awareness\] | \[What does the customer do?\] |
 | Consideration | \[List channels that facilitate consideration\] | \[What does the customer do?\] |
 | Conversion | \[List channels that enable conversion\] | \[What does the customer do?\] |
@@ -197,7 +193,7 @@ The campaign will be considered successful if:
 ### Specific Campaign Tactics
 
 | Tactic Type | Specific Tactic | Primary Channel | Description |
-|------------------|-------------------|-------------------|------------------|
+|------------------|------------------|------------------|------------------|
 | Product Strategy | \[e.g., Product bundle, Seasonal promotion\] | \[Channel\] | \[Describe how this tactic works\] |
 | Social Media | \[e.g., Content series, Hashtag campaign\] | \[Channel\] | \[Describe how this tactic works\] |
 | Paid Search/Shopping | \[e.g., Search ad copy, Shopping feed optimization\] | \[Channel\] | \[Describe how this tactic works\] |
@@ -251,7 +247,7 @@ The campaign will be considered successful if:
 
 ------------------------------------------------------------------------
 
-## Step 10: Explain Optimization Plan
+## Step 10: Explain Optimization Plan (Ron)
 
 ### Post-Launch Optimization Strategy
 
@@ -303,9 +299,3 @@ The campaign will be considered successful if:
 - [ ] Brief team on campaign strategy
 - [ ] Launch pilot phase
 - [ ] Monitor and optimize based on KPIs
-
-------------------------------------------------------------------------
-
-**Document prepared by:** \[Your name/team name\]\
-**Date:** \[Date\]\
-**Last updated:** \[Date\]
