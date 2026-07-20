@@ -252,43 +252,65 @@ improving the online ordering experience to hit key targets: 40% increase
 in custom gift box orders, 25% increase in product page traffic, and a 3%
 conversion rate.
 
-──────────────────────────────────────────────────────────────────────────
+
 Optimization Area | Specific Action | Frequency | Success Indicator
-──────────────────────────────────────────────────────────────────────────
-Product Optimization | Test product titles, descriptions,
-                     | and images on the custom gift box
-                     | Shopify pages to improve clarity
-                     | and appeal                          | Weekly    | Improved CTR and
-                                                                         conversion rate
-──────────────────────────────────────────────────────────────────────────
-Creative Testing     | A/B test messaging variations
-                     | ("Thoughtful Gifts, Grown Here"
-                     | vs. seasonal headlines) across
-                     | Instagram, TikTok, and email        | Bi-weekly | Highest engagement
-                                                                         and conversion rates
-──────────────────────────────────────────────────────────────────────────
-Performance Analysis | Monitor top-performing gift box
-                     | configurations, traffic sources,
-                     | and underperforming SKUs via
-                     | Shopify and Google Analytics        | Weekly    | Identify trends and
-                                                                         adjustment opportunities
-──────────────────────────────────────────────────────────────────────────
-Budget Reallocation  | Shift spend from low-performing
-                     | channels (e.g., low-ROAS ads) to
-                     | high-performing ones (e.g.,
-                     | Instagram if CTR is strong)         | Monthly   | Improved overall ROAS
-                                                                         and campaign efficiency
-──────────────────────────────────────────────────────────────────────────
-User Experience      | Analyze Shopify bounce rate and
-                     | cart abandonment on gift box pages;
-                     | simplify customization steps and
-                     | checkout flow                       | Ongoing   | Reduced bounce rate,
-                                                                         improved conversion rate
-──────────────────────────────────────────────────────────────────────────
-Data Quality         | Update product feed on Google
-                     | Merchant Center to reflect
-                     | seasonal gift box availability
-                     |
+
+Product Optimization | Test product titles, descriptions, and images on the
+custom gift box Shopify pages to improve clarity and appeal | Weekly |
+Improved CTR and conversion rate
+
+Creative Testing | A/B test messaging variations ("Thoughtful Gifts, Grown
+Here" vs. seasonal headlines) across Instagram, TikTok, and email |
+Bi-weekly | Highest engagement and conversion rates
+
+Performance Analysis | Monitor top-performing gift box configurations,
+traffic sources, and underperforming SKUs via Shopify and Google Analytics |
+Weekly | Identify trends and adjustment opportunities
+
+Budget Reallocation | Shift spend from low-performing channels to
+high-performing ones (e.g., Instagram if CTR is strong) | Monthly |
+Improved overall ROAS and campaign efficiency
+
+User Experience | Analyze Shopify bounce rate and cart abandonment on gift
+box pages; simplify customization steps and checkout flow | Ongoing |
+Reduced bounce rate, improved conversion rate
+
+Data Quality | Update product feed on Google Merchant Center to reflect
+seasonal gift box availability and current inventory | Bi-weekly | Accurate
+feed with high quality score
+
+Seasonal Adjustments | Ramp up spend and content ahead of Mother's Day,
+graduation, and campus appreciation events; scale back post-peak | As needed |
+Alignment with seasonal demand and customer behavior
+
+
+Optimization Process
+
+1. Weekly Review
+Analyze performance data from Shopify, Google Analytics, and social
+platforms. Flag any channel falling below its KPI target (e.g., product
+page CTR below 5%, conversion below 3%) and adjust creative or targeting
+within the same week.
+
+2. Bi-Weekly Testing
+Launch A/B tests on ad copy and creative formats. Compare the campaign
+theme "Thoughtful Gifts, Grown Here" against seasonal variations tied to
+specific occasions (e.g., "The Perfect Mother's Day Gift — Grown on Campus").
+Also validate product feed accuracy every two weeks to maintain Google
+Shopping eligibility.
+
+3. Monthly Strategy Review
+Reallocate budget based on 30-day channel performance. If Instagram or
+TikTok drives higher gift box conversions than Google Search, shift spend
+accordingly. Review cost per acquisition (CPA) against the $15 CPA target
+and adjust bids to maintain efficiency.
+
+4. Continuous Improvement
+Apply learnings from each cycle into the next phase. Document what
+messaging, channels, and product configurations performed best during
+each gifting occasion (Mother's Day, graduation, etc.) to build a
+playbook for future seasonal campaigns at CPP Farm Store.
+
 ### Post-Launch Optimization Strategy
 
 | Optimization Area | Specific Action | Frequency | Success Indicator |
