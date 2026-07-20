@@ -42,11 +42,11 @@ The core issue is that without visibility and education about the custom gift bo
 
 By driving awareness and adoption of the custom gift box online ordering feature, CPP Farm Store can:
 
-- **Increase Average Order Value:** Custom boxes are premium products with higher price points
-- **Expand Market Reach:** Target students and families shopping for campus-related gifts
-- **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
-- **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
-- **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
+-   **Increase Average Order Value:** Custom boxes are premium products with higher price points
+-   **Expand Market Reach:** Target students and families shopping for campus-related gifts
+-   **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
+-   **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
+-   **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
 
 ------------------------------------------------------------------------
 
@@ -76,11 +76,11 @@ This campaign positions CPP Farm Store's custom gift boxes as the perfect soluti
 
 ## Why These Objectives Matter
 
-- **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
-- **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
-- **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
-- **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
-- **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
+-   **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
+-   **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
+-   **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
+-   **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
+-   **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
 
 ## Campaign Success Definition
 
@@ -132,11 +132,11 @@ The campaign will be considered successful if:
 
 ### Example Messages
 
-- Fresh, local, and convenient
-- Campus-grown products for the CPP community
-- Seasonal gifts from CPP Farm Store
-- Discover what is fresh this week
-- Shop local, support CPP
+-   Fresh, local, and convenient
+-   Campus-grown products for the CPP community
+-   Seasonal gifts from CPP Farm Store
+-   Discover what is fresh this week
+-   Shop local, support CPP
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ The campaign will be considered successful if:
 ### Customer Journey Across Channels
 
 | Stage | Channels Involved | Customer Action |
-|-------------------|-----------------------------|-------------------------|
+|-------------------|----------------------------|-------------------------|
 | Awareness | \[List channels that create awareness\] | \[What does the customer do?\] |
 | Consideration | \[List channels that facilitate consideration\] | \[What does the customer do?\] |
 | Conversion | \[List channels that enable conversion\] | \[What does the customer do?\] |
@@ -215,10 +215,10 @@ The campaign will be considered successful if:
 
 ### Budget Summary
 
-- **Total Campaign Budget:** \$\[amount\]
-- **Paid Tactics Total:** \$\[amount\]
-- **Organic Tactics Total:** \$\[amount\]
-- **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
+-   **Total Campaign Budget:** \$\[amount\]
+-   **Paid Tactics Total:** \$\[amount\]
+-   **Organic Tactics Total:** \$\[amount\]
+-   **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
 
 ------------------------------------------------------------------------
 
@@ -243,6 +243,52 @@ The campaign will be considered successful if:
 
 ## Step 10: Explain Optimization Plan (Ron)
 
+Post-Launch Optimization Strategy
+
+CPP Farm Store's campaign must continuously improve after launch to maximize
+performance during the spring peak gifting season (February–May). The
+optimization plan focuses on refining creative, reallocating budget, and
+improving the online ordering experience to hit key targets: 40% increase
+in custom gift box orders, 25% increase in product page traffic, and a 3%
+conversion rate.
+
+──────────────────────────────────────────────────────────────────────────
+Optimization Area | Specific Action | Frequency | Success Indicator
+──────────────────────────────────────────────────────────────────────────
+Product Optimization | Test product titles, descriptions,
+                     | and images on the custom gift box
+                     | Shopify pages to improve clarity
+                     | and appeal                          | Weekly    | Improved CTR and
+                                                                         conversion rate
+──────────────────────────────────────────────────────────────────────────
+Creative Testing     | A/B test messaging variations
+                     | ("Thoughtful Gifts, Grown Here"
+                     | vs. seasonal headlines) across
+                     | Instagram, TikTok, and email        | Bi-weekly | Highest engagement
+                                                                         and conversion rates
+──────────────────────────────────────────────────────────────────────────
+Performance Analysis | Monitor top-performing gift box
+                     | configurations, traffic sources,
+                     | and underperforming SKUs via
+                     | Shopify and Google Analytics        | Weekly    | Identify trends and
+                                                                         adjustment opportunities
+──────────────────────────────────────────────────────────────────────────
+Budget Reallocation  | Shift spend from low-performing
+                     | channels (e.g., low-ROAS ads) to
+                     | high-performing ones (e.g.,
+                     | Instagram if CTR is strong)         | Monthly   | Improved overall ROAS
+                                                                         and campaign efficiency
+──────────────────────────────────────────────────────────────────────────
+User Experience      | Analyze Shopify bounce rate and
+                     | cart abandonment on gift box pages;
+                     | simplify customization steps and
+                     | checkout flow                       | Ongoing   | Reduced bounce rate,
+                                                                         improved conversion rate
+──────────────────────────────────────────────────────────────────────────
+Data Quality         | Update product feed on Google
+                     | Merchant Center to reflect
+                     | seasonal gift box availability
+                     |
 ### Post-Launch Optimization Strategy
 
 | Optimization Area | Specific Action | Frequency | Success Indicator |
@@ -287,9 +333,9 @@ The campaign will be considered successful if:
 
 ### Next Steps
 
-- [ ] Finalize audience targeting parameters
-- [ ] Develop creative assets for each channel
-- [ ] Set up tracking and analytics
-- [ ] Brief team on campaign strategy
-- [ ] Launch pilot phase
-- [ ] Monitor and optimize based on KPIs
+-   [ ] Finalize audience targeting parameters
+-   [ ] Develop creative assets for each channel
+-   [ ] Set up tracking and analytics
+-   [ ] Brief team on campaign strategy
+-   [ ] Launch pilot phase
+-   [ ] Monitor and optimize based on KPIs
