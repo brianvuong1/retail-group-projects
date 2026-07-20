@@ -242,33 +242,50 @@ https://drive.google.com/drive/folders/1-KMTcO4gV5tohDBnDWb-CQprNuARAcWc?usp=sha
 ### Campaign Budget Allocation
 
 | Channel | Budget Amount | Percentage | Organic vs. Paid | Justification |
-|---------------|---------------:|---------------:|---------------|----------------------------------------------------------------|
-| **Social Media Ads** | **$2,000** | **40%** | Paid | Primary investment channel. Instagram Ads target students, alumni, and local community members with engaging visual content, seasonal promotions, and gift box awareness campaigns. |
-| **Google Ads** | **$500** | **10%** | Paid | Supports high-intent customers searching for graduation gifts, Mother's Day gifts, and custom gift boxes, driving qualified traffic to the Shopify website. |
-| **Email Marketing** | **$1,000** | **20%** | Paid | Promotes seasonal gift bundles, reminds customers about ordering deadlines, encourages repeat purchases, and maintains customer relationships after purchase. |
-| **Content Creation** | **$600** | **12%** | Organic | Supports photography, promotional graphics, short-form videos, and landing page content for Shopify, Instagram, and email campaigns. |
-| **In-Store Materials** | **$400** | **8%** | Organic | Covers QR code posters, promotional displays, and informational signage that connect in-store customers with the Shopify gift box page. |
-| **Events/Activations** | **$300** | **6%** | Mixed | Funds graduation booths, campus events, and promotional activities to increase awareness and encourage online orders. |
-| **Contingency** | **$200** | **4%** | Reserve | Reserved for unexpected campaign adjustments, additional advertising opportunities, or seasonal promotions. |
-| **TOTAL** | **$5,000** | **100%** |  |  |
+|---------------|---------------:|---------------:|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Social Media Ads** | **\$250** | **5%** | Paid | Social media serves as a supporting awareness channel. A smaller allocation is sufficient for targeted Instagram promotions that introduce the custom gift box campaign and direct users to the Shopify website. |
+| **Google Ads** | **\$900** | **18%** | Paid | Google Ads receive a larger share because they can reach customers with strong purchase intent who are actively searching for graduation gifts, Mother's Day gifts, custom gift boxes, and locally sourced gift options. These ads will direct qualified traffic to the Shopify gift box landing page. |
+| **Email Marketing** | **\$1,250** | **25%** | Paid | Email marketing is a priority because it can efficiently reach alumni, parents, faculty, staff, and previous customers. Seasonal announcements, order-deadline reminders, personalized promotions, and follow-up messages can increase both initial conversions and repeat purchases. |
+| **Content Creation** | **\$400** | **8%** | Organic | This allocation supports product photography, promotional graphics, short-form videos, email banners, and landing-page content. These creative assets can be reused across Shopify, email, social media, Google Ads, and campus promotions. |
+| **In-Store Materials** | **\$600** | **12%** | Organic | In-store materials receive a meaningful share because QR code posters, gift box displays, checkout signage, and pickup information can connect physical visitors directly to the Shopify ordering experience. These materials help convert existing store traffic into online gift box orders. |
+| **Events/Activations** | **\$1,500** | **30%** | Mixed | Campus events receive the largest allocation because graduation ceremonies, Open House, appreciation events, and other campus activities place the campaign directly in front of students, families, alumni, and campus organizations during high-demand gifting occasions. The budget supports booth setup, product samples, displays, printed materials, and QR-code ordering opportunities. |
+| **Contingency** | **\$100** | **2%** | Reserve | This reserve can support unexpected campaign adjustments, additional event materials, urgent ad changes, or new promotional opportunities during peak gifting periods. |
+| **TOTAL** | **\$5,000** | **100%** |  |  |
 
 ### Budget Summary
 
-- **Total Campaign Budget:** **$5,000**
-- **Paid Tactics Total:** **$3,500**
-- **Organic Tactics Total:** **$1,300**
-- **Contingency Reserve:** **$200**
+- **Total Campaign Budget:** **\$5,000**
+- **Paid Tactics Total:** **\$2,400**
+- **Organic Tactics Total:** **\$2,500**
+- **Contingency Reserve:** **\$100**
+
+### Budget Allocation Rationale
+
+The campaign budget is intentionally concentrated in channels that are most likely to generate custom gift box awareness, qualified website traffic, and completed purchases.
+
+- **Events and Activations receive 30%** because gift boxes are especially relevant during graduation, Open House, employee appreciation, and other campus occasions. These events allow customers to see the products, interact with staff, scan a QR code, and place an order immediately.
+
+- **Email Marketing receives 25%** because it can directly reach alumni, parents, faculty, staff, campus organizations, and previous customers. It is especially useful for seasonal gift reminders, ordering deadlines, personalized recommendations, and repeat-purchase campaigns.
+
+- **Google Ads receive 18%** because they capture customers who already have a clear purchase intention. Customers searching for graduation gifts, local gift baskets, Mother's Day gifts, or CPP-related gifts can be directed to the custom gift box landing page.
+
+- **In-Store Materials receive 12%** because QR code posters, displays, and checkout signage connect the physical Farm Store experience with the Shopify website. This makes it easier for in-store customers to explore customization options, order online, or purchase again later.
+
+- **Social Media Ads receive 5%** because Instagram is still useful for awareness and visual storytelling, but it functions as a supporting channel rather than the campaign's primary conversion channel.
 
 ### Priority Channels
 
-1. **Social Media Ads (40%)**  
-   Instagram is the primary awareness channel for CPP students, alumni, and local community members. Visual storytelling, Reels, and seasonal promotions effectively showcase the custom gift box experience and drive traffic to the Shopify website.
+1. **Events and Activations**  
+   Campus events provide direct access to students, families, alumni, faculty, staff, and campus organizations during high-demand gifting occasions. Product displays, samples, and QR-code ordering can turn event interest into immediate purchases.
 
-2. **Email Marketing (20%)**  
-   Email campaigns provide a cost-effective way to promote seasonal gift collections, remind customers of important ordering deadlines, and encourage repeat purchases through personalized follow-up messages.
+2. **Email Marketing**  
+   Email supports both conversion and retention by delivering seasonal promotions, ordering reminders, pickup information, and follow-up offers directly to relevant customer groups.
 
-3. **Google Ads (10%)**  
-   Google Ads capture customers actively searching for custom gift boxes and seasonal gifts, helping convert high-intent shoppers into online orders.
+3. **Google Ads**  
+   Google Ads reach customers who are actively searching for meaningful and customizable gifts, making this channel valuable for driving high-intent traffic to Shopify.
+
+4. **In-Store Materials**  
+   In-store displays and QR codes strengthen the omnichannel experience by connecting physical store visitors with online customization, ordering, and reordering.
 
 ------------------------------------------------------------------------
 
