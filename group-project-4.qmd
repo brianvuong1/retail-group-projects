@@ -33,7 +33,7 @@ The core issue is that without visibility and education about the custom gift bo
 ## Why This Problem Matters
 
 1.  **Untapped Revenue Opportunity:** Custom gift boxes typically have higher margins and larger order values than standard products
-2.  **Seasonal Demand:** Peak gifting occasions (holidays, Mother's Day, graduation) represent concentrated periods when demand for gift products is highest
+2.  **Seasonal Demand:** Peak gifting occasions represent concentrated periods when demand for gift products is highest
 3.  **Competitive Advantage:** CPP Farm Store's farm-to-table, campus-grown positioning is distinctly different from generic retailers
 4.  **Customer Gap:** Campus community members (students, families, staff, organizations) are ideal customers but don't know this service exists
 5.  **Online Experience:** The Shopify prototype has been built but has zero discoverability—the product exists but customers can't find it
