@@ -42,11 +42,11 @@ The core issue is that without visibility and education about the custom gift bo
 
 By driving awareness and adoption of the custom gift box online ordering feature, CPP Farm Store can:
 
--   **Increase Average Order Value:** Custom boxes are premium products with higher price points
--   **Expand Market Reach:** Target students and families shopping for campus-related gifts
--   **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
--   **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
--   **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
+- **Increase Average Order Value:** Custom boxes are premium products with higher price points
+- **Expand Market Reach:** Target students and families shopping for campus-related gifts
+- **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
+- **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
+- **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
 
 ------------------------------------------------------------------------
 
@@ -76,11 +76,11 @@ This campaign positions CPP Farm Store's custom gift boxes as the perfect soluti
 
 ## Why These Objectives Matter
 
--   **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
--   **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
--   **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
--   **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
--   **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
+- **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
+- **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
+- **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
+- **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
+- **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
 
 ## Campaign Success Definition
 
@@ -132,53 +132,57 @@ The campaign will be considered successful if:
 
 ### Example Messages
 
--   Fresh, local, and convenient
--   Campus-grown products for the CPP community
--   Seasonal gifts from CPP Farm Store
--   Discover what is fresh this week
--   Shop local, support CPP
+- Fresh, local, and convenient
+- Campus-grown products for the CPP community
+- Seasonal gifts from CPP Farm Store
+- Discover what is fresh this week
+- Shop local, support CPP
 
 ------------------------------------------------------------------------
+
+## 
 
 ## Step 5: Select Channels (Alexa)
 
 ### Channel Strategy
 
 | Channel | Selected | Justification |
-|--------------------|----------------------|------------------------------|
-| Shopify website | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Google Shopping / Google Merchant Center | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Google Search | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Instagram | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| TikTok | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Email | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Campus signage | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Campus events | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Google Maps | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| In-store display | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Retail media channel | \[Yes/No\] | \[Explain why this channel is appropriate\] |
-| Student newsletter | \[Yes/No\] | \[Explain why this channel is appropriate\] |
+|:-----------------------|:-----------------------|:-----------------------|
+| **Shopify website** | Yes | The primary transaction hub where the custom gift box configuration tool and online ordering flow live. All digital tactics must direct here. |
+| **Google Shopping / Google Merchant Center** | Yes | Crucial for capturing external gift intent (e.g., parents searching for "CPP graduation gifts") by displaying the custom gift boxes visually at the top of Google search results. |
+| **Google Search** | Yes | Captures high-intent search traffic from campus organizations or families explicitly looking for local corporate gifting or CPP-specific appreciation presents. |
+| **Instagram** | Yes | High-priority visual channel to showcase beautiful photo and video reels of the custom gift boxes, targeting current students and their families. |
+| **TikTok** | Yes | Ideal for organic student outreach through dynamic, short-form video content showing a "behind-the-scenes" look at how campus-grown items are packed into the boxes. |
+| **Email** | Yes | Highly effective for retention and nurturing existing customers, notifying previous Farm Store buyers and campus staff segments about the new gift box feature ahead of major spring holidays. |
+| **Campus signage** | Yes | Drive physical foot traffic and localized awareness using flyers, B-banners, and A-frame signs placed strategically near the store, student union, and high-traffic campus walks. |
+| **Campus events** | Yes | Provides direct experiential touchpoints during spring events (e.g., previewing box options at campus orientations, club fairs, or pre-graduation gatherings). |
+| **Google Maps** | Yes | Ensures local discoverability and verification, letting local gift shoppers easily find store hours, operational updates, and directions for in-store pickup options. |
+| **In-store display** | Yes | Converts current grocery or nursery foot traffic into high-margin gift buyers by showcasing physical, pre-made custom box examples right near the checkout counter. |
+| **Retail media channel** | No | Skipped for this campaign. The budget is better optimized toward direct social, search, and native campus channels rather than third-party retail network ad placements. |
+| **Student newsletter** | Yes | Directly penetrates the student and staff body via trusted campus digital publications (like the ASI newsletter) to build immediate awareness for student organizational events. |
 
 ------------------------------------------------------------------------
+
+## 
 
 ## Step 6: Connect Channels into an Omnichannel Experience (Alexa)
 
 ### Customer Journey Across Channels
 
 | Stage | Channels Involved | Customer Action |
-|-------------------|----------------------------|-------------------------|
-| Awareness | \[List channels that create awareness\] | \[What does the customer do?\] |
-| Consideration | \[List channels that facilitate consideration\] | \[What does the customer do?\] |
-| Conversion | \[List channels that enable conversion\] | \[What does the customer do?\] |
-| Retention | \[List channels that encourage repeat purchase\] | \[What does the customer do?\] |
+|:-----------------------|:-----------------------|:-----------------------|
+| **Awareness** | Instagram, TikTok, Campus Signage, Student Newsletter | The customer scrolls past an Instagram Reel showing a "pack a graduation gift box with me" video, or notices an A-frame sign near the CPP Farm Store entrance. They immediately realize they can order customized, campus-grown gifts online instead of buying generic store items. |
+| **Consideration** | Google Search, Shopify Website, In-Store Display | The customer searches for "unique CPP graduation gifts" online, lands on the Shopify prototype gift-builder page, and begins experimenting with different product combinations (like fruit spreads and farm honey). They might also inspect a physical sample box on display at the store counter to check the quality. |
+| **Conversion** | Shopify Website, In-Store Pickup / POS | The customer finalizes their custom box selection on the Shopify store, adds a personalized digital greeting card, and completes the checkout using their phone. They select the "In-Store Pickup" option to skip shipping fees, receiving a confirmation QR code for collection. |
+| **Retention** | Email Marketing, Instagram, Google Maps | After picking up their order, the customer leaves a 5-star review on Google Maps. A month later, they open a targeted email newsletter offering an early-bird discount code for Mother's Day gift boxes, prompting them to return to the site to purchase another box for their family. |
 
 ### Omnichannel Experience Flow
 
-1.  \[Channel 1\] creates awareness and reaches the target audience
-2.  \[Channel 2\] helps customers find products and learn more
-3.  \[Channel 3\] provides detailed product information and reduces purchase friction
-4.  \[Channel 4\] completes the purchase transaction
-5.  \[Channel 5\] encourages repeat visits and builds customer loyalty
+1.  **Instagram & TikTok** create high-visual awareness and reach the target audience (students and families) with engaging media displaying the custom box builder.
+2.  **Google Shopping & Search** help customers find specific seasonal items and learn more when actively looking for graduation or holiday gifts.
+3.  **The Shopify Website** provides detailed product information, allows dynamic box configuration, and reduces purchase friction with a clear layout.
+4.  **In-Store Pickups & displays** complete the purchase transaction seamlessly, giving local buyers an easy way to collect orders without shipping costs.
+5.  **Targeted Email Campaigns** encourage repeat visits and build long-term customer loyalty by prompting users before the next peak gifting season.
 
 ------------------------------------------------------------------------
 
@@ -215,10 +219,10 @@ The campaign will be considered successful if:
 
 ### Budget Summary
 
--   **Total Campaign Budget:** \$\[amount\]
--   **Paid Tactics Total:** \$\[amount\]
--   **Organic Tactics Total:** \$\[amount\]
--   **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
+- **Total Campaign Budget:** \$\[amount\]
+- **Paid Tactics Total:** \$\[amount\]
+- **Organic Tactics Total:** \$\[amount\]
+- **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
 
 ------------------------------------------------------------------------
 
@@ -227,17 +231,17 @@ The campaign will be considered successful if:
 ### Key Performance Indicators by Stage
 
 | Campaign Stage | Metric | Target Value | Tracking Method |
-|------------------|------------------|------------------|-------------------|
-| Awareness | Website visits | \[e.g., 5,000 visits\] | Google Analytics |
-| Awareness | Social engagement | \[e.g., 500 engagements\] | Social platform analytics |
-| Consideration | Product page views | \[e.g., 3,000 views\] | Google Analytics |
-| Consideration | Click-through rate | \[e.g., 5% CTR\] | Ad platform data |
-| Conversion | Add-to-cart rate | \[e.g., 8% ATC rate\] | Shopify analytics |
-| Conversion | Conversion rate | \[e.g., 3% conversion\] | Shopify analytics |
-| Retention | Repeat purchase rate | \[e.g., 20% repeat rate\] | Shopify + Email CRM |
-| Business Impact | Return on ad spend (ROAS) | \[e.g., \$3.50 ROAS\] | Ad platform + Shopify |
-| Business Impact | Cost per acquisition (CPA) | \[e.g., \$15 CPA\] | Ad platform + Shopify |
-| Business Impact | Campaign revenue | \[e.g., \$50,000\] | Shopify analytics |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **Awareness** | Website visits | 5,000 unique visits | Google Analytics |
+| **Awareness** | Social engagement | 1,200 total engagements (likes, shares, comments) | Meta & TikTok Platform Analytics |
+| **Consideration** | Product page views | 3,000 custom gift box page views | Google Analytics |
+| **Consideration** | Click-through rate | 4.5% CTR on paid ads | Google Ads & Meta Ad Manager |
+| **Conversion** | Add-to-cart rate | 8.0% ATC rate on gift box items | Shopify Analytics |
+| **Conversion** | Conversion rate | 3.0% e-commerce conversion rate | Shopify Analytics |
+| **Retention** | Repeat purchase rate | 20% of first-time buyers returning within the season | Shopify + Email CRM |
+| **Business Impact** | Return on ad spend (ROAS) | \$3.50 ROAS | Google Ads + Shopify |
+| **Business Impact** | Cost per acquisition (CPA) | \$15.00 maximum CPA | Ad Platform Data |
+| **Business Impact** | Campaign revenue | \$15,000 total revenue generated from gift boxes | Shopify Analytics |
 
 ------------------------------------------------------------------------
 
@@ -245,71 +249,33 @@ The campaign will be considered successful if:
 
 Post-Launch Optimization Strategy
 
-CPP Farm Store's campaign must continuously improve after launch to maximize
-performance during the spring peak gifting season (February–May). The
-optimization plan focuses on refining creative, reallocating budget, and
-improving the online ordering experience to hit key targets: 40% increase
-in custom gift box orders, 25% increase in product page traffic, and a 3%
-conversion rate.
+CPP Farm Store's campaign must continuously improve after launch to maximize performance during the spring peak gifting season (February–May). The optimization plan focuses on refining creative, reallocating budget, and improving the online ordering experience to hit key targets: 40% increase in custom gift box orders, 25% increase in product page traffic, and a 3% conversion rate.
 
+Optimization Area \| Specific Action \| Frequency \| Success Indicator
 
-Optimization Area | Specific Action | Frequency | Success Indicator
+Product Optimization \| Test product titles, descriptions, and images on the custom gift box Shopify pages to improve clarity and appeal \| Weekly \| Improved CTR and conversion rate
 
-Product Optimization | Test product titles, descriptions, and images on the
-custom gift box Shopify pages to improve clarity and appeal | Weekly |
-Improved CTR and conversion rate
+Creative Testing \| A/B test messaging variations ("Thoughtful Gifts, Grown Here" vs. seasonal headlines) across Instagram, TikTok, and email \| Bi-weekly \| Highest engagement and conversion rates
 
-Creative Testing | A/B test messaging variations ("Thoughtful Gifts, Grown
-Here" vs. seasonal headlines) across Instagram, TikTok, and email |
-Bi-weekly | Highest engagement and conversion rates
+Performance Analysis \| Monitor top-performing gift box configurations, traffic sources, and underperforming SKUs via Shopify and Google Analytics \| Weekly \| Identify trends and adjustment opportunities
 
-Performance Analysis | Monitor top-performing gift box configurations,
-traffic sources, and underperforming SKUs via Shopify and Google Analytics |
-Weekly | Identify trends and adjustment opportunities
+Budget Reallocation \| Shift spend from low-performing channels to high-performing ones (e.g., Instagram if CTR is strong) \| Monthly \| Improved overall ROAS and campaign efficiency
 
-Budget Reallocation | Shift spend from low-performing channels to
-high-performing ones (e.g., Instagram if CTR is strong) | Monthly |
-Improved overall ROAS and campaign efficiency
+User Experience \| Analyze Shopify bounce rate and cart abandonment on gift box pages; simplify customization steps and checkout flow \| Ongoing \| Reduced bounce rate, improved conversion rate
 
-User Experience | Analyze Shopify bounce rate and cart abandonment on gift
-box pages; simplify customization steps and checkout flow | Ongoing |
-Reduced bounce rate, improved conversion rate
+Data Quality \| Update product feed on Google Merchant Center to reflect seasonal gift box availability and current inventory \| Bi-weekly \| Accurate feed with high quality score
 
-Data Quality | Update product feed on Google Merchant Center to reflect
-seasonal gift box availability and current inventory | Bi-weekly | Accurate
-feed with high quality score
-
-Seasonal Adjustments | Ramp up spend and content ahead of Mother's Day,
-graduation, and campus appreciation events; scale back post-peak | As needed |
-Alignment with seasonal demand and customer behavior
-
+Seasonal Adjustments \| Ramp up spend and content ahead of Mother's Day, graduation, and campus appreciation events; scale back post-peak \| As needed \| Alignment with seasonal demand and customer behavior
 
 Optimization Process
 
-1. Weekly Review
-Analyze performance data from Shopify, Google Analytics, and social
-platforms. Flag any channel falling below its KPI target (e.g., product
-page CTR below 5%, conversion below 3%) and adjust creative or targeting
-within the same week.
+1.  Weekly Review Analyze performance data from Shopify, Google Analytics, and social platforms. Flag any channel falling below its KPI target (e.g., product page CTR below 5%, conversion below 3%) and adjust creative or targeting within the same week.
 
-2. Bi-Weekly Testing
-Launch A/B tests on ad copy and creative formats. Compare the campaign
-theme "Thoughtful Gifts, Grown Here" against seasonal variations tied to
-specific occasions (e.g., "The Perfect Mother's Day Gift — Grown on Campus").
-Also validate product feed accuracy every two weeks to maintain Google
-Shopping eligibility.
+2.  Bi-Weekly Testing Launch A/B tests on ad copy and creative formats. Compare the campaign theme "Thoughtful Gifts, Grown Here" against seasonal variations tied to specific occasions (e.g., "The Perfect Mother's Day Gift — Grown on Campus"). Also validate product feed accuracy every two weeks to maintain Google Shopping eligibility.
 
-3. Monthly Strategy Review
-Reallocate budget based on 30-day channel performance. If Instagram or
-TikTok drives higher gift box conversions than Google Search, shift spend
-accordingly. Review cost per acquisition (CPA) against the $15 CPA target
-and adjust bids to maintain efficiency.
+3.  Monthly Strategy Review Reallocate budget based on 30-day channel performance. If Instagram or TikTok drives higher gift box conversions than Google Search, shift spend accordingly. Review cost per acquisition (CPA) against the \$15 CPA target and adjust bids to maintain efficiency.
 
-4. Continuous Improvement
-Apply learnings from each cycle into the next phase. Document what
-messaging, channels, and product configurations performed best during
-each gifting occasion (Mother's Day, graduation, etc.) to build a
-playbook for future seasonal campaigns at CPP Farm Store.
+4.  Continuous Improvement Apply learnings from each cycle into the next phase. Document what messaging, channels, and product configurations performed best during each gifting occasion (Mother's Day, graduation, etc.) to build a playbook for future seasonal campaigns at CPP Farm Store.
 
 ### Post-Launch Optimization Strategy
 
@@ -355,9 +321,9 @@ playbook for future seasonal campaigns at CPP Farm Store.
 
 ### Next Steps
 
--   [ ] Finalize audience targeting parameters
--   [ ] Develop creative assets for each channel
--   [ ] Set up tracking and analytics
--   [ ] Brief team on campaign strategy
--   [ ] Launch pilot phase
--   [ ] Monitor and optimize based on KPIs
+- [ ] Finalize audience targeting parameters
+- [ ] Develop creative assets for each channel
+- [ ] Set up tracking and analytics
+- [ ] Brief team on campaign strategy
+- [ ] Launch pilot phase
+- [ ] Monitor and optimize based on KPIs
