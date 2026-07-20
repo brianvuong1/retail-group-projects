@@ -42,11 +42,11 @@ The core issue is that without visibility and education about the custom gift bo
 
 By driving awareness and adoption of the custom gift box online ordering feature, CPP Farm Store can:
 
-- **Increase Average Order Value:** Custom boxes are premium products with higher price points
-- **Expand Market Reach:** Target students and families shopping for campus-related gifts
-- **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
-- **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
-- **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
+-   **Increase Average Order Value:** Custom boxes are premium products with higher price points
+-   **Expand Market Reach:** Target students and families shopping for campus-related gifts
+-   **Improve Customer Retention:** Gift purchases create touchpoints for relationship building and repeat orders
+-   **Differentiate from Competitors:** Emphasize the local, campus-grown, customizable nature of products
+-   **Optimize Seasonal Revenue:** Capitalize on predictable gifting seasons with targeted campaigns
 
 ------------------------------------------------------------------------
 
@@ -76,11 +76,11 @@ This campaign positions CPP Farm Store's custom gift boxes as the perfect soluti
 
 ## Why These Objectives Matter
 
-- **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
-- **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
-- **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
-- **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
-- **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
+-   **Specific & Measurable:** The 40% increase in orders and 25% traffic increase provide clear success metrics
+-   **Time-Bound:** Focuses on the spring peak season when gift-giving demand is highest
+-   **Audience-Focused:** Targets the three core customer segments most likely to purchase gifts (students, families, organizations)
+-   **Channel-Aligned:** Emphasizes online discovery and ordering, matching the Shopify platform
+-   **Business Impact:** Directly drives revenue growth and improved utilization of the custom gift box feature
 
 ## Campaign Success Definition
 
@@ -94,27 +94,46 @@ The campaign will be considered successful if:
 
 ### Demographic Profile
 
-\[Insert demographics: age, campus affiliation, socioeconomic status, etc.\]
+The primary target audience consists of **Cal Poly Pomona students, faculty, staff, parents, alumni, and campus organizations** who purchase gifts for holidays, graduations, appreciation events, and special occasions.
+
+- **Age:** 18–65
+- **Location:** Cal Poly Pomona campus and surrounding communities
+- **Income:** Students with limited budgets, working professionals, and families with moderate disposable income
+- **Campus Affiliation:** Students, faculty, staff, alumni, parents, clubs, and university departments
 
 ### Primary Motivations
 
-\[Insert motivations: convenience, sustainability, cost, quality, local support, etc.\]
+Customers want an easy way to purchase thoughtful, locally sourced gifts while supporting Cal Poly Pomona. They value convenience, customization, quality, and meaningful gifts for special occasions such as Mother's Day, graduation, birthdays, and employee appreciation.
 
 ### Shopping Behavior
 
-\[Insert shopping habits: online frequency, in-store frequency, device preferences, time of day, etc.\]
+- Frequently browse products online before purchasing.
+- Use smartphones and social media to discover gift ideas.
+- Prefer quick online ordering with convenient in-store pickup.
+- Shop more frequently during seasonal events and holidays.
+- Appreciate personalized and customizable gift options.
 
 ### Key Pain Points
 
-\[Insert pain points: awareness, accessibility, pricing, discovery, information gaps, etc.\]
+- Many customers are unaware that CPP Farm Store offers custom gift boxes.
+- Customers do not know that gift boxes can now be ordered online.
+- Gift shopping can be time-consuming when customers cannot easily view available options.
+- Customers need a simple, reliable ordering experience with clear product information.
 
 ### Relevant Touchpoints
 
-\[Insert where they spend time: Instagram, TikTok, email, campus events, class, etc.\]
+- Instagram
+- TikTok
+- Shopify website
+- Google Search
+- Google Shopping
+- Campus email newsletters
+- Campus events
+- In-store displays and signage
 
 ### Why This Audience Matters for CPP Farm Store
 
-\[Insert business importance: market size, growth potential, loyalty potential, alignment with business goals, etc.\]
+This audience represents the Farm Store's largest opportunity for growth because they already have a connection to Cal Poly Pomona and frequently purchase gifts throughout the year. Increasing awareness among these customers can drive more online gift box orders, increase average order value, and encourage repeat purchases during seasonal gifting occasions.
 
 ------------------------------------------------------------------------
 
@@ -122,21 +141,28 @@ The campaign will be considered successful if:
 
 ### Primary Campaign Message
 
-\[Insert your primary campaign message here\]
+**Thoughtful Gifts, Grown Here.**
+
+Celebrate every special occasion with a custom gift box from CPP Farm Store. Build your own personalized gift box online with fresh, locally sourced products and enjoy a simple ordering process with convenient in-store pickup.
 
 ### Message Pillars
 
-1.  \[Message pillar 1\]
-2.  \[Message pillar 2\]
-3.  \[Message pillar 3\]
+1. **Convenient Online Ordering**  
+   Easily customize and order gift boxes online through the CPP Farm Store Shopify website.
+
+2. **Fresh, Local, and Meaningful Gifts**  
+   Every gift box features quality products that reflect the Cal Poly Pomona community and support local agriculture.
+
+3. **Perfect for Every Occasion**  
+   Whether it's graduation, Mother's Day, birthdays, holidays, or employee appreciation, CPP Farm Store makes gift giving simple and memorable.
 
 ### Example Messages
 
-- Fresh, local, and convenient
-- Campus-grown products for the CPP community
-- Seasonal gifts from CPP Farm Store
-- Discover what is fresh this week
-- Shop local, support CPP
+- Thoughtful Gifts, Grown Here.
+- Build Your Perfect Gift Box Online.
+- Fresh Gifts for Every Celebration.
+- Shop Local. Support CPP.
+- Personalized Gift Boxes Made Easy.
 
 ------------------------------------------------------------------------
 
@@ -219,10 +245,10 @@ The campaign will be considered successful if:
 
 ### Budget Summary
 
-- **Total Campaign Budget:** \$\[amount\]
-- **Paid Tactics Total:** \$\[amount\]
-- **Organic Tactics Total:** \$\[amount\]
-- **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
+-   **Total Campaign Budget:** \$\[amount\]
+-   **Paid Tactics Total:** \$\[amount\]
+-   **Organic Tactics Total:** \$\[amount\]
+-   **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
 
 ------------------------------------------------------------------------
 
@@ -321,9 +347,9 @@ Optimization Process
 
 ### Next Steps
 
-- [ ] Finalize audience targeting parameters
-- [ ] Develop creative assets for each channel
-- [ ] Set up tracking and analytics
-- [ ] Brief team on campaign strategy
-- [ ] Launch pilot phase
-- [ ] Monitor and optimize based on KPIs
+-   [ ] Finalize audience targeting parameters
+-   [ ] Develop creative assets for each channel
+-   [ ] Set up tracking and analytics
+-   [ ] Brief team on campaign strategy
+-   [ ] Launch pilot phase
+-   [ ] Monitor and optimize based on KPIs
