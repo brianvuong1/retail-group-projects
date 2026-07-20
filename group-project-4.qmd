@@ -212,6 +212,8 @@ Celebrate every special occasion with a custom gift box from CPP Farm Store. Bui
 
 ------------------------------------------------------------------------
 
+## 
+
 ## Step 7: Develop Campaign Tactics (Sandy)
 
 ### Specific Campaign Tactics
@@ -231,29 +233,46 @@ The campaign tactics work together to create a seamless omnichannel experience. 
 The following mockups picutres illustrate how different channel would connect with the omnichannels. There is the google drive access for mockup pictures.
 https://drive.google.com/drive/folders/1-KMTcO4gV5tohDBnDWb-CQprNuARAcWc?usp=share_link
 
+------------------------------------------------------------------------
+
+## 
+
 ## Step 8: Create a Budget Recommendation (Sandy)
 
 ### Campaign Budget Allocation
 
 | Channel | Budget Amount | Percentage | Organic vs. Paid | Justification |
-|---------------|---------------|---------------|---------------|---------------|
-| Social Media Ads | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
-| Google Ads | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
-| Email Marketing | \$\[amount\] | \[%\] | Paid | \[Explain allocation rationale\] |
-| Content Creation | \$\[amount\] | \[%\] | Organic | \[Explain allocation rationale\] |
-| In-Store Materials | \$\[amount\] | \[%\] | Organic | \[Explain allocation rationale\] |
-| Events/Activations | \$\[amount\] | \[%\] | Mixed | \[Explain allocation rationale\] |
-| Contingency | $[amount] | [%] | Reserve | [Explain allocation rationale] |
-| **TOTAL** | **$\[total\]\*\* | **100%** |  |  |
+|---------------|---------------:|---------------:|---------------|----------------------------------------------------------------|
+| **Social Media Ads** | **$2,000** | **40%** | Paid | Primary investment channel. Instagram Ads target students, alumni, and local community members with engaging visual content, seasonal promotions, and gift box awareness campaigns. |
+| **Google Ads** | **$500** | **10%** | Paid | Supports high-intent customers searching for graduation gifts, Mother's Day gifts, and custom gift boxes, driving qualified traffic to the Shopify website. |
+| **Email Marketing** | **$1,000** | **20%** | Paid | Promotes seasonal gift bundles, reminds customers about ordering deadlines, encourages repeat purchases, and maintains customer relationships after purchase. |
+| **Content Creation** | **$600** | **12%** | Organic | Supports photography, promotional graphics, short-form videos, and landing page content for Shopify, Instagram, and email campaigns. |
+| **In-Store Materials** | **$400** | **8%** | Organic | Covers QR code posters, promotional displays, and informational signage that connect in-store customers with the Shopify gift box page. |
+| **Events/Activations** | **$300** | **6%** | Mixed | Funds graduation booths, campus events, and promotional activities to increase awareness and encourage online orders. |
+| **Contingency** | **$200** | **4%** | Reserve | Reserved for unexpected campaign adjustments, additional advertising opportunities, or seasonal promotions. |
+| **TOTAL** | **$5,000** | **100%** |  |  |
 
 ### Budget Summary
 
--   **Total Campaign Budget:** \$\[amount\]
--   **Paid Tactics Total:** \$\[amount\]
--   **Organic Tactics Total:** \$\[amount\]
--   **Priority Channels:** \[List top 2-3 channels and explain why they receive the most investment\]
+- **Total Campaign Budget:** **$5,000**
+- **Paid Tactics Total:** **$3,500**
+- **Organic Tactics Total:** **$1,300**
+- **Contingency Reserve:** **$200**
+
+### Priority Channels
+
+1. **Social Media Ads (40%)**  
+   Instagram is the primary awareness channel for CPP students, alumni, and local community members. Visual storytelling, Reels, and seasonal promotions effectively showcase the custom gift box experience and drive traffic to the Shopify website.
+
+2. **Email Marketing (20%)**  
+   Email campaigns provide a cost-effective way to promote seasonal gift collections, remind customers of important ordering deadlines, and encourage repeat purchases through personalized follow-up messages.
+
+3. **Google Ads (10%)**  
+   Google Ads capture customers actively searching for custom gift boxes and seasonal gifts, helping convert high-intent shoppers into online orders.
 
 ------------------------------------------------------------------------
+
+## 
 
 ## Step 9: Define KPIs (Alexa)
 
