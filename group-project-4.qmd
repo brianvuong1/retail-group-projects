@@ -16,12 +16,6 @@ execute:
 
 # GP4 - Mini Campaign Plan: CPP Farm Store
 
-## Purpose
-
-The purpose of this assignment is to develop a campaign plan that supports CPP Farm Store's business goals. Your campaign should be based on the customer journey, Shopify prototype, and product feed work completed earlier in the project.
-
-The campaign plan should not be a generic advertising idea. It should directly respond to a customer problem, business opportunity, or omnichannel gap identified by your group.
-
 ## Key Question
 
 **How should CPP Farm Store attract, convert, and retain customers through an integrated campaign?**
