@@ -3,7 +3,7 @@ title: "GP5 - Creative Brief / AI Assets"
 author: 
   - "Name 1"
   - "Name 2"
-  - "Name 3"
+  - "Brian Vuong"
   - "Name 4"
   - "Qian Zhu(Sandy)"
 date: today
@@ -40,12 +40,15 @@ library(knitr)
 
 ---
 
-## Step 1: Review the Campaign Plan
+## Step 1: Review the Campaign Plan (Brian)
 
 > Your creative brief should be based on the campaign objective, target audience, and message strategy from Assignment 4.
 
 **Campaign Objective / Strategy Summary:** 
-[Insert brief summary from Assignment 4 here]
+
+The Campaign Obbjective outlines a strategy to drive awareness and adoption of personalized, locally sourced gift boxes among Cal Poly Pomona's student, family, and organizational communities during the spring gifting season (February–May), targeting a 40% increase in orders. The campaign leverages a "Thoughtful Gifts, Grown Here" theme across multiple channels including events, email, Google Ads, and in-store materials, with detailed KPIs for tracking success and an optimization plan for continuous performance improvement.
+
+
 
 ## Step 2: Define the Creative Objective (Sandy)
 
@@ -80,7 +83,7 @@ Alumni have a strong emotional connection to Cal Poly Pomona and are more likely
 Students:
 Students represent the largest on-campus customer segment and are highly engaged with social media, making them easy to reach through digital marketing. However, they typically have limited budgets and may not initially consider purchasing premium gift boxes. They tend to make spontaneous purchases, respond well to discounts and campus promotions, and are most likely to buy gifts for friends, club events, appreciation weeks, or graduation celebrations when the products are affordable and easily accessible.]
 
-## Step 4: Define the Key Message
+## Step 4: Define the Key Message (Ron)
 
 > Your key message should be short and memorable. It should express the main idea customers should remember.
 
@@ -171,18 +174,3 @@ kable(ai_docs, caption = "Summary of AI Usage and Edits")
 
 **Our Discussion:**
 [Address the ethical and practical concerns listed above]
-
----
-
-## Deliverables Checklist
-
-*Before rendering your final document, ensure you have included:*
-
-- [ ] Creative objective
-- [ ] Target audience
-- [ ] Key message
-- [ ] Tone and style
-- [ ] Channel recommendations
-- [ ] At least 3 sample creative assets
-- [ ] AI prompt documentation (if applicable)
-- [ ] Explanation of how the assets support the campaign plan
