@@ -5,7 +5,7 @@ author:
   - "Name 2"
   - "Name 3"
   - "Name 4"
-  - "Name 5"
+  - "Qian Zhu(Sandy)"
 date: today
 format: 
   html:
@@ -52,7 +52,8 @@ library(knitr)
 > Examples: Encourage students to visit CPP Farm Store, Promote seasonal products, Introduce gift bundles, Highlight local or campus-grown products, Increase awareness of store pickup, Create excitement around a limited-time offer.
 
 **Our Creative Objective:**
-[State your specific creative objective here]
+[Our Creative Objective aims to increase awareness of CPP Farm Store's seasonal gift box feature to encourage customer to order online. The campaign will showcase customizable,campus-grown gift bundles as thoughtful,locally sourced gifts for graduation, Mother's day,holidays etc.The creative materials will emphasize convenience, personalization behind CPP Farm Store.Through consistent messaging across digital and physical channels,the campaign encourage customers to discover the gift box collection,place an online order.
+Creative goals: 1.Increase awareness of custom gift box. 2.Promote seasonal and graduation themed gift bundles. 3.Encourage online ordering through shopify. 4.Highlight campus-grown and locally sourced products. 5.Create excitement around time-limited seasonal collections.]
 
 ## Step 3: Define the Target Audience (Sandy)
 
