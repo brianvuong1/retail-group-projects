@@ -53,14 +53,32 @@ library(knitr)
 
 **Our Creative Objective:**
 [Our Creative Objective aims to increase awareness of CPP Farm Store's seasonal gift box feature to encourage customer to order online. The campaign will showcase customizable,campus-grown gift bundles as thoughtful,locally sourced gifts for graduation, Mother's day,holidays etc.The creative materials will emphasize convenience, personalization behind CPP Farm Store.Through consistent messaging across digital and physical channels,the campaign encourage customers to discover the gift box collection,place an online order.
-Creative goals: 1.Increase awareness of custom gift box. 2.Promote seasonal and graduation themed gift bundles. 3.Encourage online ordering through shopify. 4.Highlight campus-grown and locally sourced products. 5.Create excitement around time-limited seasonal collections.]
+Creative goals: 
+1.Increase awareness of custom gift box. 
+2.Promote seasonal and graduation themed gift bundles. 
+3.Encourage online ordering through shopify. 
+4.Highlight campus-grown and locally sourced products. 
+5.Create excitement around time-limited seasonal collections.]
 
 ## Step 3: Define the Target Audience (Sandy)
 
 > Be specific. Do not simply write “everyone.” Explain who the creative is for and what would motivate them.
 
 **Our Target Audience:**
-[Define your audience and their motivations here]
+[Primary Target Audience:
+The primary audience includes Local Community Members, Alumini,Parents and Students looking for meaningful gifts for graduation,Mother's Day,holidays and appreciation events.These custoers value locally sourced products,convenience,and personalized gift options. These customers value locally sourced products,convenience,and personalized gift options.
+
+Local Community Members:
+Local community members are attracted to fresh, locally sourced products and appreciate supporting a university-operated farm, making them a valuable customer segment. However, many are unfamiliar with the CPP campus, store location, and online ordering options, which creates barriers to purchase. They typically research online through Google Search or Google Maps before visiting and are more likely to purchase gift boxes during holidays, special occasions, or weekend shopping trips.
+
+Parents:
+Parents are motivated by the desire to send thoughtful gifts to their children or celebrate milestones such as graduation and birthdays. Their biggest weakness is limited awareness of CPP Farm Store and its customizable gift box service. They often plan purchases in advance, respond well to promotional emails, and prefer convenient online ordering with scheduled pickup or delivery, especially during seasonal gifting periods.
+
+Alumni:
+Alumni have a strong emotional connection to Cal Poly Pomona and are more likely to support campus-related businesses and purchase CPP-themed gifts. Since many no longer live near campus, they depend heavily on digital channels to discover products and place orders. Their purchasing behavior is seasonal, with higher demand during homecoming, graduation, holidays, and alumni events, and they are responsive to email campaigns and exclusive promotions.
+
+Students:
+Students represent the largest on-campus customer segment and are highly engaged with social media, making them easy to reach through digital marketing. However, they typically have limited budgets and may not initially consider purchasing premium gift boxes. They tend to make spontaneous purchases, respond well to discounts and campus promotions, and are most likely to buy gifts for friends, club events, appreciation weeks, or graduation celebrations when the products are affordable and easily accessible.]
 
 ## Step 4: Define the Key Message
 
