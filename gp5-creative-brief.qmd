@@ -47,14 +47,14 @@ library(knitr)
 **Campaign Objective / Strategy Summary:** 
 [Insert brief summary from Assignment 4 here]
 
-## Step 2: Define the Creative Objective
+## Step 2: Define the Creative Objective (Sandy)
 
 > Examples: Encourage students to visit CPP Farm Store, Promote seasonal products, Introduce gift bundles, Highlight local or campus-grown products, Increase awareness of store pickup, Create excitement around a limited-time offer.
 
 **Our Creative Objective:**
 [State your specific creative objective here]
 
-## Step 3: Define the Target Audience
+## Step 3: Define the Target Audience (Sandy)
 
 > Be specific. Do not simply write “everyone.” Explain who the creative is for and what would motivate them.
 
