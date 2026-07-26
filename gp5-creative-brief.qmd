@@ -1,0 +1,169 @@
+---
+title: "GP5 - Creative Brief / AI Assets"
+author: 
+  - "Name 1"
+  - "Name 2"
+  - "Name 3"
+  - "Name 4"
+  - "Name 5"
+date: today
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    theme: default
+execute: 
+  echo: true
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# Load any necessary R packages here (e.g., tidyverse, knitr)
+library(knitr)
+```
+
+## Purpose
+
+> The purpose of this assignment is to create campaign-ready creative direction and sample assets for CPP Farm Store. Your creative work should support the campaign plan and reflect the store’s brand, audience, and business goals.
+> 
+> You may use AI tools to assist with copy, image concepts, layouts, scripts, captions, or promotional ideas. However, AI outputs must be reviewed, edited, and justified by the group. Do not submit unedited AI content without strategic explanation.
+
+## Key Question
+
+> What creative message and assets will help CPP Farm Store connect with the target audience?
+
+**[Group Answer Here: Provide a brief summary answering the key question.]**
+
+---
+
+## Step 1: Review the Campaign Plan
+
+> Your creative brief should be based on the campaign objective, target audience, and message strategy from Assignment 4.
+
+**Campaign Objective / Strategy Summary:** 
+[Insert brief summary from Assignment 4 here]
+
+## Step 2: Define the Creative Objective
+
+> Examples: Encourage students to visit CPP Farm Store, Promote seasonal products, Introduce gift bundles, Highlight local or campus-grown products, Increase awareness of store pickup, Create excitement around a limited-time offer.
+
+**Our Creative Objective:**
+[State your specific creative objective here]
+
+## Step 3: Define the Target Audience
+
+> Be specific. Do not simply write “everyone.” Explain who the creative is for and what would motivate them.
+
+**Our Target Audience:**
+[Define your audience and their motivations here]
+
+## Step 4: Define the Key Message
+
+> Your key message should be short and memorable. It should express the main idea customers should remember.
+
+**Our Key Message:**
+[Write your short, memorable key message here]
+
+## Step 5: Define Tone and Style
+
+> Choose a tone that fits CPP Farm Store. Examples: Friendly, Local, Fresh, Welcoming, Seasonal, Community-oriented, Practical, Student-friendly.
+
+**Our Tone and Style:**
+[Describe your chosen tone and style here]
+
+---
+
+## Step 6: Sample Assets
+
+> Your group should create a small set of sample campaign assets. Recommended minimum: 3 creative assets across at least 2 different channels.
+
+### Asset 1: [Insert Asset Type, e.g., Instagram Post]
+* **Channel:** [e.g., Social Media]
+* **Draft / Concept:** 
+  [Provide your copy, image concept, or link to mockup here]
+
+### Asset 2: [Insert Asset Type, e.g., Email Subject Line & Body]
+* **Channel:** [e.g., Email]
+* **Draft / Concept:** 
+  [Provide your copy, image concept, or link to mockup here]
+
+### Asset 3: [Insert Asset Type, e.g., In-store Sign]
+* **Channel:** [e.g., Physical Retail]
+* **Draft / Concept:** 
+  [Provide your copy, image concept, or link to mockup here]
+
+*(Note: If you have generated mockups, you can insert images into Quarto using `![Caption](image_file_path.jpg)` or display them using an R chunk).*
+
+```{r}
+#| label: display-asset-mockups
+#| eval: false
+
+# Example: If you want to load and display an image via R
+# include_graphics("path_to_your_mockup_image.png")
+```
+
+---
+
+## Step 7: AI Prompt Documentation
+
+> If you use AI, include: Tool used, Prompt examples, Original AI output or summary, Edits made by your group, Reason for edits, Brand-fit explanation.
+
+*(If no AI was used, you can delete this section or state "No AI was used".)*
+
+**Tool Used:** [e.g., ChatGPT, Midjourney, Claude]
+
+**Prompt Examples:**
+[Paste the exact prompt(s) you used]
+
+**Original AI Output (Summary):**
+[What did the AI give you?]
+
+**Edits & Justification:**
+* **What we changed:** [Explain edits]
+* **Why we changed it:** [Explain reason]
+* **Brand-fit explanation:** [How does the final version fit CPP Farm Store?]
+
+*(Optional: You can use a dataframe to organize multiple AI prompts neatly)*
+
+```{r}
+#| label: ai-documentation-table
+#| echo: false
+
+# Example of how to structure your AI documentation in a clean table
+ai_docs <- data.frame(
+  Tool = c("ChatGPT", "Midjourney"),
+  Asset = c("Instagram Copy", "Product Image Concept"),
+  Edits_Made = c("Adjusted tone to be more student-friendly", "Refined lighting and removed unrealistic elements"),
+  Brand_Fit = c("Matches our 'Friendly' tone", "Looks more like actual campus produce")
+)
+
+kable(ai_docs, caption = "Summary of AI Usage and Edits")
+```
+
+---
+
+## Step 8: Ethical and Practical Concerns
+
+> Briefly discuss: Accuracy of product claims, Use of real brand identity, Image ownership or licensing, Avoiding misleading visuals, Respecting CPP Farm Store’s reputation, Whether assets are conceptual or ready to use.
+
+**Our Discussion:**
+[Address the ethical and practical concerns listed above]
+
+---
+
+## Deliverables Checklist
+
+*Before rendering your final document, ensure you have included:*
+
+- [ ] Creative objective
+- [ ] Target audience
+- [ ] Key message
+- [ ] Tone and style
+- [ ] Channel recommendations
+- [ ] At least 3 sample creative assets
+- [ ] AI prompt documentation (if applicable)
+- [ ] Explanation of how the assets support the campaign plan
