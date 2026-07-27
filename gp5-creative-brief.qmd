@@ -2,7 +2,7 @@
 title: "GP5 - Creative Brief / AI Assets"
 author: 
   - "Kevin Bachez"
-  - "Name 2"
+  - "Ron Stephen Sabilla"
   - "Brian Vuong"
   - "Name 4"
   - "Qian Zhu(Sandy)"
@@ -84,10 +84,12 @@ Students represent the largest on-campus customer segment and are highly engaged
 
 ## Step 4: Define the Key Message (Ron)
 
-> Your key message should be short and memorable. It should express the main idea customers should remember.
+This six-word message drives the whole campaign. *Thoughtful* connects with anyone buying a gift that actually means something — whether that's a student grabbing something for a friend's graduation, a parent wanting to celebrate a milestone, or an alum who still feels tied to CPP. *Gifts* makes it clear right away that the Farm Store isn't just a place to pick up produce — it's a destination for something special. And *Grown Here* hits on two levels: it calls out the locally sourced, campus-grown quality of the products, and it taps into that sense of CPP pride that keeps people coming back.
+
+What makes this message work is that it fits everyone we're trying to reach without feeling generic. Students see it and feel the campus connection. Parents and alumni read it and trust that it's something real and personal, not just another gift basket from a big box store. Local community members get the "local" signal without needing any explanation. It's short enough to live on an Instagram caption, punchy enough to stand alone on a sign, and genuine enough to open an email — which is exactly what a message needs to do when it has to show up across this many channels.
 
 **Our Key Message:**
-[Write your short, memorable key message here]
+[**"Thoughtful Gifts, Grown Here."**]
 
 ## Step 5: Define Tone and Style (Alexa)
 
