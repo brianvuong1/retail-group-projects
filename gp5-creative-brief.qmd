@@ -4,7 +4,7 @@ author:
   - "Kevin Bachez"
   - "Ron Stephen Sabilla"
   - "Brian Vuong"
-  - "Name 4"
+  - "Alexa Bueno"
   - "Qian Zhu(Sandy)"
 date: today
 format: 
@@ -107,32 +107,38 @@ Visual Aesthetic: Clean, vibrant imagery featuring natural lighting, earthy tone
 
 ## Step 6: Sample Assets (Alexa)
 
-> Your group should create a small set of sample campaign assets. Recommended minimum: 3 creative assets across at least 2 different channels.
 
 ### Asset 1: [Insert Asset Type, e.g., Instagram Post]
 * **Channel:** [e.g., Social Media]
 * **Draft / Concept:** 
- ![Instagram Feed Post featuring a student holding fresh campus produce and honey](Student.png){width=80% fig-align="center"}
-This image captures the "Fresh & Local" and "Student-Friendly" tone. It features a Cal Poly Pomona student by the campus groves, holding a reusable tote bag filled with the featured items (strawberries and honey) to emphasize sustainability and campus pride.
+![Instagram Feed Post featuring a student holding fresh campus produce and honey](schoolfolder/images/Student_2.png){width=80% fig-align="center"}
+This image captures the "Fresh & Local" and "Student-Friendly" tone. It features a Cal Poly Pomona student by the campus groves, holding a reusable tote bag filled with the featured items (strawberries and honey) to emphasize sustainability and campus pride. The caption for this would be authentic.
+"Fresh from our fields to your hands! 🍊✨ 
+
+Whether you're looking for crisp campus-grown produce, local student-crafted honey, or just taking a well-deserved study break, stop by the CPP Farm Store. Support hands-on student learning and grab your campus favorites today! 
+
+📍 Open daily on campus. See you there!
+
+#CPPFarmStore #CalPolyPomona #StudentFarmers #FreshProduce #CampusLife"
 ### Asset 2: [Interactive Instagram Story]
 * **Channel:** [Instagram]
 * **Draft / Concept:** 
- ![Instagram Story split-screen showcasing a snack showdown between fresh citrus and bakery items](Insta Poll.png){width=60% fig-align="center"}
+![Instagram Story Poll asking users to vote between Campus Grown fruit or Bakery Fresh treats](schoolfolder/images/Insta Poll_2.png){width=80% fig-align="center"}
 This asset is designed for high engagement. It uses a split-screen layout to create a "showdown" between two key product categories: fresh produce (the groves seen in Asset 1) and the in-store bakery. The visual contrast immediately highlights the variety available at the Farm Store.
 ### Asset 3: [Insert Asset Type, e.g., In-store Sign]
 * **Channel:** [Promotional Email Header]
 * **Draft / Concept:** 
-  [Provide your copy, image concept, or link to mockup here]
+![CPP Farm Store email header featuring freshly harvested produce](schoolfolder/images/Oranges_2.png){width=80% fig-align="center"}
+Hi CPP Community,
 
-*(Note: If you have generated mockups, you can insert images into Quarto using `![Caption](image_file_path.jpg)` or display them using an R chunk).*
+Whether you're stocking up your dorm mini-fridge or grabbing a healthy snack between lectures, the CPP Farm Store has you covered with the freshest seasonal picks grown right here at Cal Poly Pomona.
 
-```{r}
-#| label: display-asset-mockups
-#| eval: false
+This Week’s Highlights:
+*   🍊 Freshly harvested campus citrus
+*   🍯 Local student-crafted honey and jams
+*   🌱 Specialty plants and herbs for your space
 
-# Example: If you want to load and display an image via R
-# include_graphics("path_to_your_mockup_image.png")
-```
+Show your student ID at checkout for an extra perk, and support hands-on student learning with every purchase!
 
 ---
 
