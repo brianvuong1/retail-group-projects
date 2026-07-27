@@ -111,7 +111,9 @@ Visual Aesthetic: Clean, vibrant imagery featuring natural lighting, earthy tone
 ### Asset 1: [Insert Asset Type, e.g., Instagram Post]
 * **Channel:** [e.g., Social Media]
 * **Draft / Concept:** 
+
 ![Instagram Feed Post featuring a student holding fresh campus produce and honey](schoolfolder/images/Student_2.png){width=80% fig-align="center"}
+
 This image captures the "Fresh & Local" and "Student-Friendly" tone. It features a Cal Poly Pomona student by the campus groves, holding a reusable tote bag filled with the featured items (strawberries and honey) to emphasize sustainability and campus pride. The caption for this would be authentic.
 "Fresh from our fields to your hands! 🍊✨ 
 
@@ -123,12 +125,16 @@ Whether you're looking for crisp campus-grown produce, local student-crafted hon
 ### Asset 2: [Interactive Instagram Story]
 * **Channel:** [Instagram]
 * **Draft / Concept:** 
+
 ![Instagram Story Poll asking users to vote between Campus Grown fruit or Bakery Fresh treats](schoolfolder/images/Insta Poll_2.png){width=80% fig-align="center"}
+
 This asset is designed for high engagement. It uses a split-screen layout to create a "showdown" between two key product categories: fresh produce (the groves seen in Asset 1) and the in-store bakery. The visual contrast immediately highlights the variety available at the Farm Store.
 ### Asset 3: [Insert Asset Type, e.g., In-store Sign]
 * **Channel:** [Promotional Email Header]
-* **Draft / Concept:** 
+* **Draft / Concept:**
+
 ![CPP Farm Store email header featuring freshly harvested produce](schoolfolder/images/Oranges_2.png){width=80% fig-align="center"}
+
 Hi CPP Community,
 
 Whether you're stocking up your dorm mini-fridge or grabbing a healthy snack between lectures, the CPP Farm Store has you covered with the freshest seasonal picks grown right here at Cal Poly Pomona.
@@ -139,9 +145,7 @@ This Week’s Highlights:
 *   🌱 Specialty plants and herbs for your space
 
 Show your student ID at checkout for an extra perk, and support hands-on student learning with every purchase!
-
 ---
-
 ## Step 7: AI Prompt Documentation
 
 ## Tool Used
