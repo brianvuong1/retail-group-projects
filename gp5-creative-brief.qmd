@@ -93,40 +93,47 @@ What makes this message work is that it fits everyone we're trying to reach with
 
 ## Step 5: Define Tone and Style (Alexa)
 
-> Choose a tone that fits CPP Farm Store. Examples: Friendly, Local, Fresh, Welcoming, Seasonal, Community-oriented, Practical, Student-friendly.
-
 **Our Tone and Style:**
-[Describe your chosen tone and style here]
+For the CPP Farm Store campaign, the tone and style are designed to resonate directly with students, campus visitors, and the local community by blending approachability with a strong sense of local pride.
 
+Friendly & Welcoming: Uses an inviting, warm voice that makes the store feel like an extension of the campus community rather than just a retail stop.
+
+Fresh & Local: Highlights the authenticity of campus-grown produce and student-made goods, emphasizing quality and sustainability.
+
+Student-Friendly & Practical: Keeps messaging straightforward, budget-conscious, and convenient for busy college schedules.
+
+Visual Aesthetic: Clean, vibrant imagery featuring natural lighting, earthy tones (sage green, warm terracotta, and crisp white), and close-ups of fresh harvests to emphasize the farm-to-table appeal.
 ---
 
 ## Step 6: Sample Assets (Alexa)
 
-> Your group should create a small set of sample campaign assets. Recommended minimum: 3 creative assets across at least 2 different channels.
-
-### Asset 1: [Insert Asset Type, e.g., Instagram Post]
-* **Channel:** [e.g., Social Media]
+### Asset 1: [Instagram Feed Post]
+* **Channel:** [Instagram]
 * **Draft / Concept:** 
-  [Provide your copy, image concept, or link to mockup here]
-
-### Asset 2: [Insert Asset Type, e.g., Email Subject Line & Body]
-* **Channel:** [e.g., Email]
+ ![Instagram Feed Post featuring a student holding fresh campus produce and honey](Student.png){width=80% fig-align="center"}
+This image captures the "Fresh & Local" and "Student-Friendly" tone. It features a Cal Poly Pomona student by the campus groves, holding a reusable tote bag filled with the featured items (strawberries and honey) to emphasize sustainability and campus pride.
+### Asset 2: [Interactive Instagram Story]
+* **Channel:** [Instagram]
 * **Draft / Concept:** 
-  [Provide your copy, image concept, or link to mockup here]
-
+ ![Instagram Story split-screen showcasing a snack showdown between fresh citrus and bakery items](Insta Poll.png){width=60% fig-align="center"}
+This asset is designed for high engagement. It uses a split-screen layout to create a "showdown" between two key product categories: fresh produce (the groves seen in Asset 1) and the in-store bakery. The visual contrast immediately highlights the variety available at the Farm Store.
 ### Asset 3: [Insert Asset Type, e.g., In-store Sign]
-* **Channel:** [e.g., Physical Retail]
+* **Channel:** [Promotional Email Header]
 * **Draft / Concept:** 
-  [Provide your copy, image concept, or link to mockup here]
+ ![Email header image showing a rustic wooden crate filled with harvested citrus and avocados](Oranges.png){width=80% fig-align="center"}
+While the email body is text, we need a strong visual header to establish the seasonal theme. This image features a rustic wooden crate—maintaining the "Farm Store" identity—filled with the specific produce mentioned in the email copy (citrus and avocados), ensuring visual consistency across channels.
+**Email Body:**
 
-*(Note: If you have generated mockups, you can insert images into Quarto using `![Caption](image_file_path.jpg)` or display them using an R chunk).*
-
-```{r}
-#| label: display-asset-mockups
-#| eval: false
-
-# Example: If you want to load and display an image via R
-# include_graphics("path_to_your_mockup_image.png")
+> **Hi CPP Community,**
+> 
+> Whether you're stocking up your dorm mini-fridge or grabbing a healthy snack between lectures, the CPP Farm Store has you covered with the freshest seasonal picks grown right here at Cal Poly Pomona.
+> 
+> **This Week’s Highlights:**
+> * 🍊 Freshly harvested campus citrus
+> * 🍯 Local student-crafted honey and jams
+> * 🌱 Specialty plants and herbs for your space
+> 
+> Show your student ID at checkout for an extra perk, and support hands-on student learning with every purchase.
 ```
 
 ---
