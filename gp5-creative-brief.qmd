@@ -233,4 +233,17 @@ kable(
 > Briefly discuss: Accuracy of product claims, Use of real brand identity, Image ownership or licensing, Avoiding misleading visuals, Respecting CPP Farm Store’s reputation, Whether assets are conceptual or ready to use.
 
 **Our Discussion:**
-[Address the ethical and practical concerns listed above]
+
+## Step 8: Ethical and Practical Concerns
+
+> Briefly discuss: Accuracy of product claims, Use of real brand identity, Image ownership or licensing, Avoiding misleading visuals, Respecting CPP Farm Store’s reputation, Whether assets are conceptual or ready to use.
+
+**Our Discussion:**
+
+When developing this campaign for the CPP Farm Store, our group must carefully navigate several practical and ethical considerations, especially when utilizing AI tools:
+
+* **Accuracy of Product Claims:** AI often hallucinates features, promotions, or services. As noted in our AI documentation, we had to manually remove unsupported claims about delivery and pricing. Ethically, we must ensure that every piece of copy only advertises services the Farm Store actually provides (e.g., seamless in-store pickup) and products they actually stock.
+* **Avoiding Misleading Visuals:** Because we are using AI to conceptualize images, there is a risk of visually overpromising. An AI might generate a massive, overflowing gift basket with exotic items that don't reflect the actual inventory. We must ensure that any final visuals accurately represent the true size, packaging, and contents of a real CPP Farm Store gift box so customers aren't disappointed.
+* **Use of Real Brand Identity & Reputation:** The Farm Store is an extension of Cal Poly Pomona. We must strictly adhere to the university’s official brand guidelines (logos, colors, and typography) and maintain a wholesome, community-focused tone. Using aggressive, spammy, or generic marketing tactics would damage the trusted reputation of the university and the farm. 
+* **Image Ownership and Licensing:** Any AI-generated images or stock photos used in our drafts are strictly for visualization. If this campaign were to launch, we would need to ensure we hold the proper commercial licenses for any graphics or, ideally, replace them with authentic, owned photography of the actual Farm Store products to avoid copyright infringement. 
+* **Conceptual Status of Assets:** The creative assets provided in this brief are **conceptual mockups** designed to illustrate the campaign strategy. They are not yet ready-to-use. Before going live, they would require a final review against CPP brand standards, the swapping of AI visuals for actual product photography, and final approval from Farm Store management.
