@@ -90,7 +90,7 @@ Students represent the largest on-campus customer segment and are highly engaged
 **Our Key Message:**
 [Write your short, memorable key message here]
 
-## Step 5: Define Tone and Style
+## Step 5: Define Tone and Style (Alexa)
 
 > Choose a tone that fits CPP Farm Store. Examples: Friendly, Local, Fresh, Welcoming, Seasonal, Community-oriented, Practical, Student-friendly.
 
@@ -99,7 +99,7 @@ Students represent the largest on-campus customer segment and are highly engaged
 
 ---
 
-## Step 6: Sample Assets
+## Step 6: Sample Assets (Alexa)
 
 > Your group should create a small set of sample campaign assets. Recommended minimum: 3 creative assets across at least 2 different channels.
 
@@ -130,7 +130,7 @@ Students represent the largest on-campus customer segment and are highly engaged
 
 ---
 
-## Step 7: AI Prompt Documentation
+## Step 7: AI Prompt Documentation (Kevin)
 
 > If you use AI, include: Tool used, Prompt examples, Original AI output or summary, Edits made by your group, Reason for edits, Brand-fit explanation.
 
@@ -168,7 +168,7 @@ kable(ai_docs, caption = "Summary of AI Usage and Edits")
 
 ---
 
-## Step 8: Ethical and Practical Concerns
+## Step 8: Ethical and Practical Concerns (Brian)
 
 > Briefly discuss: Accuracy of product claims, Use of real brand identity, Image ownership or licensing, Avoiding misleading visuals, Respecting CPP Farm Store’s reputation, Whether assets are conceptual or ready to use.
 
