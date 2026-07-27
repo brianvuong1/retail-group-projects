@@ -1,7 +1,7 @@
 ---
 title: "GP5 - Creative Brief / AI Assets"
 author: 
-  - "Name 1"
+  - "Kevin Bachez"
   - "Name 2"
   - "Brian Vuong"
   - "Name 4"
@@ -130,45 +130,99 @@ Students represent the largest on-campus customer segment and are highly engaged
 
 ---
 
-## Step 7: AI Prompt Documentation (Kevin)
+## Step 7: AI Prompt Documentation
 
-> If you use AI, include: Tool used, Prompt examples, Original AI output or summary, Edits made by your group, Reason for edits, Brand-fit explanation.
+## Tool Used
 
-*(If no AI was used, you can delete this section or state "No AI was used".)*
+**ChatGPT**
 
-**Tool Used:** [e.g., ChatGPT, Midjourney, Claude]
+ChatGPT was used to generate ideas for campaign messaging, promotional copy, visual concepts, and sample creative assets for the CPP Farm Store gift box campaign. The AI-generated content served as a starting point and was reviewed and edited by our group before being included in the final campaign.
 
-**Prompt Examples:**
-[Paste the exact prompt(s) you used]
+## Prompt Examples
 
-**Original AI Output (Summary):**
-[What did the AI give you?]
+### Prompt 1 – Instagram Post
 
-**Edits & Justification:**
-* **What we changed:** [Explain edits]
-* **Why we changed it:** [Explain reason]
-* **Brand-fit explanation:** [How does the final version fit CPP Farm Store?]
+> Create an Instagram post for CPP Farm Store promoting customizable seasonal gift boxes. The target audience includes Cal Poly Pomona students, parents, alumni, and local community members. Use the campaign message "Thoughtful Gifts, Grown Here." Emphasize locally sourced products, personalization, online ordering, and convenient pickup. Use a friendly, fresh, and welcoming tone.
 
-*(Optional: You can use a dataframe to organize multiple AI prompts neatly)*
+### Prompt 2 – Promotional Email
+
+> Write a promotional email introducing CPP Farm Store's customizable gift boxes for graduation, Mother's Day, birthdays, holidays, and appreciation events. Include three possible subject lines, a short email body, and a clear call to action encouraging customers to order online.
+
+### Prompt 3 – In-Store Sign
+
+> Create copy for an in-store sign promoting CPP Farm Store gift boxes. Keep the message concise, welcoming, and easy to read. Highlight customizable gift boxes, locally sourced products, and online ordering.
+
+### Prompt 4 – Product Image Concept
+
+> Create a realistic promotional image concept for a CPP Farm Store seasonal gift box featuring fresh produce, honey, jams, snacks, and CPP-themed items. Use natural lighting and leave room for a promotional headline and call to action.
+
+## Original AI Output (Summary)
+
+ChatGPT generated multiple marketing ideas, including Instagram captions, email subject lines, promotional headlines, calls to action, hashtags, and image concepts. The content emphasized customizable gift boxes, locally sourced products, seasonal occasions, and online ordering while providing several creative directions for the campaign.
+
+## Edits & Justification
+
+### What We Changed
+
+- Shortened the promotional copy to better fit each marketing channel.
+- Used the campaign slogan **"Thoughtful Gifts, Grown Here."** consistently.
+- Added references to CPP Farm Store and Cal Poly Pomona.
+- Removed unsupported claims about discounts, delivery, pricing, and product availability.
+- Adjusted the messaging to better connect with students, parents, alumni, and local community members.
+- Simplified the visual concepts to make them realistic and appropriate for CPP Farm Store.
+
+### Why We Changed It
+
+The AI-generated content provided useful ideas but required editing to accurately represent CPP Farm Store's products, services, and campaign goals. Our group refined the messaging to ensure consistency with the campaign strategy, improve readability, and avoid misleading promotional claims.
+
+### Brand-Fit Explanation
+
+The final creative assets reflect the CPP Farm Store brand by emphasizing fresh, locally sourced products, community support, and thoughtful gift giving. The messaging is friendly, welcoming, and student-focused while encouraging online ordering and increasing awareness of customizable gift boxes. The final assets align with the campaign objective of promoting seasonal gift boxes and strengthening the Farm Store's connection with the Cal Poly Pomona community.
+
+## Summary of AI Usage
 
 ```{r}
-#| label: ai-documentation-table
 #| echo: false
 
-# Example of how to structure your AI documentation in a clean table
+library(knitr)
+
 ai_docs <- data.frame(
-  Tool = c("ChatGPT", "Midjourney"),
-  Asset = c("Instagram Copy", "Product Image Concept"),
-  Edits_Made = c("Adjusted tone to be more student-friendly", "Refined lighting and removed unrealistic elements"),
-  Brand_Fit = c("Matches our 'Friendly' tone", "Looks more like actual campus produce")
+  Tool = c("ChatGPT", "ChatGPT", "ChatGPT", "ChatGPT"),
+  Asset = c(
+    "Instagram Post",
+    "Promotional Email",
+    "In-Store Sign",
+    "Product Image Concept"
+  ),
+  AI_Output = c(
+    "Generated caption, headline, hashtags, and call to action",
+    "Generated subject lines, email body, and call to action",
+    "Suggested promotional sign copy",
+    "Generated visual layout and product image concept"
+  ),
+  Edits_Made = c(
+    "Shortened the caption and added CPP branding",
+    "Removed unsupported promotional claims",
+    "Simplified wording for quick readability",
+    "Adjusted the visual concept to reflect realistic farm store products"
+  ),
+  Brand_Fit = c(
+    "Friendly, fresh, and student-focused",
+    "Community-oriented and informative",
+    "Welcoming and easy to understand",
+    "Realistic, local, and consistent with CPP Farm Store"
+  )
 )
 
-kable(ai_docs, caption = "Summary of AI Usage and Edits")
+kable(
+  ai_docs,
+  caption = "Summary of AI Usage and Group Edits"
+)
 ```
 
 ---
 
-## Step 8: Ethical and Practical Concerns (Brian)
+## Step 8: Ethical and Practical Concerns
 
 > Briefly discuss: Accuracy of product claims, Use of real brand identity, Image ownership or licensing, Avoiding misleading visuals, Respecting CPP Farm Store’s reputation, Whether assets are conceptual or ready to use.
 
