@@ -109,8 +109,8 @@ Visual Aesthetic: Clean, vibrant imagery featuring natural lighting, earthy tone
 
 
 ### Asset 1: [Insert Asset Type, e.g., Instagram Post]
-* **Channel:** [e.g., Social Media]
-* **Draft / Concept:** 
+* **Channel:** Instgram
+* **Draft:** 
 
 ![Instagram Feed Post featuring a student holding fresh campus produce and honey](schoolfolder/images/Student_2.png){width=80% fig-align="center"}
 
@@ -123,15 +123,15 @@ Whether you're looking for crisp campus-grown produce, local student-crafted hon
 
 #CPPFarmStore #CalPolyPomona #StudentFarmers #FreshProduce #CampusLife"
 ### Asset 2: [Interactive Instagram Story]
-* **Channel:** [Instagram]
-* **Draft / Concept:** 
+* **Channel:** Instagram
+* **Draft:** 
 
 ![Instagram Story Poll asking users to vote between Campus Grown fruit or Bakery Fresh treats](schoolfolder/images/Insta Poll_2.png){width=80% fig-align="center"}
 
 This asset is designed for high engagement. It uses a split-screen layout to create a "showdown" between two key product categories: fresh produce (the groves seen in Asset 1) and the in-store bakery. The visual contrast immediately highlights the variety available at the Farm Store.
 ### Asset 3: [Insert Asset Type, e.g., In-store Sign]
-* **Channel:** [Promotional Email Header]
-* **Draft / Concept:**
+* **Channel:** Promotional Email Header
+* **Draft:**
 
 ![CPP Farm Store email header featuring freshly harvested produce](schoolfolder/images/Oranges_2.png){width=80% fig-align="center"}
 
