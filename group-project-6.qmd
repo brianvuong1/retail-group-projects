@@ -1,0 +1,161 @@
+---
+title: "GP6: GA4 - Looker Studio Dashboard"
+subtitle: "CPP Farm Store — Omnichannel & Ecommerce Performance Dashboard"
+author: "Name 1, Name 2, Name 3, Name 4, Name 5"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    theme: cosmo
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+# Purpose
+
+The purpose of this assignment is to design a performance dashboard that shows how CPP Farm Store could evaluate its omnichannel and ecommerce efforts. The dashboard connects campaign goals with measurable outcomes.
+
+This dashboard uses **simulated data**, clearly labeled as such, since real CPP Farm Store data are not available. The goal is to demonstrate what should be measured and how results should guide decision-making.
+
+> **Key Question:** How should CPP Farm Store measure the success of its omnichannel campaign and ecommerce efforts?
+
+---
+
+# Step 1: Dashboard Users
+
+This dashboard is designed for the following audiences:
+
+- **CPP Farm Store manager** — overall performance snapshot
+- **Marketing team** — campaign and channel performance
+- **Ecommerce manager** — product and conversion performance
+- **Student consulting team / client leadership** — executive summary and recommendations
+
+*Note: different users need different levels of detail — the Executive Summary section is built for leadership, while Traffic Acquisition, Product Performance, and Campaign Performance sections are built for operational teams.*
+
+---
+
+# Step 2: Measurement Objectives
+
+This dashboard is built to answer the following measurement objectives:
+
+1. Measure website traffic
+2. Track product page engagement
+3. Monitor campaign performance
+4. Compare channels
+5. Evaluate product interest
+6. Measure store pickup interest
+7. Track conversion behavior
+8. Identify best-performing content
+
+---
+
+# Step 3: KPIs
+
+KPIs were selected to directly answer the measurement objectives above (no metric is included without a business reason):
+
+| KPI | Business Question Answered |
+|---|---|
+| Users / Sessions | Is traffic growing? |
+| Traffic Source | Which channels drive visits? |
+| Product Page Views | Which products generate interest? |
+| Add-to-Cart Events | Is interest converting to intent? |
+| Checkout Starts | Are shoppers moving toward purchase? |
+| Purchases (simulated) | Is the campaign driving revenue? |
+| Conversion Rate | How efficient is the funnel? |
+| Revenue (simulated) | What is the campaign's monetary impact? |
+| Average Order Value | Are customers buying more per order? |
+| Campaign Clicks / CTR | Is campaign creative/targeting effective? |
+| Store Pickup Interest | Is the omnichannel (online-to-store) strategy working? |
+| Returning Visitors | Is the store building repeat engagement? |
+
+---
+
+# Step 4: Data Sources
+
+Possible data sources include:
+
+GA4 demo or simulated data
+
+Shopify data
+
+Google Ads data
+
+Google Merchant Center data
+
+social media metrics
+
+email campaign metrics
+
+manually created campaign data
+
+instructor-provided sample data
+
+If real data are unavailable, create a realistic mock dataset and clearly label it as simulated.
+
+
+---
+
+# Step 5 Dashboard Sections and Visuals
+
+Recommended sections:
+
+Executive summary
+
+Traffic acquisition
+
+Product performance
+
+Campaign performance
+
+Customer behavior funnel
+
+Recommendations or action items
+
+# Step 6: Build Visuals
+
+Use appropriate visuals such as:
+
+Scorecards
+
+Line charts
+
+Bar charts
+
+Tables
+
+Funnel views
+
+Channel comparison charts
+
+Product performance tables
+
+Campaign summary cards
+
+# Step 7: Interpretation & Recommendations
+
+::: {.callout-note}
+## What is performing well?
+Organic Search and Email show the strongest session-to-purchase efficiency in the simulated data, suggesting existing SEO content and the email list are healthy assets worth reinforcing.
+:::
+
+::: {.callout-warning}
+## What needs improvement?
+Paid Social shows comparatively high clicks but a lower simulated conversion rate — indicating a possible mismatch between ad creative/targeting and landing page relevance.
+:::
+
+::: {.callout-tip}
+## Which product or channel deserves more attention?
+The **Seasonal Produce Bundle** and **Farm Box - Large** show high page views but comparatively lower conversion, suggesting an opportunity to test pricing, bundling, or product-page content improvements.
+:::
+
+::: {.callout-important}
+## What should CPP Farm Store do next?
+1. Reallocate a portion of Paid Social budget toward Email and Organic Search, which show stronger simulated efficiency.
+2. A/B test product page content for high-traffic, low-conversion items.
+3. Promote store pickup more prominently at checkout, since simulated pickup interest is a meaningful share of purchases — supporting the omnichannel strategy.
+4. Build a returning-visitor nurture flow (email/loyalty) since repeat visits are a leading indicator of retention.
+:::
