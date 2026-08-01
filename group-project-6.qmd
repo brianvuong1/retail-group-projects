@@ -27,29 +27,38 @@ This dashboard uses **simulated data**, clearly labeled as such, since real CPP 
 
 # Step 1: Dashboard Users
 
-This dashboard is designed for the following audiences:
 
-- **CPP Farm Store manager** — overall performance snapshot
-- **Marketing team** — campaign and channel performance
-- **Ecommerce manager** — product and conversion performance
-- **Student consulting team / client leadership** — executive summary and recommendations
+The CPP Farm Store dashboard is designed primarily for the **CPP Farm Store manager, marketing team, ecommerce manager, and student consulting team**. These users need a clear overview of campaign performance, website activity, product interest, and customer behavior across digital and in-store channels.
 
-*Note: different users need different levels of detail — the Executive Summary section is built for leadership, while Traffic Acquisition, Product Performance, and Campaign Performance sections are built for operational teams.*
+The CPP Farm Store manager and client leadership can use the dashboard to review overall performance and identify whether the omnichannel campaign is supporting business goals. The marketing team can use it to compare traffic sources, evaluate campaign content, and determine which channels are generating the most engagement. The ecommerce manager can monitor product page activity, shopping behavior, and conversion-related actions. The student consulting team can use the dashboard to analyze results and develop recommendations for future campaigns.
 
----
+Because the dashboard serves several users, it should provide both high-level performance summaries and more detailed channel, product, and customer behavior information.
 
-# Step 2: Measurement Objectives
+## 2. Measurement Objectives
 
-This dashboard is built to answer the following measurement objectives:
+The main objective of the dashboard is to help CPP Farm Store evaluate the success of its omnichannel campaign and ecommerce efforts. The dashboard connects campaign activities with measurable customer actions so that the Farm Store can determine what is performing well and where improvements are needed.
 
-1. Measure website traffic
-2. Track product page engagement
-3. Monitor campaign performance
-4. Compare channels
-5. Evaluate product interest
-6. Measure store pickup interest
-7. Track conversion behavior
-8. Identify best-performing content
+The dashboard will be designed to:
+
+- Measure website traffic and changes in visitor activity over time to understand overall interest in the Farm Store and identify trends in customer engagement.
+
+- Identify which marketing channels generate the most users and sessions to determine where visitors are coming from and which channels drive the most traffic.
+
+- Compare traffic from social media, email, search, direct visits, and other campaign sources to evaluate the effectiveness of each marketing channel.
+
+- Evaluate customer engagement with product pages and campaign content by monitoring how visitors interact with featured products and promotional materials.
+
+- Measure interest in featured CPP Farm Store products to identify which items attract the most attention and support merchandising decisions.
+
+- Track customer actions such as add-to-cart events, checkout starts, purchases, email signups, and store pickup interest to measure how customers progress through the buying journey.
+
+- Compare new and returning visitor behavior to better understand customer acquisition, retention, and repeat engagement.
+
+- Identify the products, campaigns, and channels that contribute most to conversions or simulated revenue to help prioritize future marketing efforts and promotional strategies.
+
+- Provide insights that help CPP Farm Store improve future marketing, ecommerce, and omnichannel decisions by using performance data to guide strategic planning and continuous improvement.
+
+These objectives support the campaign plan by showing whether digital marketing activities are increasing awareness, encouraging product exploration, and motivating customers to take meaningful actions online or visit the physical store.
 
 ---
 
