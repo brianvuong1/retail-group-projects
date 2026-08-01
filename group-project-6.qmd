@@ -25,7 +25,7 @@ This dashboard uses **simulated data**, clearly labeled as such, since real CPP 
 
 ---
 
-# Step 1: Dashboard Users
+# Step 1: Dashboard Users (Alexa)
 
 
 The CPP Farm Store dashboard is designed primarily for the **CPP Farm Store manager, marketing team, ecommerce manager, and student consulting team**. These users need a clear overview of campaign performance, website activity, product interest, and customer behavior across digital and in-store channels.
@@ -34,7 +34,8 @@ The CPP Farm Store manager and client leadership can use the dashboard to review
 
 Because the dashboard serves several users, it should provide both high-level performance summaries and more detailed channel, product, and customer behavior information.
 
-## 2. Measurement Objectives
+## 2. Measurement Objectives (Alexa)
+
 
 The main objective of the dashboard is to help CPP Farm Store evaluate the success of its omnichannel campaign and ecommerce efforts. The dashboard connects campaign activities with measurable customer actions so that the Farm Store can determine what is performing well and where improvements are needed.
 
