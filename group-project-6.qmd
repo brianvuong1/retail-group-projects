@@ -63,7 +63,7 @@ These objectives support the campaign plan by showing whether digital marketing 
 
 ---
 
-# Step 3: KPIs
+# Step 3: KPIs (Ron)
 
 KPIs were selected to directly answer the measurement objectives above (no metric is included without a business reason):
 
@@ -109,7 +109,7 @@ If real data are unavailable, create a realistic mock dataset and clearly label 
 
 ---
 
-# Step 5 Dashboard Sections and Visuals
+# Step 5 Dashboard Sections and Visuals (Brian)
 
 Recommended sections:
 
@@ -125,7 +125,7 @@ Customer behavior funnel
 
 Recommendations or action items
 
-# Step 6: Build Visuals
+# Step 6: Build Visuals (Kevin)
 
 Use appropriate visuals such as:
 
@@ -145,7 +145,7 @@ Product performance tables
 
 Campaign summary cards
 
-# Step 7: Interpretation & Recommendations
+# Step 7: Interpretation & Recommendations (Sandy)
 
 ::: {.callout-note}
 ## What is performing well?
