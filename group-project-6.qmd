@@ -1,7 +1,7 @@
 ---
 title: "GP6: GA4 - Looker Studio Dashboard"
 subtitle: "CPP Farm Store — Omnichannel & Ecommerce Performance Dashboard"
-author: "Name 1, Name 2, Name 3, Name 4, Name 5"
+author: "Kevin, Alexa, Sandy, Brian, Ron"
 date: today
 format:
   html:
