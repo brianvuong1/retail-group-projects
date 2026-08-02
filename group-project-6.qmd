@@ -154,30 +154,95 @@ omnichannel strategy is working. All other KPIs measure digital performance —
 this one measures whether digital activity is translating into real-world
 behavior, which is the core goal of an omnichannel campaign.
 
-# Step 4: Data Sources
+# Step 4: Data Sources (Ron)
 
-Possible data sources include:
+Because CPP Farm Store does not have a live ecommerce operation with real
+transaction history, all data used in this dashboard is simulated and clearly
+labeled as such throughout. Each dataset was built to realistically reflect
+what a farm store of this size and scope would see during a short omnichannel
+campaign. Values were modeled using industry benchmarks for small regional
+retailers where noted.
 
-GA4 demo or simulated data
+## 4.1 Data Source Map
 
-Shopify data
+The table below connects each dashboard section to its data source so it is
+clear where every number comes from.
 
-Google Ads data
+| Dashboard Section | Data Source | Real or Simulated |
+|---|---|---|
+| Executive Summary | GA4 + Shopify (simulated) | Simulated |
+| Traffic Acquisition | GA4 (simulated) | Simulated |
+| Product Performance | GA4 + Shopify (simulated) | Simulated |
+| Campaign Performance | Google Ads + Social Media (simulated) | Simulated |
+| Customer Behavior Funnel | GA4 + Shopify (simulated) | Simulated |
+| Store Pickup Interest | Custom mock dataset | Simulated |
 
-Google Merchant Center data
+## 4.2 Data Sources Explained
 
-social media metrics
+**GA4 — Simulated**
+Website traffic metrics including users, sessions, traffic source breakdowns,
+product page views, add-to-cart events, checkout starts, and returning visitor
+behavior are drawn from a simulated GA4 dataset. The data covers a 30-day
+campaign window and reflects traffic split across organic search, direct,
+social, and email channels using retail industry benchmarks as a reference
+point.
 
-email campaign metrics
+**Shopify — Simulated**
+Product-level performance data including product page views, add-to-cart
+events, purchases, revenue, and average order value is sourced from a
+simulated Shopify export. Products included are based on CPP Farm Store's
+known offerings such as produce, eggs, honey, and seasonal goods. Pricing and
+purchase volume were estimated to reflect realistic basket sizes for a campus
+farm store.
 
-manually created campaign data
+**Google Ads — Simulated**
+Campaign click and click-through rate data is drawn from a simulated Google
+Ads export representing a small paid search and Shopping Ads campaign running
+alongside organic and social efforts. CTR values were benchmarked against
+Google's published retail industry averages of approximately 2–4% for Shopping
+Ads.
 
-instructor-provided sample data
+**Social Media Metrics — Simulated**
+Traffic driven from Instagram and Facebook is reflected in the GA4 traffic
+source breakdown. Engagement figures such as reach and link clicks were
+estimated based on a farm store audience of 1,000–3,000 followers using
+typical organic reach rates for small business accounts.
 
-If real data are unavailable, create a realistic mock dataset and clearly label it as simulated.
+**Email Campaign Metrics — Simulated**
+Email-driven sessions are included in the traffic acquisition section. Open
+rates and click-through rates were modeled using Mailchimp's retail benchmark
+averages of approximately 21% open rate and 2.5% CTR.
 
+**Store Pickup Interest — Custom Mock Dataset**
+Because store pickup is the core omnichannel signal for CPP Farm Store, a
+custom dataset was created to simulate pickup-related behavior — including
+which channel visitors came from before expressing pickup interest and how
+that interest varies by product category. This dataset has no real-world
+equivalent and is entirely simulated.
 
----
+## 4.3 Data Limitations
+
+::: {.callout-warning}
+## Simulated Data Notice
+All data in this dashboard is simulated and does not represent actual CPP
+Farm Store transaction history, web analytics, or campaign results. The
+purpose is to demonstrate what should be measured and how it should guide
+decisions. If CPP Farm Store were to implement this dashboard operationally,
+real GA4, Shopify, and Google Ads accounts would replace all simulated figures
+with live data.
+:::
+
+A few additional limitations worth noting:
+
+- **No historical baseline.** Without prior campaign data, year-over-year or
+  campaign-over-campaign comparisons are not possible. Industry averages are
+  used as benchmarks instead.
+- **Store pickup is a proxy signal.** Pickup interest cannot confirm whether
+  a customer actually visited the physical store after browsing online.
+- **Attribution gaps.** In a real deployment, some conversions would be
+  difficult to attribute to a single channel — particularly for customers
+  who discovered the store on social media but purchased through a direct
+  visit.
 
 # Step 5: Design Dashboard Sections (Brian)
 
