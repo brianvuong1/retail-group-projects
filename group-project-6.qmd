@@ -65,24 +65,94 @@ These objectives support the campaign plan by showing whether digital marketing 
 
 # Step 3: KPIs (Ron)
 
-KPIs were selected to directly answer the measurement objectives above (no metric is included without a business reason):
+KPIs were selected to directly answer the measurement objectives and support
+the dashboard users identified for this project. Every metric included below
+answers a specific business question for a specific user — no KPI was added
+simply because it was available.
+
+## 3.1 Executive Summary KPIs
+*For: CPP Farm Store manager and client leadership*
 
 | KPI | Business Question Answered |
 |---|---|
-| Users / Sessions | Is traffic growing? |
-| Traffic Source | Which channels drive visits? |
-| Product Page Views | Which products generate interest? |
-| Add-to-Cart Events | Is interest converting to intent? |
-| Checkout Starts | Are shoppers moving toward purchase? |
-| Purchases (simulated) | Is the campaign driving revenue? |
-| Conversion Rate | How efficient is the funnel? |
+| Users | Is overall interest in CPP Farm Store growing? |
+| Sessions | How much total activity is the campaign generating? |
+| Purchases (simulated) | Is the campaign driving buying behavior? |
 | Revenue (simulated) | What is the campaign's monetary impact? |
-| Average Order Value | Are customers buying more per order? |
-| Campaign Clicks / CTR | Is campaign creative/targeting effective? |
-| Store Pickup Interest | Is the omnichannel (online-to-store) strategy working? |
-| Returning Visitors | Is the store building repeat engagement? |
+| Conversion Rate | How efficiently is traffic turning into action? |
+| Average Order Value | Are customers buying more per transaction? |
 
----
+These six metrics give leadership a quick read on whether the campaign is
+working at the highest level without requiring them to dig into channel or
+product details.
+
+## 3.2 Traffic Acquisition KPIs
+*For: Marketing team*
+
+| KPI | Business Question Answered |
+|---|---|
+| Traffic Source | Which channels — social, email, search, direct — are driving visits? |
+| Sessions by Channel | Where is the most engagement coming from? |
+| Returning Visitors | Is the store building repeat engagement over the campaign? |
+| New vs. Returning Split | Is the campaign reaching new audiences or re-engaging existing ones? |
+
+These metrics support the marketing team's need to compare channel
+effectiveness and determine where to invest future campaign efforts.
+
+## 3.3 Product Performance KPIs
+*For: Ecommerce manager*
+
+| KPI | Business Question Answered |
+|---|---|
+| Product Page Views | Which products are generating the most interest? |
+| Add-to-Cart Events | Is interest in a product converting to purchase intent? |
+| Purchases by Product | Which products are actually selling? |
+
+These three metrics form a mini-funnel at the product level — from awareness
+(views) to intent (add-to-cart) to action (purchase) — giving the ecommerce
+manager a clear picture of which products are performing and which are losing
+customers somewhere along the way.
+
+## 3.4 Campaign Performance KPIs
+*For: Marketing team and campaign manager*
+
+| KPI | Business Question Answered |
+|---|---|
+| Campaign Clicks | Is the campaign creative getting attention? |
+| Click-Through Rate (CTR) | Is the targeting and messaging relevant to the audience? |
+
+CTR is especially important here because a low CTR signals a mismatch between
+who is seeing the ad and what the ad is saying — a directly actionable insight
+for the campaign manager.
+
+## 3.5 Customer Behavior Funnel KPIs
+*For: Ecommerce manager and student consulting team*
+
+| KPI | Business Question Answered |
+|---|---|
+| Sessions → Product Views | Are visitors engaging with products at all? |
+| Product Views → Add to Cart | Are interested visitors moving toward purchase? |
+| Add to Cart → Checkout Started | Are shoppers following through on intent? |
+| Checkout Started → Purchases | Are shoppers completing the transaction? |
+| Overall Conversion Rate | How efficient is the full funnel end to end? |
+
+Each step in this funnel is a KPI in its own right because each drop-off
+point tells a different story. A drop between sessions and product views
+suggests a navigation or homepage issue. A drop between add-to-cart and
+checkout suggests friction at the cart level. The consulting team can use
+this to pinpoint exactly where CPP Farm Store should focus improvement efforts.
+
+## 3.6 Omnichannel Signal KPI
+*For: CPP Farm Store manager and student consulting team*
+
+| KPI | Business Question Answered |
+|---|---|
+| Store Pickup Interest | Is the online campaign successfully driving customers to the physical store? |
+
+This is the single most important KPI for evaluating whether CPP Farm Store's
+omnichannel strategy is working. All other KPIs measure digital performance —
+this one measures whether digital activity is translating into real-world
+behavior, which is the core goal of an omnichannel campaign.
 
 # Step 4: Data Sources
 
