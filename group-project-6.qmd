@@ -109,21 +109,32 @@ If real data are unavailable, create a realistic mock dataset and clearly label 
 
 ---
 
-# Step 5 Dashboard Sections and Visuals (Brian)
+# Step 5: Design Dashboard Sections (Brian)
 
-Recommended sections:
+To evaluate CPP Farm Store's omnichannel and ecommerce campaign, the dashboard is organized into six sections, each targeted at a specific measurement objective and audience.
 
-Executive summary
+## 5.1 Executive Summary
+High-level scorecards (Users, Sessions, Purchases, Revenue, Conversion Rate, AOV) for CPP Farm Store leadership to get a quick read on overall campaign health.
 
-Traffic acquisition
+## 5.2 Traffic Acquisition
+Session/user trends over time and channel comparison, for the marketing team to see where visitors are coming from and whether traffic is growing.
 
-Product performance
+## 5.3 Product Performance
+Page views, add-to-cart, and purchases by product, for the ecommerce manager to identify which products are generating interest and which are underperforming.
 
-Campaign performance
+## 5.4 Campaign Performance
+Clicks and click-through rate by paid/owned channel, for the campaign manager to evaluate creative and targeting effectiveness.
 
-Customer behavior funnel
+## 5.5 Customer Behavior Funnel
+Sessions → Product Views → Add to Cart → Checkout Started → Purchases, to show where drop-off occurs in the conversion path.
 
-Recommendations or action items
+## 5.6 Store Pickup Interest (Omnichannel Signal)
+Pickup interest by channel, to measure how well the online experience is driving in-store engagement — the core omnichannel signal for this dashboard.
+
+::: {.callout-note}
+## Section Rationale
+Each section maps directly to a measurement objective from Step 2 and a KPI from Step 3 — no section or chart type was added without a clear business question behind it. Sections are ordered from **highest-level (Executive Summary)** to **most granular (Store Pickup Interest)** so leadership can skim the top while operational teams can dig into specifics further down.
+:::
 
 # Step 6: Build Visuals (Kevin)
 
