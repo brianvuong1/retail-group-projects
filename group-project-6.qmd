@@ -340,23 +340,46 @@ This organization enables CPP Farm Store managers and the student consulting tea
 
 ::: {.callout-note}
 ## What is performing well?
-Organic Search and Email show the strongest session-to-purchase efficiency in the simulated data, suggesting existing SEO content and the email list are healthy assets worth reinforcing.
+Organic Search and Email Marketing generated the strongest conversion rates in the simulated campaign. These channels successfully attracted qualified visitors who were more likely to browse products, complete purchases, and express interest in store pickup.
+
+The dashboard also shows healthy engagement with the Custom Gift Box collection, indicating that personalized gift products resonate well with the target audience during seasonal campaigns.
 :::
 
 ::: {.callout-warning}
 ## What needs improvement?
-Paid Social shows comparatively high clicks but a lower simulated conversion rate — indicating a possible mismatch between ad creative/targeting and landing page relevance.
+Paid Social generated a high number of clicks but a comparatively lower conversion rate. This suggests that although advertisements successfully attracted attention, the campaign messaging or landing page experience may not fully match customer expectations.
+
+Several products also received strong page views but relatively few purchases, indicating potential pricing concerns or insufficient product information.
 :::
 
-::: {.callout-tip}
-## Which product or channel deserves more attention?
-The **Seasonal Produce Bundle** and **Farm Box - Large** show high page views but comparatively lower conversion, suggesting an opportunity to test pricing, bundling, or product-page content improvements.
+::: {.callout-warning}
+## Key Opportunities
+
+The dashboard highlights several opportunities to improve campaign performance.
+
+- Expand Email Marketing campaigns during graduation and holiday seasons.
+- Increase investment in Google Search campaigns targeting high-intent gift shoppers.
+- Improve Shopify product pages by adding customer reviews, better product photos, and stronger product descriptions.
+- Promote Store Pickup more prominently throughout the customer journey.
 :::
 
 ::: {.callout-important}
-## What should CPP Farm Store do next?
-1. Reallocate a portion of Paid Social budget toward Email and Organic Search, which show stronger simulated efficiency.
-2. A/B test product page content for high-traffic, low-conversion items.
-3. Promote store pickup more prominently at checkout, since simulated pickup interest is a meaningful share of purchases — supporting the omnichannel strategy.
-4. Build a returning-visitor nurture flow (email/loyalty) since repeat visits are a leading indicator of retention.
+## Recommendations
+
+Based on the dashboard insights, the following actions are recommended for future campaigns:
+
+1. Increase investment in Email Marketing because it delivers the highest conversion rate and encourages repeat purchases.
+
+2. Expand Google Search campaigns to capture customers actively searching for graduation gifts, Mother's Day gifts, and custom gift boxes.
+
+3. Improve underperforming product pages by adding richer product descriptions, customer testimonials, and bundle recommendations.
+
+4. Promote Store Pickup throughout the Shopify checkout process and marketing materials to strengthen the omnichannel customer experience.
+
+5. Continue promoting Custom Gift Boxes during graduation, Open House, and campus events, where customers have the highest purchase intent.
 :::
+
+::: {.callout-important}
+## Overall Recommendation
+
+The dashboard indicates that CPP Farm Store should prioritize high-converting marketing channels such as Email Marketing and Google Search while continuing to strengthen its omnichannel experience through improved Shopify product pages, campus event promotions, and enhanced store pickup communication. By focusing on customer intent rather than simply increasing website traffic, future campaigns can generate stronger conversion rates, higher average order values, and increased customer loyalty.
