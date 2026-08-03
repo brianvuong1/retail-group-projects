@@ -273,23 +273,68 @@ Each section maps directly to a measurement objective from Step 2 and a KPI from
 
 # Step 6: Build Visuals (Kevin)
 
-Use appropriate visuals such as:
+The dashboard was created in **Looker Studio** using simulated Google Analytics 4 (GA4) and ecommerce data for the CPP Farm Store. The goal of the dashboard is to provide a clear, organized view of campaign performance so managers and the student consulting team can quickly evaluate website activity, customer engagement, product performance, and overall marketing effectiveness.
 
-Scorecards
+The dashboard was designed using a combination of scorecards, charts, and tables to present the most important performance metrics without overwhelming the user. Each visualization answers a specific business question and supports the campaign objectives identified in the previous steps.
 
-Line charts
+## Dashboard Visualizations
 
-Bar charts
+### Executive Summary
 
-Tables
+The Executive Summary uses **scorecards** to provide an overview of the campaign's key performance indicators (KPIs). These include:
 
-Funnel views
+- Total Users
+- Sessions
+- Purchases
+- Revenue
+- Product Views
+- Store Pickup Interest
 
-Channel comparison charts
+These metrics allow CPP Farm Store managers to immediately evaluate the overall success of the campaign.
 
-Product performance tables
+### Website Traffic
 
-Campaign summary cards
+A **line chart** titled **Website Sessions Over Time** displays changes in website traffic throughout the campaign period. This visualization helps identify trends in visitor activity and whether marketing efforts are increasing website engagement over time.
+
+### Marketing Channel Performance
+
+A **bar chart** compares website sessions across marketing channels, including Social Media, Organic Search, Paid Search, Email, and Direct traffic. This visualization helps determine which channels generate the most website traffic and supports future marketing budget decisions.
+
+### Product Performance
+
+Product performance is presented using both a **horizontal bar chart** and a **performance table**.
+
+The horizontal bar chart compares product page views across CPP Farm Store products, while the accompanying table summarizes:
+
+- Product Views
+- Add-to-Cart Events
+- Checkout Starts
+- Purchases
+- Revenue
+
+These visuals help identify the products generating the greatest customer interest and those contributing the most simulated revenue.
+
+### Campaign Performance
+
+Campaign performance is displayed through a **bar chart** showing Purchases by Campaign and a detailed summary table containing:
+
+- Sessions
+- Purchases
+- Revenue
+
+These visuals allow the marketing team to compare campaign effectiveness and determine which promotional efforts produce the strongest customer response.
+
+## Dashboard Preview
+
+![](images/Looker%20Studio%20Dashboard.png){fig-align="center" width="100%"}
+
+**Figure 1.** CPP Farm Store Omnichannel Performance Dashboard created in Looker Studio using simulated data.
+
+## Dashboard Design
+
+The dashboard follows a logical top-to-bottom layout beginning with high-level performance indicators and progressing toward more detailed analyses. Scorecards provide an immediate overview of campaign performance, while charts and tables allow users to explore traffic sources, product interest, and campaign results in greater detail.
+
+This organization enables CPP Farm Store managers and the student consulting team to quickly identify performance trends, evaluate marketing effectiveness, and support data-driven decisions for future omnichannel campaigns.
 
 # Step 7: Interpretation & Recommendations (Sandy)
 
