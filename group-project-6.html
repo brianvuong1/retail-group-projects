@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,9 +11,6 @@
 
 <title>GP6: GA4 - Looker Studio Dashboard</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -31,14 +28,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="group-project-6_files/libs/clipboard/clipboard.min.js"></script>
 <script src="group-project-6_files/libs/quarto-html/quarto.js" type="module"></script>
 <script src="group-project-6_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="group-project-6_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="group-project-6_files/libs/quarto-html/popper.min.js"></script>
 <script src="group-project-6_files/libs/quarto-html/tippy.umd.min.js"></script>
 <script src="group-project-6_files/libs/quarto-html/anchor.min.js"></script>
 <link href="group-project-6_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="group-project-6_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="group-project-6_files/libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="group-project-6_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="group-project-6_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="group-project-6_files/libs/bootstrap/bootstrap-8ffd5f67044e5306d9846f29df41dda5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="group-project-6_files/libs/bootstrap/bootstrap-a74871fe4945b66d259aafc266475145.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -80,7 +78,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#customer-behavior-funnel" id="toc-customer-behavior-funnel" class="nav-link" data-scroll-target="#customer-behavior-funnel">5.5 Customer Behavior Funnel</a></li>
   <li><a href="#store-pickup-interest-omnichannel-signal" id="toc-store-pickup-interest-omnichannel-signal" class="nav-link" data-scroll-target="#store-pickup-interest-omnichannel-signal">5.6 Store Pickup Interest (Omnichannel Signal)</a></li>
   </ul></li>
-  <li><a href="#step-6-build-visuals-kevin" id="toc-step-6-build-visuals-kevin" class="nav-link" data-scroll-target="#step-6-build-visuals-kevin">Step 6: Build Visuals (Kevin)</a></li>
+  <li><a href="#step-6-build-visuals-kevin" id="toc-step-6-build-visuals-kevin" class="nav-link" data-scroll-target="#step-6-build-visuals-kevin">Step 6: Build Visuals (Kevin)</a>
+  <ul class="collapse">
+  <li><a href="#dashboard-visualizations" id="toc-dashboard-visualizations" class="nav-link" data-scroll-target="#dashboard-visualizations">Dashboard Visualizations</a>
+  <ul class="collapse">
+  <li><a href="#executive-summary-1" id="toc-executive-summary-1" class="nav-link" data-scroll-target="#executive-summary-1">Executive Summary</a></li>
+  <li><a href="#website-traffic" id="toc-website-traffic" class="nav-link" data-scroll-target="#website-traffic">Website Traffic</a></li>
+  <li><a href="#marketing-channel-performance" id="toc-marketing-channel-performance" class="nav-link" data-scroll-target="#marketing-channel-performance">Marketing Channel Performance</a></li>
+  <li><a href="#product-performance-1" id="toc-product-performance-1" class="nav-link" data-scroll-target="#product-performance-1">Product Performance</a></li>
+  <li><a href="#campaign-performance-1" id="toc-campaign-performance-1" class="nav-link" data-scroll-target="#campaign-performance-1">Campaign Performance</a></li>
+  </ul></li>
+  <li><a href="#dashboard-preview" id="toc-dashboard-preview" class="nav-link" data-scroll-target="#dashboard-preview">Dashboard Preview</a></li>
+  <li><a href="#dashboard-design" id="toc-dashboard-design" class="nav-link" data-scroll-target="#dashboard-design">Dashboard Design</a></li>
+  </ul></li>
   <li><a href="#step-7-interpretation-recommendations-sandy" id="toc-step-7-interpretation-recommendations-sandy" class="nav-link" data-scroll-target="#step-7-interpretation-recommendations-sandy">Step 7: Interpretation &amp; Recommendations (Sandy)</a></li>
   </ul>
 </nav>
@@ -478,15 +488,69 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="step-6-build-visuals-kevin" class="level1">
 <h1>Step 6: Build Visuals (Kevin)</h1>
-<p>Use appropriate visuals such as:</p>
-<p>Scorecards</p>
-<p>Line charts</p>
-<p>Bar charts</p>
-<p>Tables</p>
-<p>Funnel views</p>
-<p>Channel comparison charts</p>
-<p>Product performance tables</p>
-<p>Campaign summary cards</p>
+<p>The dashboard was created in <strong>Looker Studio</strong> using simulated Google Analytics 4 (GA4) and ecommerce data for the CPP Farm Store. The goal of the dashboard is to provide a clear, organized view of campaign performance so managers and the student consulting team can quickly evaluate website activity, customer engagement, product performance, and overall marketing effectiveness.</p>
+<p>The dashboard was designed using a combination of scorecards, charts, and tables to present the most important performance metrics without overwhelming the user. Each visualization answers a specific business question and supports the campaign objectives identified in the previous steps.</p>
+<section id="dashboard-visualizations" class="level2">
+<h2 class="anchored" data-anchor-id="dashboard-visualizations">Dashboard Visualizations</h2>
+<section id="executive-summary-1" class="level3">
+<h3 class="anchored" data-anchor-id="executive-summary-1">Executive Summary</h3>
+<p>The Executive Summary uses <strong>scorecards</strong> to provide an overview of the campaign’s key performance indicators (KPIs). These include:</p>
+<ul>
+<li>Total Users</li>
+<li>Sessions</li>
+<li>Purchases</li>
+<li>Revenue</li>
+<li>Product Views</li>
+<li>Store Pickup Interest</li>
+</ul>
+<p>These metrics allow CPP Farm Store managers to immediately evaluate the overall success of the campaign.</p>
+</section>
+<section id="website-traffic" class="level3">
+<h3 class="anchored" data-anchor-id="website-traffic">Website Traffic</h3>
+<p>A <strong>line chart</strong> titled <strong>Website Sessions Over Time</strong> displays changes in website traffic throughout the campaign period. This visualization helps identify trends in visitor activity and whether marketing efforts are increasing website engagement over time.</p>
+</section>
+<section id="marketing-channel-performance" class="level3">
+<h3 class="anchored" data-anchor-id="marketing-channel-performance">Marketing Channel Performance</h3>
+<p>A <strong>bar chart</strong> compares website sessions across marketing channels, including Social Media, Organic Search, Paid Search, Email, and Direct traffic. This visualization helps determine which channels generate the most website traffic and supports future marketing budget decisions.</p>
+</section>
+<section id="product-performance-1" class="level3">
+<h3 class="anchored" data-anchor-id="product-performance-1">Product Performance</h3>
+<p>Product performance is presented using both a <strong>horizontal bar chart</strong> and a <strong>performance table</strong>.</p>
+<p>The horizontal bar chart compares product page views across CPP Farm Store products, while the accompanying table summarizes:</p>
+<ul>
+<li>Product Views</li>
+<li>Add-to-Cart Events</li>
+<li>Checkout Starts</li>
+<li>Purchases</li>
+<li>Revenue</li>
+</ul>
+<p>These visuals help identify the products generating the greatest customer interest and those contributing the most simulated revenue.</p>
+</section>
+<section id="campaign-performance-1" class="level3">
+<h3 class="anchored" data-anchor-id="campaign-performance-1">Campaign Performance</h3>
+<p>Campaign performance is displayed through a <strong>bar chart</strong> showing Purchases by Campaign and a detailed summary table containing:</p>
+<ul>
+<li>Sessions</li>
+<li>Purchases</li>
+<li>Revenue</li>
+</ul>
+<p>These visuals allow the marketing team to compare campaign effectiveness and determine which promotional efforts produce the strongest customer response.</p>
+</section>
+</section>
+<section id="dashboard-preview" class="level2">
+<h2 class="anchored" data-anchor-id="dashboard-preview">Dashboard Preview</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Looker%20Studio%20Dashboard.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p><strong>Figure 1.</strong> CPP Farm Store Omnichannel Performance Dashboard created in Looker Studio using simulated data.</p>
+</section>
+<section id="dashboard-design" class="level2">
+<h2 class="anchored" data-anchor-id="dashboard-design">Dashboard Design</h2>
+<p>The dashboard follows a logical top-to-bottom layout beginning with high-level performance indicators and progressing toward more detailed analyses. Scorecards provide an immediate overview of campaign performance, while charts and tables allow users to explore traffic sources, product interest, and campaign results in greater detail.</p>
+<p>This organization enables CPP Farm Store managers and the student consulting team to quickly identify performance trends, evaluate marketing effectiveness, and support data-driven decisions for future omnichannel campaigns.</p>
+</section>
 </section>
 <section id="step-7-interpretation-recommendations-sandy" class="level1">
 <h1>Step 7: Interpretation &amp; Recommendations (Sandy)</h1>
