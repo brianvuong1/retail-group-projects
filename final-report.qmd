@@ -135,14 +135,37 @@ Titles were standardized to a consistent pattern — **[Brand] + [Product] + [Si
 Descriptions were rewritten to consistently answer: what it is, why it's meaningfully local, how it's best used, and whether it's available for pickup — rather than generic marketing copy. Gift-oriented items also explicitly flag their gifting/bundling potential, since that's the primary purchase occasion this campaign targets.
 
 ## 5.5 Image Needs
-Every product currently lists its image link as **TBD**. Before submission, each item needs: a clear, well-lit photo; an accurate representation of contents (especially for the Gift Basket, where over-promising visually is an ethical risk flagged in the creative brief); a simple, consistent background; and no text overlays. A shared style guide across all five products would keep the storefront and the feed visually consistent.
+
+CPP Farm Store should run a single coordinated product photo shoot covering both the Shopify website and the Google Merchant Center feed at once — one shoot, two uses, one consistent look.
+
+**Shot Setup**
+- **Lighting:** Natural, diffused daylight (near a window or outdoors in open shade) to match the farm-fresh brand identity — avoid harsh direct sun or artificial studio flash, which reads as generic/corporate rather than local.
+- **Background:** One consistent surface across all products — a light neutral wood or matte white backdrop — so the feed and website feel like a cohesive catalog rather than mismatched photos.
+- **Angle:** Straight-on product shot for the primary feed image (Google Merchant Center requires this), plus one optional lifestyle/angled shot per product for the website only.
+- **Framing:** Product fills 70–80% of the frame with even margin on all sides; no cropped edges or cut-off labels.
+
+**Per-Product Shot List**
+- **Raw Honey:** Jar straight-on with label fully legible; one supplementary shot with honey dipper/drizzle for the website lifestyle image.
+- **Seasonal Produce Box:** Overhead flat-lay showing the actual current contents — never a stand-in or "ideal" arrangement, since availability changes weekly.
+- **Local Gift Basket:** Full basket shot showing exactly what's included, no props or filler items not in the actual box — this is the highest-risk item for over-promising visually.
+- **Strawberry Jam:** Jar straight-on, label legible, matching the honey composition for visual consistency.
+- **Farm Fresh Eggs:** Carton open, eggs visible, straight-on.
+
+**Technical Specs (for Google Merchant Center compliance)**
+- Minimum 800×800px, recommended 1200×1200px, square aspect ratio (1:1)
+- White or light neutral background for the primary feed image (no lifestyle backgrounds in the feed image itself)
+- No text, logos, watermarks, or promotional overlays baked into the image
+- JPEG or PNG, sRGB color profile
+
+**Why This Approach**
+A single planned shoot — rather than sourcing images piecemeal — guarantees visual consistency across the feed and website, keeps every image an honest representation of what's actually for sale (directly addressing the over-promising risk flagged in the creative brief), and produces feed-compliant images and richer lifestyle images from the same session at minimal added cost.
 
 ## 5.6 Feed-Quality Concerns
 
 | Concern | Status | Recommendation |
 |---|---|---|
-| Image links | Missing (TBD) | Upload consistent, high-quality photos before launch |
-| Landing page URLs | Missing (TBD) | Link each SKU to its live Shopify product page |
+| Image links | Missing (TBD) | Complete a single coordinated product photo shoot per the specs in 5.5, then upload square, feed-compliant images for all five SKUs |
+| Landing page URLs | Missing (TBD) | Link each SKU to its live Shopify product page 
 | Availability | Partially defined | Standardize to "In Stock," "Seasonal," or "Out of Stock" |
 | Shipping/pickup | Inconsistent across items | Explicitly state shipping vs. pickup eligibility per SKU |
 | Category mapping | Needs review | Confirm each item matches Google's official taxonomy |
