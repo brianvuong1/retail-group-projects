@@ -110,57 +110,107 @@ execute:
 
 # 5. Product Feed / Retail Media Setup
 
-**Selected Products:**
-[ ]
+## 5.1 Purpose in the Overall Story
+Before CPP Farm Store can run the omnichannel campaign described in Section 6, its products need to be discoverable outside the physical store. This section explains how the Farm Store's product catalog should be structured for Google Merchant Center so that Google Shopping, Search, and retail-media placements can surface the right products to the right shoppers — feeding traffic into the same Shopify experience the rest of the plan relies on.
 
-**Feed Structure:**
-[ ]
+## 5.2 Selected Products
+The feed prioritizes a focused set of products chosen for broad appeal, clear local story, and gifting relevance rather than a full catalog dump:
 
-**Product Title and Description Recommendations:**
-[ ]
+| Product | Role in Strategy |
+|---|---|
+| CPP Campus Apiary Raw Honey (16 oz) | Acquisition — low-cost, grab-and-go, strongest "local" story |
+| CPP Seasonal Fresh Produce Box | Retention — recurring, seasonal, drives repeat visits |
+| CPP Farm Store Local Gift Basket | High-value occasions — highest price point, gifting-focused |
+| CPP Strawberry Jam (12 oz) | Everyday add-on / bundling item |
+| CPP Farm Fresh Eggs (Dozen) | Everyday staple, broad appeal |
 
-**Image Needs:**
-[ ]
+Together these five cover three distinct jobs — **acquisition** (Honey), **retention** (Produce Box), and **high-value occasions** (Gift Basket) — so the feed doesn't compete for the same customer with every product at once.
 
-**Product Categories:**
-[ ]
+## 5.3 Feed Structure
+Each product record includes the fields Google Merchant Center requires for approval and strong ranking: Product ID, Title, Description, Price, Availability, Product Category, Product Type, Brand, Condition, Image Link, Landing Page URL, Shipping/Pickup Info, Promotion Message, and Custom Label. This structure was built and populated in GP3 and carries forward unchanged into the final feed.
 
-**Feed-Quality Concerns:**
-[ ]
+## 5.4 Title & Description Recommendations
+Titles were standardized to a consistent pattern — **[Brand] + [Product] + [Size/Qty] + [Key Attribute]** — for example, "CPP Farm Store Raw Honey (16 oz) – CPP Campus Apiary." This improves searchability and gives customers an immediate, scannable sense of what they're buying.
 
-**Recommended Products for Promotion:**
-[ ]
+Descriptions were rewritten to consistently answer: what it is, why it's meaningfully local, how it's best used, and whether it's available for pickup — rather than generic marketing copy. Gift-oriented items also explicitly flag their gifting/bundling potential, since that's the primary purchase occasion this campaign targets.
+
+## 5.5 Image Needs
+Every product currently lists its image link as **TBD**. Before submission, each item needs: a clear, well-lit photo; an accurate representation of contents (especially for the Gift Basket, where over-promising visually is an ethical risk flagged in the creative brief); a simple, consistent background; and no text overlays. A shared style guide across all five products would keep the storefront and the feed visually consistent.
+
+## 5.6 Feed-Quality Concerns
+
+| Concern | Status | Recommendation |
+|---|---|---|
+| Image links | Missing (TBD) | Upload consistent, high-quality photos before launch |
+| Landing page URLs | Missing (TBD) | Link each SKU to its live Shopify product page |
+| Availability | Partially defined | Standardize to "In Stock," "Seasonal," or "Out of Stock" |
+| Shipping/pickup | Inconsistent across items | Explicitly state shipping vs. pickup eligibility per SKU |
+| Category mapping | Needs review | Confirm each item matches Google's official taxonomy |
+
+These are the blocking issues before the feed can go live — the structure and copy are ready, but the media and URLs are not.
+
+## 5.7 Recommended Promotion Priority
+1. **Raw Honey** — promote first; low price point and strongest local story make it the best entry point for a first-time Google Shopping shopper.
+2. **Seasonal Produce Box** — best suited to retargeting and recurring email/social content tied to what's currently in season.
+3. **Local Gift Basket** — reserved for high-intent gifting windows (graduation, finals week, holidays), where a pre-order/pickup model addresses fulfillment constraints.
+
+This staged approach connects directly to the Campaign Plan below — the Gift Basket promotion should peak exactly when the campaign's seasonal budget (Section 6) is weighted most heavily toward gifting occasions.
 
 ---
 
 # 6. Campaign Plan
 
-**Business Problem:**
-[ ]
+## 6.1 Business Problem
+CPP Farm Store built a custom gift box ordering feature on Shopify, but students, families, and campus organizations largely don't know it exists. Demand for meaningful, local gifts already exists around graduation, Mother's Day, and holiday seasons — the Farm Store just isn't capturing it, so customers default to generic off-campus gift retailers instead.
 
-**Campaign Objective:**
-[ ]
+## 6.2 Campaign Objective
+**Drive awareness and online adoption of CPP Farm Store's custom gift box feature, targeting a 40% increase in gift box orders during the spring peak gifting season (February–May).**
 
-**Target Audience:**
-[ ]
+Supporting objectives: increase gift-box product page traffic 25% within 60 days of launch, convert at least 3% of that traffic into paying customers, and build repeat purchase behavior for future seasonal occasions.
 
-**Message Strategy:**
-[ ]
+## 6.3 Target Audience
+Four campus-connected segments, unified by a need for meaningful, convenient local gifts:
 
-**Channel Strategy:**
-[ ]
+- **Local community members** — value fresh, locally sourced goods but are often unfamiliar with the store or how to order online.
+- **Parents** — motivated by milestones like graduation; plan ahead and respond well to email.
+- **Alumni** — emotionally tied to Cal Poly Pomona; mostly reachable only through digital channels since many live off-campus.
+- **Students** — the largest and most social-media-engaged segment, but price-sensitive and prone to spontaneous, discount-driven purchases.
 
-**Omnichannel Flow:**
-[ ]
+## 6.4 Message Strategy
+**"Thoughtful Gifts, Grown Here."** The message works across all four segments without needing separate campaigns for each: *Thoughtful* signals the gift is meaningful rather than generic; *Grown Here* carries both the literal locally-sourced claim and campus pride. It's short enough for an Instagram caption, a physical sign, or an email subject line — which matters given how many channels this campaign spans.
 
-**Budget Recommendation:**
-[ ]
+## 6.5 Channel Strategy
+Channels were selected to cover the full path from discovery to purchase: **Instagram and TikTok** (visual awareness, especially for students), **Google Search and Google Shopping** (capturing existing purchase intent — this is where the product feed in Section 5 becomes active), **email** (retention and seasonal reminders for parents/alumni), and **campus signage, events, and in-store displays** (physical touchpoints that funnel back to the same Shopify flow). Retail media (third-party ad networks) was deliberately excluded in favor of concentrating budget on these direct channels.
 
-**KPIs:**
-[ ]
+## 6.6 Omnichannel Flow
+The journey is designed so every stage funnels back to the same Shopify gift-box builder:
 
-**Optimization Plan:**
-[ ]
+**Awareness** (Instagram/TikTok/signage) → **Consideration** (Google Search, Shopify landing page, in-store display) → **Conversion** (Shopify checkout with in-store pickup option) → **Retention** (email + Google Maps reviews prompting the next seasonal purchase).
+
+This is the same loop the Product Feed (Section 5) is designed to feed into at the Consideration stage, and the same loop the Analytics Dashboard (Section 8) is built to measure end-to-end.
+
+## 6.7 Budget Recommendation
+Total budget: **$5,000**, weighted toward the highest-intent and highest-reach tactics:
+
+| Channel | Budget | % |
+|---|---:|---:|
+| Events / Activations | $1,500 | 30% |
+| Email Marketing | $1,250 | 25% |
+| Google Ads | $900 | 18% |
+| In-Store Materials | $600 | 12% |
+| Content Creation | $400 | 8% |
+| Social Media Ads | $250 | 5% |
+| Contingency | $100 | 2% |
+
+Events and email receive the largest shares because they reach the campaign's highest-value segments (families, alumni, campus organizations) directly during peak gifting windows, rather than relying solely on broad-reach paid social.
+
+## 6.8 KPIs
+Success is tracked at each funnel stage — website visits (5,000), product page views (3,000), add-to-cart rate (8%), ecommerce conversion rate (3.0%), repeat purchase rate (20%), and $15,000 in total campaign revenue — with ROAS ($3.50) and CPA ($15 max) as the efficiency guardrails. These same KPIs are what the Analytics Dashboard in Section 8 is built to surface.
+
+## 6.9 Optimization Plan
+Performance is reviewed on a layered cadence: **weekly** for product-level and traffic anomalies, **bi-weekly** for creative A/B tests (e.g., "Thoughtful Gifts, Grown Here" vs. seasonal variants) and product-feed accuracy, and **monthly** for budget reallocation toward whichever channel is outperforming on CPA/ROAS. Spend is also intentionally ramped ahead of Mother's Day, graduation, and holiday windows and pulled back post-peak, keeping the optimization plan tied to the same seasonal logic driving the budget and product-feed priorities above.
+
+
 
 ---
 
