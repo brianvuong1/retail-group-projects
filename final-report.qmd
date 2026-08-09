@@ -1,0 +1,265 @@
+---
+title: "Final Report: CPP Farm Store Omnichannel Strategy"
+author: "Kevin, Alexa, Sandy, Brian, Ron"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+# 1. Executive Summary
+
+**Client Problem or Opportunity:**
+[ ]
+
+**Main Recommendation:**
+[ ]
+
+**Key Supporting Evidence:**
+[ ]
+
+**Expected Benefits:**
+[ ]
+
+---
+
+# 2. Client and Situation Analysis
+
+**Target Customers:**
+[ ]
+
+**Product Categories:**
+[ ]
+
+**Current Strengths:**
+[ ]
+
+**Current Weaknesses:**
+[ ]
+
+**Market or Environmental Opportunities:**
+[ ]
+
+**Competitive or Operational Challenges:**
+[ ]
+
+**SWOT Analysis (optional):**
+
+| | Helpful | Harmful |
+|---|---|---|
+| **Internal** | Strengths: [ ] | Weaknesses: [ ] |
+| **External** | Opportunities: [ ] | Threats: [ ] |
+
+---
+
+# 3. Omnichannel Journey Analysis
+
+**Target Customer Segment:**
+[ ]
+
+**Major Journey Stages:**
+[ ]
+
+**Key Touchpoints:**
+[ ]
+
+**Pain Points:**
+[ ]
+
+**Omnichannel Opportunities:**
+[ ]
+
+**How the Journey Map Shaped Our Recommendations:**
+[ ]
+
+---
+
+# 4. Ecommerce / Shopify Prototype
+
+**Purpose of the Store:**
+[ ]
+
+**Product Categories Included:**
+[ ]
+
+**Homepage Strategy:**
+[ ]
+
+**Product Page Strategy:**
+[ ]
+
+**Navigation Structure:**
+[ ]
+
+**Customer Experience Improvements:**
+[ ]
+
+**How the Prototype Supports Online and Offline Shopping:**
+[ ]
+
+**Screenshots / Links:**
+[ ]
+
+---
+
+# 5. Product Feed / Retail Media Setup
+
+**Selected Products:**
+[ ]
+
+**Feed Structure:**
+[ ]
+
+**Product Title and Description Recommendations:**
+[ ]
+
+**Image Needs:**
+[ ]
+
+**Product Categories:**
+[ ]
+
+**Feed-Quality Concerns:**
+[ ]
+
+**Recommended Products for Promotion:**
+[ ]
+
+---
+
+# 6. Campaign Plan
+
+**Business Problem:**
+[ ]
+
+**Campaign Objective:**
+[ ]
+
+**Target Audience:**
+[ ]
+
+**Message Strategy:**
+[ ]
+
+**Channel Strategy:**
+[ ]
+
+**Omnichannel Flow:**
+[ ]
+
+**Budget Recommendation:**
+[ ]
+
+**KPIs:**
+[ ]
+
+**Optimization Plan:**
+[ ]
+
+---
+
+# 7. Creative Brief / AI Assets
+
+**Creative Objective:**
+[ ]
+
+**Key Message:**
+[ ]
+
+**Tone and Style:**
+[ ]
+
+**Sample Assets:**
+[ ]
+
+**Channel Fit:**
+[ ]
+
+**AI Use, if Applicable:**
+[ ]
+
+**Brand-Fit Explanation:**
+[ ]
+
+---
+
+# 8. Analytics Dashboard
+
+**Measurement Objectives:**
+[ ]
+
+**Data Sources:**
+[ ]
+
+**KPIs:**
+[ ]
+
+**Dashboard Screenshots / Link:**
+[ ]
+
+**Key Insights:**
+[ ]
+
+**Recommended Actions:**
+[ ]
+
+**Data Limitations:**
+[ ]
+
+---
+
+# 9. Final Recommendations
+
+### Recommendation 1: Highest Priority
+
+**What CPP Farm Store Should Do:**
+[ ]
+
+**Why It Matters:**
+[ ]
+
+**Resources Needed:**
+[ ]
+
+**How Success Should Be Measured:**
+[ ]
+
+### Recommendation 2: Medium-Term Opportunity
+
+**What CPP Farm Store Should Do:**
+[ ]
+
+**Why It Matters:**
+[ ]
+
+**Resources Needed:**
+[ ]
+
+**How Success Should Be Measured:**
+[ ]
+
+### Recommendation 3: Future Opportunity
+
+**What CPP Farm Store Should Do:**
+[ ]
+
+**Why It Matters:**
+[ ]
+
+**Resources Needed:**
+[ ]
+
+**How Success Should Be Measured:**
+[ ]
+
+---
+
+# 10. Conclusion
+
+[ ]
