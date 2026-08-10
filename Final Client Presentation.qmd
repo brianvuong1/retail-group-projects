@@ -100,6 +100,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 - Local Community Members and Online-First Shoppers experience the greatest friction.
 - The biggest opportunity is connecting **online discovery → product research → ordering → pickup → repeat purchase**.
+
 ## Customer Journey Opportunity
 
 **Create a Connected Omnichannel Experience**
