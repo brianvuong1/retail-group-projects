@@ -88,6 +88,18 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 # 3. Key Customer Journey Insight
 
+**Target Customers**
+
+- **Students** — On-campus shoppers who value affordability, local products, and digital promotions.
+- **Faculty & Staff** — Frequent customers who prioritize convenience and reliable product availability.
+- **Alumni** — High-value gift shoppers with a strong emotional connection to CPP.
+- **Local Community Members** — Local shoppers who value quality but face parking, navigation, and awareness barriers.
+- **Online-First Shoppers** — Digital customers who expect easy browsing, ordering, checkout, and pickup.
+
+**Key Insight**
+
+- Local Community Members and Online-First Shoppers experience the greatest friction.
+- The biggest opportunity is connecting **online discovery → product research → ordering → pickup → repeat purchase**.
 ## Customer Journey Opportunity
 
 **Create a Connected Omnichannel Experience**
