@@ -138,25 +138,25 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 ### Product Feed Strategy
 
-- **Selected products:** Raw Honey, Seasonal Produce Box, Local Gift Basket, Strawberry Jam, Farm Fresh Eggs
-- **Product titles:** Each name includes the brand, product, and size (e.g., "CPP Farm Store Raw Honey, 16 oz") so customers instantly know what they're looking at
-- **Descriptions:** Every listing explains what it is, why it's local, how to use it, and whether pickup is available
-- **Prices:** Set for each product, ranging from everyday items like eggs and jam to the higher-priced Gift Basket
-- **Availability:** Labeled clearly as In Stock, Seasonal, or Out of Stock
-- **Images:** One coordinated photo shoot — natural lighting, consistent background, photos that show exactly what's included
-- **Pickup information:** Each listing states whether the item is available for in-store pickup, shipping, or both
+- **Selected products:** Fresh Fruit Boxes (Avocado/Mandarin, Satsuma, Deluxe, Navel), Build-Your-Own Boxes (Non Perishable, Fruit & Snacks, Farm Store, Anti Pasti, Pasta, Sweet), Seasonal Baskets (Christmas, Custom Christmas, Valentine's)
+- **Product titles:** Keep the current recognizable names (e.g., "Deluxe Box," "Satsuma Gift Box") but standardize formatting across the feed
+- **Descriptions:** Fresh Fruit Boxes note they're packed with CPP-grown fruit available at time of order; Build-Your-Own Boxes explain customers can shop in-store or call with a budget to have one built
+- **Prices:** Not currently listed on the website — this is a gap to fix before any retail-media push
+- **Availability:** Fresh Fruit Boxes are seasonal (depends on what's ripe); Build-Your-Own Boxes and Baskets are available year-round on request
+- **Images:** Existing photos are usable but small and inconsistently cropped — recommend a refresh so all products share the same background and framing
+- **Pickup information:** Gift Boxes ship anywhere in the US or can be picked up in-store; Gift Baskets are pickup-only
 
 ### Recommended Products for Promotion
 
-- **Raw Honey** — low cost, strong local story, best for attracting new customers
-- **Seasonal Produce Box** — keeps customers coming back throughout the year
-- **Local Gift Basket** — highest value, best for graduation, holidays, and other gifting occasions
+- **Deluxe Box** — most visually appealing fresh-fruit option, strongest "grown here" story
+- **Farm Store Gift Box** — flexible build-your-own option, appeals to a range of budgets
+- **Custom Christmas Basket** — highest perceived value, ideal for the holiday gifting window
 
 ### Retail Media Opportunity
 
-- **Google Merchant Center:** Gets products listed and approved for Google's shopping platforms
-- **Google Shopping:** Puts products in front of customers already searching for local or campus gifts
-- **Improved online product discovery:** Makes it easier for new customers to find CPP Farm Store online
+- **Google Merchant Center:** Focus on the shippable Gift Boxes, since Baskets are pickup-only and don't fit standard shipping-based retail feeds
+- **Google Shopping:** Fresh Fruit Boxes are the most differentiated — no local competitor can claim "CPP-grown" produce
+- **Improved online product discovery:** Right now customers must call the store to order — moving to visible pricing and online ordering is the biggest opportunity to capture gift-buyers already searching online
 
 # 6. Campaign Strategy
 
