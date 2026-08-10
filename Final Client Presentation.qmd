@@ -1,0 +1,374 @@
+---
+title: "CPP Farm Store Omnichannel Strategy"
+subtitle: "Final Client Presentation"
+author: "Kevin, Alexa, Sandy, Brian, Ron"
+date: today
+format:
+  revealjs:
+    theme: simple
+    css: cpp-theme.css
+    slide-number: true
+    transition: slide
+    embed-resources: true
+---
+
+# 1. Introduction and Client Challenge
+
+## CPP Farm Store
+
+- [Brief introduction to CPP Farm Store]
+- [Main business challenge]
+- [Why an omnichannel strategy is needed]
+
+## Client Challenge
+
+- [Current customer problem]
+- [Digital/ecommerce opportunity]
+- [Main challenge the project addresses]
+
+
+# 2. Business Objective and Project Objective
+
+## Business Objective
+
+- [Insert business objective]
+- [What CPP Farm Store wants to improve]
+- [Expected business benefit]
+
+## Project Objective
+
+- [Insert project objective]
+- [How the project supports the Farm Store]
+- [Main areas analyzed]
+
+
+# 3. Key Customer Journey Insight
+
+## Target Customers
+
+- [Students]
+- [Faculty and staff]
+- [Alumni]
+- [Local community members]
+- [Online-first shoppers]
+
+## Key Journey Insight
+
+- [Main pain point]
+- [Important customer touchpoints]
+- [Biggest omnichannel opportunity]
+
+## Customer Journey Opportunity
+
+- [Online discovery]
+- [Product research]
+- [Online ordering]
+- [Store pickup]
+- [Post-purchase engagement]
+
+
+# 4. Shopify / Ecommerce Recommendation
+
+## Shopify Prototype
+
+- [Purpose of Shopify prototype]
+- [Main product categories]
+- [Homepage strategy]
+- [Navigation strategy]
+
+## Customer Experience Improvements
+
+- [Product pages]
+- [Online ordering]
+- [Gift Basket form]
+- [Store pickup]
+- [Mobile-friendly shopping]
+
+## Prototype Evidence
+
+[Insert Shopify screenshot here]
+
+
+# 5. Product Feed / Retail Media Recommendation
+
+## Product Feed Strategy
+
+- [Selected products]
+- [Product titles]
+- [Descriptions]
+- [Prices]
+- [Availability]
+- [Images]
+- [Pickup information]
+
+## Recommended Products for Promotion
+
+- [Product 1]
+- [Product 2]
+- [Product 3]
+
+## Retail Media Opportunity
+
+- [Google Merchant Center]
+- [Google Shopping]
+- [Improved online product discovery]
+
+
+# 6. Campaign Strategy
+
+## Business Problem
+
+- [Insert campaign problem]
+
+## Campaign Objective
+
+- Increase awareness and adoption of CPP Farm Store's online gift box ordering option.
+- Drive customers from digital channels to Shopify and in-store pickup.
+
+## Campaign Message
+
+**Thoughtful Gifts, Grown Here**
+
+## Target Audience
+
+- Students
+- Families
+- Faculty and staff
+- Campus organizations
+- Local customers
+
+## Channels
+
+- Instagram
+- TikTok
+- Google Search
+- Google Shopping
+- Email
+- Campus signage
+- Shopify
+
+## Campaign KPIs
+
+- Website traffic
+- Product page views
+- Click-through rate
+- Add-to-cart rate
+- Conversion rate
+- Purchases
+- Revenue
+
+
+# 7. Creative Examples
+
+## Creative Objective
+
+- [Insert creative objective]
+- [Main message]
+- [Tone and style]
+
+## Creative Assets
+
+[Insert creative asset screenshot]
+
+## Channel Fit
+
+- [Instagram]
+- [TikTok]
+- [Email]
+- [Digital advertising]
+
+## AI Use
+
+- [Explain how AI was used]
+- [Explain human review]
+- [Explain how assets match CPP Farm Store branding]
+
+
+# 8. Dashboard and Measurement Plan
+
+## Analytics Dashboard
+
+The CPP Farm Store Omnichannel Performance Dashboard was developed in Looker Studio to demonstrate how CPP Farm Store could monitor ecommerce, marketing, product, and omnichannel performance.
+
+The dashboard uses **simulated data for educational purposes** because complete live CPP Farm Store ecommerce data were not available.
+
+## Measurement Objectives
+
+The dashboard is designed to:
+
+- Measure website traffic and customer activity
+- Track product engagement
+- Compare marketing-channel performance
+- Evaluate campaign effectiveness
+- Monitor purchases and revenue
+- Identify high-performing products
+- Measure store pickup interest
+- Support future data-driven decisions
+
+## Key Performance Indicators
+
+- **Total Users:** 980
+- **Sessions:** 1,138
+- **Product Views:** 796
+- **Purchases:** 126
+- **Revenue:** $2,644
+- **Conversion Rate:** 11.07%
+- **Average Order Value:** $20.98
+- **Store Pickup Interest:** 65
+
+## Dashboard Visualizations
+
+The dashboard includes:
+
+- Website Sessions Over Time
+- Sessions by Marketing Channel
+- Purchases by Campaign
+- Product Performance
+- Campaign Performance
+- Conversion Rate
+- Average Order Value
+- Store Pickup Interest
+
+## Dashboard
+
+![CPP Farm Store Omnichannel Performance Dashboard](images/Final%20Looker%20Studio%20Dashboard.png){width="95%"}
+
+## Key Dashboard Insights
+
+- Multiple channels contribute to website traffic, supporting an omnichannel marketing approach.
+- High website traffic does not automatically mean stronger campaign performance.
+- Campaigns should be evaluated using purchases, revenue, and conversion rate in addition to sessions.
+- Product-level performance can identify where customers show interest but do not complete a purchase.
+- Store Pickup Interest helps connect digital activity with the physical CPP Farm Store.
+
+## Recommended Measurement Actions
+
+CPP Farm Store should:
+
+- Monitor traffic and conversion performance together.
+- Invest more heavily in campaigns that generate purchases and revenue.
+- Improve product pages when views do not translate into purchases.
+- Make store pickup highly visible throughout the ecommerce experience.
+- Regularly review dashboard data and adjust marketing decisions.
+- Replace simulated data with live GA4 and Shopify data when available.
+
+::: {.notes}
+For this part of the project, we created a Looker Studio dashboard to show how CPP Farm Store could measure its omnichannel and ecommerce performance.
+
+At the top of the dashboard, management can quickly see major KPIs such as users, sessions, purchases, revenue, conversion rate, average order value, and store pickup interest.
+
+The dashboard also allows the Farm Store to compare marketing channels, campaigns, and individual products. One important takeaway is that generating traffic alone is not enough. CPP Farm Store should also look at whether that traffic leads to purchases and revenue.
+
+Store pickup interest is especially important because it helps measure whether digital activity is helping customers transition from the online experience to the physical Farm Store.
+
+Because our dashboard uses simulated data, these results should be viewed as a measurement framework. In the future, CPP Farm Store could connect real GA4, Shopify, advertising, and pickup data.
+:::
+
+
+# 9. Final Recommendations
+
+## Recommendation 1: Highest Priority
+
+**[Insert highest-priority recommendation]**
+
+- What CPP Farm Store should do:
+  - [Insert]
+- Why it matters:
+  - [Insert]
+- Resources needed:
+  - [Insert]
+- Measurement:
+  - [Insert]
+
+## Recommendation 2: Medium-Term Opportunity
+
+**[Insert recommendation]**
+
+- What CPP Farm Store should do:
+  - [Insert]
+- Why it matters:
+  - [Insert]
+- Resources needed:
+  - [Insert]
+- Measurement:
+  - [Insert]
+
+## Recommendation 3: Future Opportunity
+
+**[Insert recommendation]**
+
+- What CPP Farm Store should do:
+  - [Insert]
+- Why it matters:
+  - [Insert]
+- Resources needed:
+  - [Insert]
+- Measurement:
+  - [Insert]
+
+
+# 10. Closing
+
+## Connecting the Customer Experience
+
+CPP Farm Store has an opportunity to create a stronger connection between its **physical location and digital customer experience**.
+
+Our proposed strategy connects:
+
+**Digital Discovery → Shopify → Product Information → Online Ordering → Store Pickup → Post-Purchase Engagement**
+
+## Overall Value
+
+The proposed omnichannel strategy can help CPP Farm Store:
+
+- Increase product visibility
+- Improve customer convenience
+- Expand ecommerce opportunities
+- Strengthen digital marketing
+- Encourage online-to-store customer activity
+- Use customer data to make better decisions
+- Build stronger long-term relationships with customers
+
+## Final Takeaway
+
+CPP Farm Store does not need to replace its physical retail experience with ecommerce.
+
+Instead, digital tools should make the existing Farm Store experience **easier to discover, easier to shop, and easier to measure**.
+
+By gradually implementing Shopify ecommerce, improved product data, integrated campaigns, store pickup, and analytics, CPP Farm Store can create a more connected and convenient omnichannel experience for the Cal Poly Pomona community and surrounding customers.
+
+::: {.notes}
+Our overall recommendation is not to replace the physical CPP Farm Store with ecommerce. Instead, ecommerce should strengthen the physical store.
+
+Customers should be able to discover products online, learn what is available, place an order, and then conveniently pick it up at the Farm Store.
+
+The different parts of our project support that same journey. Shopify improves the shopping experience, the product feed improves discoverability, campaigns bring customers into the journey, creative content builds awareness, and the dashboard measures the results.
+
+Overall, this strategy gives CPP Farm Store a practical foundation for future ecommerce growth while maintaining the local and community-focused experience that makes the Farm Store unique.
+:::
+
+
+# 11. Appendix
+
+## Project Links
+
+- **Final Report:** [Insert link]
+- **GitHub Pages:** [Insert link]
+- **GitHub Repository:** [Insert link]
+- **Shopify Prototype:** [Insert link]
+- **Looker Studio Dashboard:** [<https://datastudio.google.com/reporting/f8db8c82-30a9-4c24-a7f8-04d69d73dd7c>]
+- **Google Drive Folder:** [Insert link]
+- **Product Feed:** [Insert link]
+
+## Additional Evidence
+
+- [Shopify screenshots]
+- [Gift Basket form screenshots]
+- [Creative assets]
+- [Product feed]
+- [Dashboard]
+- [Additional project materials]
+
+# Thank You
+
+## Questions?

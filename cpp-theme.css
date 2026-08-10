@@ -1,0 +1,122 @@
+/* CPP Brand Colors
+   Green: #005030
+   Gold: #FFB81C
+   Eggshell: #F2EEE8
+*/
+
+/* Overall slide background */
+.reveal {
+  background-color: #F2EEE8;
+  color: #121212;
+}
+
+/* Main slide titles */
+.reveal h1 {
+  color: #005030;
+  font-weight: 700;
+}
+
+/* Subheadings */
+.reveal h2,
+.reveal h3 {
+  color: #005030;
+}
+
+/* Title slide */
+.reveal .title-slide {
+  background-color: #005030;
+  color: white;
+}
+
+/* Main presentation title */
+.reveal .title-slide h1,
+.reveal .title-slide .title {
+  color: white;
+}
+
+/* Subtitle and author */
+.reveal .title-slide .subtitle,
+.reveal .title-slide .author,
+.reveal .title-slide .date {
+  color: #FFB81C;
+}
+
+/* Bold text */
+.reveal strong {
+  color: #005030;
+}
+
+/* Links */
+.reveal a {
+  color: #005030;
+  font-weight: 600;
+}
+
+/* Bullets */
+.reveal ul li::marker {
+  color: #FFB81C;
+}
+
+.reveal ol li::marker {
+  color: #005030;
+  font-weight: bold;
+}
+
+/* Tables */
+.reveal table {
+  border-collapse: collapse;
+}
+
+.reveal table th {
+  background-color: #005030;
+  color: white;
+}
+
+.reveal table td {
+  border-bottom: 1px solid #CFBAB0;
+}
+
+/* Blockquotes / callouts */
+.reveal blockquote {
+  border-left: 6px solid #FFB81C;
+  background-color: white;
+  padding: 15px 20px;
+}
+
+/* Slide number */
+.reveal .slide-number {
+  background-color: #005030;
+  color: white;
+}
+
+/* Progress bar */
+.reveal .progress {
+  color: #FFB81C;
+}
+
+/* Optional gold accent line beneath headings */
+.reveal h1::after,
+.reveal h2::after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 5px;
+  background-color: #FFB81C;
+  margin-top: 8px;
+  margin-bottom: 18px;
+}
+
+/* Images */
+.reveal img {
+  border-radius: 8px;
+}
+
+/* Keep slide content readable */
+.reveal .slides section {
+  text-align: left;
+}
+
+/* Center title slides */
+.reveal .slides section.title-slide {
+  text-align: center;
+}
