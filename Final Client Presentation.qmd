@@ -338,39 +338,41 @@ This would allow management to identify where customers leave the ordering proce
 **[Insert highest-priority recommendation]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - [Improve Shopify product pages, simplify checkout, automate order confirmations, and provide clear pickup, parking, and store information.]
 - Why it matters:
-  - [Insert]
+  - [The greatest customer friction occurs between product consideration, online purchase, and physical pickup.
+]
 - Resources needed:
-  - [Insert]
+  - [Shopify updates • Product photos/content • Email automation • Pickup signage • Staff training
+]
 - Measurement:
-  - [Insert]
+  - [Conversion Rate • Cart Abandonment • Purchases • Store Pickup Interest • AOV]
 
 ## Recommendation 2: Medium-Term Opportunity
 
 **[Insert recommendation]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - [Launch campaign across Google, email, campus events, in-store QR codes, and the Shopify gift box landing page.]
 - Why it matters:
-  - [Insert]
+  - [Custom gift boxes combine CPP's local story with high-demand gifting occasions such as Graduation, Mother's Day, and holidays.]
 - Resources needed:
-  - [Insert]
+  - [Google Ads • Email marketing • Campaign creative • Event displays • QR codes • Shopify landing page]
 - Measurement:
-  - [Insert]
+  - [+25% Product Page Traffic • 3% Conversion Rate • +40% Gift Box Orders]
 
 ## Recommendation 3: Future Opportunity
 
 **[Insert recommendation]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - [Introduce automated post-purchase emails, seasonal reminders, personalized recommendations, and loyalty rewards.]
 - Why it matters:
-  - [Insert]
+  - [Turning satisfied first-time shoppers into repeat customers reduces dependence on continuous customer acquisition.]
 - Resources needed:
-  - [Insert]
+  - [Email/CRM platform • Shopify integration • Loyalty tools • Customer segmentation]
 - Measurement:
-  - [Insert]
+  - [Repeat Purchase Rate • Returning Customers • Email CTR • Customer Lifetime Value • 20% Repeat-Purchase Goal]
 
 
 # 10. Closing
