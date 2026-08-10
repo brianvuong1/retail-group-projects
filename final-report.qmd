@@ -491,3 +491,14 @@ The analytics dashboard supports these recommendations by giving CPP Farm Store 
 One of the strongest opportunities is the connection between ecommerce and store pickup. Allowing customers to discover products online while encouraging pickup at the physical Farm Store combines the convenience of digital shopping with the unique in-person experience of CPP Farm Store.
 
 Overall, the proposed omnichannel strategy provides CPP Farm Store with a practical foundation for future ecommerce growth. By gradually implementing these recommendations, connecting real customer data, and continuously measuring performance, CPP Farm Store can improve customer convenience, increase product visibility, strengthen marketing effectiveness, and create a more connected retail experience for the Cal Poly Pomona community and surrounding customers.
+
+# Appendix
+
+## GitHub Repository
+[GitHub Repository](<https://github.com/brianvuong1/retail-group-projects.git>)
+
+## GitHub Pages
+[Published GitHub Pages Website](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+
+## Presentation
+[Published Presentation](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)

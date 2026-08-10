@@ -32,7 +32,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 # Client and Situation Analysis
 
-**About CPP Farm Store**
+## About CPP Farm Store
 
 - Founded on W.K. Kellogg's 1925 horse ranch, now part of Cal Poly Pomona
 - Operated by the Huntley College of Agriculture as a student-run enterprise
@@ -41,7 +41,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 **Products:** Fresh produce, estate wine, plants, honey, eggs, student-made ice cream, and custom gift boxes
 
-# Target Customers
+## Target Customers
 
 - **CPP Students** — on campus daily but largely unaware the store exists
 - **Faculty & Staff** — reliable shoppers, easiest to retain
@@ -49,14 +49,14 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - **Alumni** — emotionally connected, ideal gift box buyers, rely on digital
 - **Online-First Shoppers** — expect smooth browsing, checkout, and pickup
 
-# Product Categories
+## Product Categories
 
 - **Fresh produce & agricultural goods** — fruits, vegetables, eggs, honey
 - **Specialty products** — estate wine, student-made ice cream, jams
 - **Nursery & ornamentals** — plants and seasonal items
 - **Gift products** — customizable gift boxes and fruit packs *(highest margin, lowest visibility)*
 
-# Strengths & Weaknesses
+## Strengths & Weaknesses
 
 **Strengths**
 
@@ -72,7 +72,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Confusing checkout, no order confirmation or pickup updates
 - No loyalty program or post-purchase follow-up
 
-# Opportunities & Challenges
+## Opportunities & Challenges
 
 **Opportunities**
 
@@ -87,14 +87,16 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Rotating student staff affects consistency
 - Campus parking and navigation deters off-campus visitors
 
-# SWOT Summary
+## SWOT Summary
 
 | | Helpful | Harmful |
 |---|---|---|
 | **Internal** | Campus-grown story, quality products, Shopify foundation, loyal alumni | Low awareness, poor discoverability, no post-purchase communication |
 | **External** | Local food trends, Google Shopping, seasonal gifting windows | Stronger competitors, campus barriers, limited budget |
 
-# Key Customer Journey Insight
+# Omnichannel Journey Analysis
+
+## Key Customer Journey Insight
 
 **Target Customers**
 
@@ -444,6 +446,20 @@ It can use ecommerce to eliminate unnecessary steps such as paper Gift Basket or
 
 **The goal is a simpler journey: order online, pick up at the Farm Store.**
 
-# Thank You
+## Appendix
 
-## Questions?
+**Project Resources**
+
+- [Final Report](PASTE-REPORT-GITHUB-PAGES-LINK-HERE)
+
+- [GitHub Repository](<https://github.com/brianvuong1/retail-group-projects.git>)
+
+## Thank You
+
+### CPP Farm Store Omnichannel Strategy
+
+**Final Client Presentation**
+
+Kevin Bachez, Alexa Bueno, Sandy, Brian, Ron Sabilla
+
+Cal Poly Pomona
