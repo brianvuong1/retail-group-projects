@@ -1,122 +1,747 @@
-/* CPP Brand Colors
-   Green: #005030
-   Gold: #FFB81C
-   Eggshell: #F2EEE8
-*/
+/* =========================================================
+   CPP FARM STORE — REVEALJS PRESENTATION THEME
+   ========================================================= */
 
-/* Overall slide background */
+
+/* =========================================================
+   CPP COLORS
+   ========================================================= */
+
+:root {
+  --cpp-green: #1f4e3d;
+  --cpp-dark-green: #12372d;
+  --cpp-gold: #c89b3c;
+  --cpp-cream: #f7f3e8;
+  --cpp-text: #202522;
+  --cpp-gray: #5f6a64;
+  --cpp-light-gray: #d8ddd9;
+}
+
+
+/* =========================================================
+   OVERALL PRESENTATION
+   ========================================================= */
+
 .reveal {
-  background-color: #F2EEE8;
-  color: #121212;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--cpp-text);
+  background: white;
 }
 
-/* Main slide titles */
-.reveal h1 {
-  color: #005030;
-  font-weight: 700;
-}
-
-/* Subheadings */
-.reveal h2,
-.reveal h3 {
-  color: #005030;
-}
-
-/* Title slide */
-.reveal .title-slide {
-  background-color: #005030;
-  color: white;
-}
-
-/* Main presentation title */
-.reveal .title-slide h1,
-.reveal .title-slide .title {
-  color: white;
-}
-
-/* Subtitle and author */
-.reveal .title-slide .subtitle,
-.reveal .title-slide .author,
-.reveal .title-slide .date {
-  color: #FFB81C;
-}
-
-/* Bold text */
-.reveal strong {
-  color: #005030;
-}
-
-/* Links */
-.reveal a {
-  color: #005030;
-  font-weight: 600;
-}
-
-/* Bullets */
-.reveal ul li::marker {
-  color: #FFB81C;
-}
-
-.reveal ol li::marker {
-  color: #005030;
-  font-weight: bold;
-}
-
-/* Tables */
-.reveal table {
-  border-collapse: collapse;
-}
-
-.reveal table th {
-  background-color: #005030;
-  color: white;
-}
-
-.reveal table td {
-  border-bottom: 1px solid #CFBAB0;
-}
-
-/* Blockquotes / callouts */
-.reveal blockquote {
-  border-left: 6px solid #FFB81C;
-  background-color: white;
-  padding: 15px 20px;
-}
-
-/* Slide number */
-.reveal .slide-number {
-  background-color: #005030;
-  color: white;
-}
-
-/* Progress bar */
-.reveal .progress {
-  color: #FFB81C;
-}
-
-/* Optional gold accent line beneath headings */
-.reveal h1::after,
-.reveal h2::after {
-  content: "";
-  display: block;
-  width: 70px;
-  height: 5px;
-  background-color: #FFB81C;
-  margin-top: 8px;
-  margin-bottom: 18px;
-}
-
-/* Images */
-.reveal img {
-  border-radius: 8px;
-}
-
-/* Keep slide content readable */
-.reveal .slides section {
+.reveal .slides {
   text-align: left;
 }
 
-/* Center title slides */
-.reveal .slides section.title-slide {
+
+/* =========================================================
+   SLIDE SIZE AND SPACING
+   ========================================================= */
+
+.reveal .slides section {
+  padding: 18px 42px;
+  box-sizing: border-box;
+}
+
+
+/* =========================================================
+   MAIN SLIDE TITLES
+   ========================================================= */
+
+.reveal h1 {
+  color: var(--cpp-green);
+
+  font-weight: 700;
+
+  font-size: 1.35em;
+
+  line-height: 1.05;
+
+  border-bottom: 5px solid var(--cpp-gold);
+
+  padding-bottom: 0.12em;
+
+  margin-top: 0;
+
+  margin-bottom: 0.28em;
+}
+
+
+/* =========================================================
+   SECONDARY SLIDE TITLES
+   ========================================================= */
+
+.reveal h2 {
+  color: var(--cpp-green);
+
+  font-weight: 700;
+
+  font-size: 1.20em;
+
+  line-height: 1.05;
+
+  border-left: 7px solid var(--cpp-gold);
+
+  padding-left: 0.30em;
+
+  margin-top: 0;
+
+  margin-bottom: 0.28em;
+}
+
+
+/* =========================================================
+   SMALL HEADINGS
+   ========================================================= */
+
+.reveal h3 {
+  color: var(--cpp-dark-green);
+
+  font-size: 0.82em;
+
+  font-weight: 700;
+
+  line-height: 1.10;
+
+  margin-top: 0.25em;
+
+  margin-bottom: 0.12em;
+}
+
+
+/* =========================================================
+   PARAGRAPHS
+   ========================================================= */
+
+.reveal p {
+  font-size: 0.58em;
+
+  line-height: 1.18;
+
+  margin-top: 0.15em;
+
+  margin-bottom: 0.28em;
+}
+
+
+/* =========================================================
+   BULLET LISTS
+   ========================================================= */
+
+.reveal ul {
+  margin-top: 0.12em;
+
+  margin-bottom: 0.18em;
+
+  margin-left: 1.15em;
+}
+
+.reveal li {
+  font-size: 0.58em;
+
+  line-height: 1.16;
+
+  margin-bottom: 0.14em;
+}
+
+
+/* =========================================================
+   NESTED BULLETS
+   ========================================================= */
+
+.reveal li li {
+  font-size: 0.95em;
+
+  margin-bottom: 0.10em;
+}
+
+
+/* =========================================================
+   BOLD TEXT
+   ========================================================= */
+
+.reveal strong {
+  color: var(--cpp-dark-green);
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   ITALIC TEXT
+   ========================================================= */
+
+.reveal em {
+  color: var(--cpp-gray);
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+.reveal a {
+  color: var(--cpp-green);
+
+  text-decoration: underline;
+}
+
+.reveal a:hover {
+  color: var(--cpp-gold);
+}
+
+
+/* =========================================================
+   TABLES
+   ========================================================= */
+
+.reveal table {
+  font-size: 0.48em;
+
+  line-height: 1.15;
+
+  width: 100%;
+
+  border-collapse: collapse;
+
+  margin-top: 0.30em;
+
+  margin-bottom: 0.30em;
+}
+
+
+/* =========================================================
+   TABLE HEADERS
+   ========================================================= */
+
+.reveal table th {
+  background: var(--cpp-green);
+
+  color: white;
+
+  font-weight: 700;
+
+  padding: 0.45em;
+
+  border: 1px solid var(--cpp-green);
+}
+
+
+/* =========================================================
+   TABLE CELLS
+   ========================================================= */
+
+.reveal table td {
+  padding: 0.42em;
+
+  border-bottom: 1px solid var(--cpp-light-gray);
+
+  vertical-align: top;
+}
+
+
+/* =========================================================
+   ALTERNATING TABLE ROWS
+   ========================================================= */
+
+.reveal table tbody tr:nth-child(even) {
+  background: #f7f8f7;
+}
+
+
+/* =========================================================
+   IMAGES
+   ========================================================= */
+
+.reveal img {
+  border-radius: 8px;
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.10);
+
+  max-width: 100%;
+
+  max-height: 460px;
+
+  object-fit: contain;
+}
+
+
+/* =========================================================
+   FIGURE CAPTIONS
+   ========================================================= */
+
+.reveal figcaption {
+  font-size: 0.42em;
+
+  color: var(--cpp-gray);
+
   text-align: center;
+
+  margin-top: 0.15em;
+}
+
+
+/* =========================================================
+   HORIZONTAL LINES
+   ========================================================= */
+
+.reveal hr {
+  border: none;
+
+  height: 2px;
+
+  background: var(--cpp-gold);
+
+  margin-top: 0.30em;
+
+  margin-bottom: 0.30em;
+}
+
+
+/* =========================================================
+   BLOCK QUOTES
+   ========================================================= */
+
+.reveal blockquote {
+  background: var(--cpp-cream);
+
+  border-left: 5px solid var(--cpp-gold);
+
+  padding: 0.45em 0.70em;
+
+  margin: 0.40em 0;
+
+  width: 92%;
+
+  box-shadow: none;
+}
+
+
+/* =========================================================
+   SLIDE NUMBER
+   ========================================================= */
+
+.reveal .slide-number {
+  background: var(--cpp-dark-green);
+
+  color: white;
+
+  border-radius: 20px;
+
+  padding: 4px 10px;
+
+  font-size: 12px;
+}
+
+
+/* =========================================================
+   PROGRESS BAR
+   ========================================================= */
+
+.reveal .progress {
+  height: 4px;
+}
+
+.reveal .progress span {
+  background: var(--cpp-gold);
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.reveal .footer {
+  color: var(--cpp-gray);
+
+  font-size: 0.30em;
+
+  bottom: 8px;
+}
+
+
+/* =========================================================
+   CONTROLS / ARROWS
+   ========================================================= */
+
+.reveal .controls {
+  color: var(--cpp-green);
+}
+
+
+/* =========================================================
+   CODE — IF ANY CODE APPEARS
+   ========================================================= */
+
+.reveal pre {
+  font-size: 0.48em;
+
+  line-height: 1.15;
+}
+
+
+/* =========================================================
+   KEY CUSTOMER JOURNEY / OTHER CONTENT-HEAVY SLIDES
+   ========================================================= */
+
+.reveal section p + ul {
+  margin-top: 0.10em;
+}
+
+
+/* =========================================================
+   REDUCE EXCESSIVE SPACE BETWEEN ELEMENTS
+   ========================================================= */
+
+.reveal h1 + p,
+.reveal h2 + p,
+.reveal h3 + p {
+  margin-top: 0.10em;
+}
+
+.reveal h1 + ul,
+.reveal h2 + ul,
+.reveal h3 + ul {
+  margin-top: 0.10em;
+}
+
+
+/* =========================================================
+   KEEP CONTENT INSIDE SLIDES
+   ========================================================= */
+
+.reveal section {
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   SPECIAL IMAGE SLIDES
+   ========================================================= */
+
+.reveal section:has(img) p {
+  margin-bottom: 0.15em;
+}
+
+
+/* =========================================================
+   DASHBOARD IMAGE
+   ========================================================= */
+
+.reveal section img[alt*="Dashboard"] {
+  max-height: 520px;
+
+  width: auto;
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+}
+
+
+/* =========================================================
+   RECOMMENDATION SLIDES
+   ========================================================= */
+
+.reveal section strong:first-child {
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   FINAL SLIDE
+   ========================================================= */
+
+.reveal section:last-of-type {
+  text-align: center;
+}
+
+.reveal section:last-of-type h1 {
+  color: var(--cpp-green);
+
+  text-align: center;
+
+  border-bottom: 5px solid var(--cpp-gold);
+
+  padding-bottom: 0.20em;
+}
+
+.reveal section:last-of-type h2 {
+  border-left: none;
+
+  text-align: center;
+
+  color: var(--cpp-dark-green);
+}
+/* =========================================================
+   FOCUS SLIDES
+   Makes slides with less content look intentional
+   ========================================================= */
+
+.reveal section.focus-slide {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 55px 75px;
+}
+
+
+/* Focus slide heading */
+
+.reveal section.focus-slide h2 {
+  font-size: 1.45em;
+  line-height: 1.05;
+  margin-top: 0;
+  margin-bottom: 0.65em;
+}
+
+
+/* Focus slide paragraphs */
+
+.reveal section.focus-slide p {
+  font-size: 0.70em;
+  line-height: 1.30;
+  max-width: 1050px;
+}
+
+
+/* Focus slide bullet box */
+
+.reveal section.focus-slide ul {
+  max-width: 1050px;
+
+  margin-top: 0.40em;
+  margin-left: 0;
+
+  padding: 0.70em 1em 0.70em 1.7em;
+
+  background: var(--cpp-cream);
+
+  border-left: 6px solid var(--cpp-gold);
+
+  border-radius: 10px;
+}
+
+
+/* Larger text on focus slides */
+
+.reveal section.focus-slide li {
+  font-size: 0.70em;
+  line-height: 1.30;
+  margin-bottom: 0.20em;
+}
+
+
+/* Make standalone bold statements more prominent */
+
+.reveal section.focus-slide > p > strong:only-child {
+  display: block;
+
+  font-size: 1.35em;
+
+  color: var(--cpp-green);
+
+  text-align: center;
+
+  margin-top: 0.50em;
+
+  padding: 0.70em;
+
+  background: var(--cpp-cream);
+
+  border-top: 4px solid var(--cpp-gold);
+
+  border-bottom: 4px solid var(--cpp-gold);
+
+  border-radius: 8px;
+}
+/* =========================================================
+   CARD SLIDES
+   ========================================================= */
+
+.reveal section.card-slide ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+  list-style: none;
+  margin: 0.7em 0 0 0;
+  padding: 0;
+}
+
+.reveal section.card-slide li {
+  background: #f7f3e8;
+  border-left: 6px solid var(--cpp-gold);
+  border-radius: 10px;
+  padding: 16px 20px;
+  font-size: 0.65em;
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   KPI SLIDE
+   ========================================================= */
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+  margin-top: 35px;
+}
+
+.kpi-card {
+  background: #f7f3e8;
+  border-top: 6px solid var(--cpp-gold);
+  border-radius: 12px;
+  padding: 24px 12px;
+  text-align: center;
+  min-height: 105px;
+}
+
+.kpi-card p {
+  margin: 0;
+}
+
+.kpi-card strong {
+  display: block;
+  color: var(--cpp-green);
+  font-size: 1.65em;
+  margin-bottom: 8px;
+}
+
+
+/* =========================================================
+   CREATIVE ASSETS
+   ========================================================= */
+
+.reveal section.creative-slide {
+  padding: 35px 70px;
+}
+
+.reveal section.creative-slide .creative-banner {
+  display: block;
+  width: 100%;
+  max-height: 210px;
+  object-fit: contain;
+  margin: 0 auto 18px auto;
+}
+
+.creative-bottom {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 25px;
+  align-items: center;
+  max-width: 900px;
+  margin: auto;
+}
+
+.reveal section.creative-slide .creative-basket {
+  max-height: 235px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.reveal section.creative-slide .creative-phone {
+  max-height: 235px;
+  width: 100%;
+  object-fit: contain;
+}
+
+
+/* =========================================================
+   FOCUS SLIDES
+   ========================================================= */
+
+.reveal section.focus-slide {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 55px 90px;
+}
+
+.reveal section.focus-slide h2 {
+  font-size: 1.45em;
+  margin-bottom: 0.65em;
+}
+
+.reveal section.focus-slide ul {
+  background: #f7f3e8;
+  border-left: 6px solid var(--cpp-gold);
+  border-radius: 12px;
+  padding: 20px 25px 20px 50px;
+  max-width: 1000px;
+}
+
+.reveal section.focus-slide li {
+  font-size: 0.70em;
+  line-height: 1.35;
+}
+
+
+/* =========================================================
+   MESSAGE SLIDE
+   ========================================================= */
+
+.reveal section.message-slide {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+.reveal section.message-slide h2 {
+  border-left: none;
+  text-align: center;
+  font-size: 1.15em;
+}
+
+.reveal section.message-slide strong {
+  display: block;
+  font-size: 1.7em;
+  color: var(--cpp-green);
+  background: #f7f3e8;
+  border-top: 6px solid var(--cpp-gold);
+  border-bottom: 6px solid var(--cpp-gold);
+  padding: 30px;
+  border-radius: 12px;
+}
+
+
+/* =========================================================
+   CUSTOMER JOURNEY
+   ========================================================= */
+
+.reveal section.journey-slide {
+  text-align: center;
+}
+
+.reveal section.journey-slide p {
+  font-size: 0.62em;
+  margin: 0.15em;
+}
+
+.reveal section.journey-slide strong {
+  display: inline-block;
+  background: #f7f3e8;
+  border-left: 5px solid var(--cpp-gold);
+  border-radius: 8px;
+  padding: 8px 25px;
+  min-width: 420px;
+}
+
+
+/* =========================================================
+   DASHBOARD SLIDE
+   ========================================================= */
+
+.reveal section.dashboard-slide img {
+  display: block;
+  max-height: 540px;
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
 }

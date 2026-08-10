@@ -1,18 +1,26 @@
 ---
 title: "CPP Farm Store Omnichannel Strategy"
 subtitle: "Final Client Presentation"
-author: "Kevin, Alexa Bueno, Sandy, Brian, Ron Sabilla"
+author: "Kevin Bachez, Alexa Bueno, Sandy, Brian, Ron Sabilla"
 date: today
+
 format:
   revealjs:
     theme: simple
     css: cpp-theme.css
     slide-number: true
-    transition: slide
+    transition: fade
     embed-resources: true
+    center: false
+    width: 1280
+    height: 720
+    margin: 0.06
+    controls: true
+    progress: true
+    footer: "CPP Farm Store • Omnichannel Strategy"
 ---
 
-## Executive Summary
+# Executive Summary
 
 CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produce, estate wine, plants, honey, and custom gift items — all grown on site. Most people don't know it exists, and those who do find the website confusing.
 
@@ -22,18 +30,18 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 **Projected results:** 40% increase in gift box orders, 25% jump in traffic, 3% conversion rate, and a growing base of repeat customers.
 
-## Client and Situation Analysis
+# Client and Situation Analysis
 
 **About CPP Farm Store**
 
 - Founded on W.K. Kellogg's 1925 horse ranch, now part of Cal Poly Pomona
 - Operated by the Huntley College of Agriculture as a student-run enterprise
 - Students grow, harvest, market, and sell everything themselves
-- Located at 4102 S. University Drive \| Open Daily 10AM–6PM
+- Located at 4102 S. University Drive | Open Daily 10AM–6PM
 
 **Products:** Fresh produce, estate wine, plants, honey, eggs, student-made ice cream, and custom gift boxes
 
-## Target Customers
+# Target Customers
 
 - **CPP Students** — on campus daily but largely unaware the store exists
 - **Faculty & Staff** — reliable shoppers, easiest to retain
@@ -41,14 +49,14 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - **Alumni** — emotionally connected, ideal gift box buyers, rely on digital
 - **Online-First Shoppers** — expect smooth browsing, checkout, and pickup
 
-## Product Categories
+# Product Categories
 
 - **Fresh produce & agricultural goods** — fruits, vegetables, eggs, honey
 - **Specialty products** — estate wine, student-made ice cream, jams
 - **Nursery & ornamentals** — plants and seasonal items
 - **Gift products** — customizable gift boxes and fruit packs *(highest margin, lowest visibility)*
 
-## Strengths & Weaknesses
+# Strengths & Weaknesses
 
 **Strengths**
 
@@ -64,7 +72,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Confusing checkout, no order confirmation or pickup updates
 - No loyalty program or post-purchase follow-up
 
-## Opportunities & Challenges
+# Opportunities & Challenges
 
 **Opportunities**
 
@@ -79,14 +87,14 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Rotating student staff affects consistency
 - Campus parking and navigation deters off-campus visitors
 
-## SWOT Summary
+# SWOT Summary
 
-|   | Helpful | Harmful |
-|------------------------|------------------------|------------------------|
+| | Helpful | Harmful |
+|---|---|---|
 | **Internal** | Campus-grown story, quality products, Shopify foundation, loyal alumni | Low awareness, poor discoverability, no post-purchase communication |
 | **External** | Local food trends, Google Shopping, seasonal gifting windows | Stronger competitors, campus barriers, limited budget |
 
-# 3. Key Customer Journey Insight
+# Key Customer Journey Insight
 
 **Target Customers**
 
@@ -106,21 +114,16 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 **Create a Connected Omnichannel Experience**
 
 - **Online Discovery** — Increase visibility through Google Search, social media, email, campus events, and Google Merchant Center.
-
 - **Product Research** — Improve Shopify with clear product photos, pricing, availability, store hours, location, and parking information.
-
 - **Online Ordering** — Simplify customization, secure checkout, pricing, and automatic order confirmation.
-
 - **Store Pickup** — Provide scheduled pickup times, designated parking, clear directions, and curbside pickup options.
-
 - **Post-Purchase Engagement** — Use follow-up emails, seasonal promotions, product recommendations, and loyalty incentives.
 
 **Key Takeaway**
 
 - Connect the entire journey: **Discover → Research → Order → Pickup → Engage → Repeat**
 
-
-# 4. Shopify / Ecommerce Recommendation
+# Shopify / Ecommerce Recommendation
 
 ## Shopify Prototype
 
@@ -136,31 +139,32 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Store pickup (BOPIS) keeps the in-person visit part of the experience
 - Mobile-friendly layout for on-the-go campus browsing
 
-## Prototype Evidence: Homepage
+## Prototype Evidence: Homepage {.visual-slide}
 
 ![Figure 4.1: Homepage mockup](images/homepage-mockup.png){width=75%}
 
-## Prototype Evidence: Product & Basket Flow
+## Prototype Evidence: Product & Basket Flow {.visual-slide}
 
-![Figure 4.2: Product page mockup](images/product-page-mockup.png){width=45%} ![Figure 4.3: Build Your Own basket flow](images/byo-basket.png){width=45%}
+![Figure 4.2: Product page mockup](images/product-page-mockup.png){width=45%}
 
+![Figure 4.3: Build Your Own basket flow](images/byo-basket.png){width=45%}
 
-# 6. Campaign Strategy
+# Campaign Strategy
 
-### Business Problem
+## Business Problem {.focus-slide}
 
 - CPP Farm Store's current website runs on Wix, which cannot process online orders — customers must call or visit in person, no matter how much interest they have after browsing
 
-### Campaign Objective
+## Campaign Objective {.focus-slide}
 
 - Increase awareness and adoption of CPP Farm Store's online gift box ordering option.
 - Drive customers from digital channels to Shopify and in-store pickup.
 
-### Campaign Message
+## Campaign Message {.message-slide}
 
 **Thoughtful Gifts, Grown Here**
 
-### Target Audience
+## Target Audience {.card-slide}
 
 - Students
 - Families
@@ -168,7 +172,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus organizations
 - Local customers
 
-### Channels
+## Channels {.card-slide}
 
 - Instagram
 - TikTok
@@ -178,7 +182,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus signage
 - Shopify
 
-### Campaign KPIs
+## Campaign KPIs {.card-slide}
 
 - Website traffic
 - Product page views
@@ -188,38 +192,44 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Purchases
 - Revenue
 
-# 7. Creative Examples
+# Creative Examples
 
-## Creative Objective
+## Creative Objective {.focus-slide}
 
 - Objective: build awareness and drive consideration for gift baskets as a campus/community gifting option
 - Key message: "Fresh from the Farm, made for giving"
 - Tone: warm, handmade, community-rooted, not corporate or polished
 
-## Creative Assets
+## Creative Assets {.creative-slide}
 
-![](images/banner.png){height="2in"} ![](images/basket.png){height="2in"} ![](images/insta-poll.png){height="2in"}
+![](images/banner.png){.creative-banner}
 
-## Channel Fit
+::: {.creative-bottom}
+![](images/basket.png){.creative-basket}
+
+![](images/insta-poll.png){.creative-phone}
+:::
+
+## Channel Fit {.focus-slide}
 
 - Instagram: primary channel for visual, gift-forward content
 - Email: supports basket promotions and seasonal launches
 - On-site banners: reuse creative to stay consistent with Shopify site
 
-## AI Use
+## AI Use {.focus-slide}
 
 - AI image generation (Canva) used for basket and mockup visuals
 - Allowed testing of creative direction without a photography budget or live Shopify build
 
-# 8. Dashboard and Measurement Plan
+# Dashboard and Measurement Plan
 
-## Analytics Dashboard
+## Analytics Dashboard {.focus-slide}
 
 The CPP Farm Store Omnichannel Performance Dashboard was developed in Looker Studio to demonstrate how CPP Farm Store could monitor ecommerce, marketing, product, and omnichannel performance.
 
 The dashboard uses **simulated data for educational purposes** because complete live CPP Farm Store ecommerce data were not available.
 
-## Measurement Objectives
+## Measurement Objectives {.card-slide}
 
 The dashboard is designed to:
 
@@ -232,18 +242,61 @@ The dashboard is designed to:
 - Measure store pickup interest
 - Support future data-driven decisions
 
-## Key Performance Indicators
+## Key Performance Indicators {.kpi-slide}
 
-- **Total Users:** 980
-- **Sessions:** 1,138
-- **Product Views:** 796
-- **Purchases:** 126
-- **Revenue:** \$2,644
-- **Conversion Rate:** 11.07%
-- **Average Order Value:** \$20.98
-- **Store Pickup Interest:** 65
+::: {.kpi-grid}
 
-## Dashboard Visualizations
+::: {.kpi-card}
+**980**
+
+Total Users
+:::
+
+::: {.kpi-card}
+**1,138**
+
+Sessions
+:::
+
+::: {.kpi-card}
+**796**
+
+Product Views
+:::
+
+::: {.kpi-card}
+**126**
+
+Purchases
+:::
+
+::: {.kpi-card}
+**$2,644**
+
+Revenue
+:::
+
+::: {.kpi-card}
+**11.07%**
+
+Conversion Rate
+:::
+
+::: {.kpi-card}
+**$20.98**
+
+Average Order Value
+:::
+
+::: {.kpi-card}
+**65**
+
+Store Pickup Interest
+:::
+
+:::
+
+## Dashboard Visualizations {.card-slide}
 
 The dashboard includes:
 
@@ -256,7 +309,7 @@ The dashboard includes:
 - Average Order Value
 - Store Pickup Interest
 
-## Dashboard
+## Dashboard {.dashboard-slide}
 
 ![CPP Farm Store Omnichannel Performance Dashboard](images/Final%20Looker%20Studio%20Dashboard.png){width="95%"}
 
@@ -268,7 +321,7 @@ The dashboard includes:
 - Product-level performance can identify where customers show interest but do not complete a purchase.
 - Store Pickup Interest helps connect digital activity with the physical CPP Farm Store.
 
-## What Should Be Measured?
+## What Should Be Measured? {.card-slide}
 
 The dashboard should help CPP Farm Store determine whether the new digital Gift Basket ordering process is improving customer behavior.
 
@@ -295,7 +348,7 @@ CPP Farm Store should:
 - Regularly review dashboard data and adjust marketing decisions.
 - Replace simulated data with live GA4 and Shopify data when available.
 
-## Measurement Opportunity
+## Measurement Opportunity {.focus-slide}
 
 A digital Gift Basket ordering process would provide CPP Farm Store with data that a paper form cannot easily provide.
 
@@ -305,17 +358,15 @@ With Shopify and GA4, the Farm Store could measure:
 
 This would allow management to identify where customers leave the ordering process and continuously improve the experience.
 
-# 9. Final Recommendations
+# Final Recommendations
+
 ## Recommendation 1 — Highest Priority
 
 **Fix the Digital Purchase & Pickup Experience**
 
 - **Action** — Improve Shopify product pages, simplify checkout, automate order confirmations, and provide clear pickup, parking, and store information.
-
 - **Why It Matters** — The greatest customer friction occurs between product consideration, online purchase, and physical pickup.
-
 - **Resources** — Shopify updates • Product photos/content • Email automation • Pickup signage • Staff training
-
 - **Measurement** — Conversion Rate • Cart Abandonment • Purchases • Store Pickup Interest • AOV
 
 ---
@@ -325,11 +376,8 @@ This would allow management to identify where customers leave the ordering proce
 **Launch an Integrated Gift Box Campaign**
 
 - **Action** — Promote custom gift boxes across Google, email, campus events, in-store QR codes, and the Shopify landing page.
-
 - **Why It Matters** — Custom gift boxes combine CPP's local story with high-demand occasions such as Graduation, Mother's Day, and holidays.
-
 - **Resources** — Google Ads • Email Marketing • Campaign Creative • Event Displays • QR Codes • Shopify Landing Page
-
 - **Measurement** — **+25% Product Page Traffic • 3% Conversion Rate • +40% Gift Box Orders**
 
 ---
@@ -339,15 +387,11 @@ This would allow management to identify where customers leave the ordering proce
 **Build Loyalty & Customer Retention**
 
 - **Action** — Introduce automated post-purchase emails, seasonal reminders, personalized recommendations, and loyalty rewards.
-
 - **Why It Matters** — Turning satisfied first-time shoppers into repeat customers reduces dependence on continuous customer acquisition.
-
 - **Resources** — Email/CRM Platform • Shopify Integration • Loyalty Tools • Customer Segmentation
-
 - **Measurement** — Repeat Purchase Rate • Returning Customers • Email CTR • Customer Lifetime Value • **20% Repeat-Purchase Goal**
 
-
-# 10. Closing
+# Closing
 
 ## From Paper Forms to a Connected Customer Journey
 
@@ -357,7 +401,7 @@ Instead of requiring customers to visit the store and complete a paper order for
 
 The physical Farm Store would remain an important part of the experience through preparation, fulfillment, and customer pickup.
 
-## Recommended Customer Journey
+## Recommended Customer Journey {.journey-slide}
 
 **Discover Online**
 
@@ -392,34 +436,13 @@ This strategy connects every major part of our project:
 - The **creative assets** communicate the offering.
 - The **analytics dashboard** measures whether customers use it.
 
-## Final Takeaway
+## Final Takeaway {.focus-slide}
 
 CPP Farm Store does not need ecommerce to replace the physical Farm Store.
 
 It can use ecommerce to eliminate unnecessary steps such as paper Gift Basket ordering while making the physical store more convenient and valuable.
 
 **The goal is a simpler journey: order online, pick up at the Farm Store.**
-
-# 11. Appendix
-
-## Project Links
-
-- **Final Report:** \[Insert link\]
-- **GitHub Pages:** \[Insert link\]
-- **GitHub Repository:** \[Insert link\]
-- **Shopify Prototype:** \[Insert link\]
-- **Looker Studio Dashboard:** \[<https://datastudio.google.com/reporting/f8db8c82-30a9-4c24-a7f8-04d69d73dd7c>\]
-- **Google Drive Folder:** \[Insert link\]
-- **Product Feed:** \[Insert link\]
-
-## Additional Evidence
-
-- \[Shopify screenshots\]
-- \[Gift Basket form screenshots\]
-- [Creative assets]
-- \[Product feed\]
-- [Dashboard]
-- \[Additional project materials\]
 
 # Thank You
 
