@@ -1,7 +1,7 @@
 ---
 title: "CPP Farm Store Omnichannel Strategy"
 subtitle: "Final Client Presentation"
-author: "Kevin, Alexa, Sandy, Brian, Ron Sabilla"
+author: "Kevin, Alexa Bueno, Sandy, Brian, Ron Sabilla"
 date: today
 format:
   revealjs:
@@ -29,7 +29,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Founded on W.K. Kellogg's 1925 horse ranch, now part of Cal Poly Pomona
 - Operated by the Huntley College of Agriculture as a student-run enterprise
 - Students grow, harvest, market, and sell everything themselves
-- Located at 4102 S. University Drive | Open Daily 10AM–6PM
+- Located at 4102 S. University Drive \| Open Daily 10AM–6PM
 
 **Products:** Fresh produce, estate wine, plants, honey, eggs, student-made ice cream, and custom gift boxes
 
@@ -81,82 +81,59 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 ## SWOT Summary
 
-| | Helpful | Harmful |
-|---|---|---|
+|   | Helpful | Harmful |
+|------------------------|------------------------|------------------------|
 | **Internal** | Campus-grown story, quality products, Shopify foundation, loyal alumni | Low awareness, poor discoverability, no post-purchase communication |
 | **External** | Local food trends, Google Shopping, seasonal gifting windows | Stronger competitors, campus barriers, limited budget |
-
 
 # 3. Key Customer Journey Insight
 
 ## Target Customers
 
-- [Students]
-- [Faculty and staff]
-- [Alumni]
-- [Local community members]
-- [Online-first shoppers]
+- \[Students\]
+- \[Faculty and staff\]
+- \[Alumni\]
+- \[Local community members\]
+- \[Online-first shoppers\]
 
 ## Key Journey Insight
 
-- [Main pain point]
-- [Important customer touchpoints]
-- [Biggest omnichannel opportunity]
+- \[Main pain point\]
+- \[Important customer touchpoints\]
+- \[Biggest omnichannel opportunity\]
 
 ## Customer Journey Opportunity
 
-- [Online discovery]
-- [Product research]
-- [Online ordering]
-- [Store pickup]
-- [Post-purchase engagement]
-
+- \[Online discovery\]
+- \[Product research\]
+- \[Online ordering\]
+- \[Store pickup\]
+- \[Post-purchase engagement\]
 
 # 4. Shopify / Ecommerce Recommendation
 
 ## Shopify Prototype
 
-- [Purpose of Shopify prototype]
-- [Main product categories]
-- [Homepage strategy]
-- [Navigation strategy]
+- Purpose: extend the in-person Farm Store experience online through a curated gift basket line
+- Categories: seasonal baskets, occasion baskets, farm staple bundles
+- Homepage: hero banner for current seasonal basket, category tiles below
+- Navigation: five items only (Shop by Occasion, Shop by Season, Farm Staples, Build Your Own, About the Farm Store)
 
 ## Customer Experience Improvements
 
-- [Product pages]
-- [Online ordering]
-- [Gift Basket form]
-- [Store pickup]
-- [Mobile-friendly shopping]
+- Customizable baskets: swap items, add note card, choose size
+- Gift Basket form for personalized, scheduled orders
+- Store pickup (BOPIS) keeps the in-person visit part of the experience
+- Mobile-friendly layout for on-the-go campus browsing
 
-## Prototype Evidence
+## Prototype Evidence: Homepage
 
-[Insert Shopify screenshot here]
+![Figure 4.1: Homepage mockup](images/homepage-mockup.png){width=75%}
 
+## Prototype Evidence: Product & Basket Flow
 
-# 5. Product Feed / Retail Media Recommendation
+![Figure 4.2: Product page mockup](images/product-page-mockup.png){width=45%} ![Figure 4.3: Build Your Own basket flow](images/byo-basket.png){width=45%}
 
-### Product Feed Strategy
-
-- **Selected products:** Fresh Fruit Boxes (Avocado/Mandarin, Satsuma, Deluxe, Navel), Build-Your-Own Boxes (Non Perishable, Fruit & Snacks, Farm Store, Anti Pasti, Pasta, Sweet), Seasonal Baskets (Christmas, Custom Christmas, Valentine's)
-- **Product titles:** Keep the current recognizable names (e.g., "Deluxe Box," "Satsuma Gift Box") but standardize formatting across the feed
-- **Descriptions:** Fresh Fruit Boxes note they're packed with CPP-grown fruit available at time of order; Build-Your-Own Boxes explain customers can shop in-store or call with a budget to have one built
-- **Prices:** Not currently listed on the website — this is a gap to fix once the site can process orders
-- **Availability:** Fresh Fruit Boxes are seasonal (depends on what's ripe); Build-Your-Own Boxes and Baskets are available year-round on request
-- **Images:** Existing photos are usable but small and inconsistently cropped — recommend a refresh so all products share the same background and framing
-- **Pickup information:** Gift Boxes ship anywhere in the US or can be picked up in-store; Gift Baskets are pickup-only
-
-### Recommended Products for Promotion
-
-- **Deluxe Box** — most visually appealing fresh-fruit option, strongest "grown here" story
-- **Farm Store Gift Box** — flexible build-your-own option, appeals to a range of budgets
-- **Custom Christmas Basket** — highest perceived value, ideal for the holiday gifting window
-
-### Retail Media Opportunity
-
-- **Google Merchant Center:** Focus on the shippable Gift Boxes, since Baskets are pickup-only and don't fit standard shipping-based retail feeds
-- **Google Shopping:** Fresh Fruit Boxes are the most differentiated — no local competitor can claim "CPP-grown" produce
-- **Improved online product discovery:** Current Wix site can't process orders — this feed only becomes actionable once the group's Shopify recommendation is live
 
 # 6. Campaign Strategy
 
@@ -201,32 +178,28 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Purchases
 - Revenue
 
-
 # 7. Creative Examples
 
 ## Creative Objective
 
-- [Insert creative objective]
-- [Main message]
-- [Tone and style]
+- Objective: build awareness and drive consideration for gift baskets as a campus/community gifting option
+- Key message: "Fresh from the Farm, made for giving"
+- Tone: warm, handmade, community-rooted, not corporate or polished
 
 ## Creative Assets
 
-[Insert creative asset screenshot]
+![](images/banner.png){height="2in"} ![](images/basket.png){height="2in"} ![](images/insta-poll.png){height="2in"}
 
 ## Channel Fit
 
-- [Instagram]
-- [TikTok]
-- [Email]
-- [Digital advertising]
+- Instagram: primary channel for visual, gift-forward content
+- Email: supports basket promotions and seasonal launches
+- On-site banners: reuse creative to stay consistent with Shopify site
 
 ## AI Use
 
-- [Explain how AI was used]
-- [Explain human review]
-- [Explain how assets match CPP Farm Store branding]
-
+- AI image generation (Canva) used for basket and mockup visuals
+- Allowed testing of creative direction without a photography budget or live Shopify build
 
 # 8. Dashboard and Measurement Plan
 
@@ -255,9 +228,9 @@ The dashboard is designed to:
 - **Sessions:** 1,138
 - **Product Views:** 796
 - **Purchases:** 126
-- **Revenue:** $2,644
+- **Revenue:** \$2,644
 - **Conversion Rate:** 11.07%
-- **Average Order Value:** $20.98
+- **Average Order Value:** \$20.98
 - **Store Pickup Interest:** 65
 
 ## Dashboard Visualizations
@@ -322,48 +295,46 @@ With Shopify and GA4, the Farm Store could measure:
 
 This would allow management to identify where customers leave the ordering process and continuously improve the experience.
 
-
 # 9. Final Recommendations
 
 ## Recommendation 1: Highest Priority
 
-**[Insert highest-priority recommendation]**
+**\[Insert highest-priority recommendation\]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - \[Insert\]
 - Why it matters:
-  - [Insert]
+  - \[Insert\]
 - Resources needed:
-  - [Insert]
+  - \[Insert\]
 - Measurement:
-  - [Insert]
+  - \[Insert\]
 
 ## Recommendation 2: Medium-Term Opportunity
 
-**[Insert recommendation]**
+**\[Insert recommendation\]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - \[Insert\]
 - Why it matters:
-  - [Insert]
+  - \[Insert\]
 - Resources needed:
-  - [Insert]
+  - \[Insert\]
 - Measurement:
-  - [Insert]
+  - \[Insert\]
 
 ## Recommendation 3: Future Opportunity
 
-**[Insert recommendation]**
+**\[Insert recommendation\]**
 
 - What CPP Farm Store should do:
-  - [Insert]
+  - \[Insert\]
 - Why it matters:
-  - [Insert]
+  - \[Insert\]
 - Resources needed:
-  - [Insert]
+  - \[Insert\]
 - Measurement:
-  - [Insert]
-
+  - \[Insert\]
 
 # 10. Closing
 
@@ -418,27 +389,26 @@ It can use ecommerce to eliminate unnecessary steps such as paper Gift Basket or
 
 **The goal is a simpler journey: order online, pick up at the Farm Store.**
 
-
 # 11. Appendix
 
 ## Project Links
 
-- **Final Report:** [Insert link]
-- **GitHub Pages:** [Insert link]
-- **GitHub Repository:** [Insert link]
-- **Shopify Prototype:** [Insert link]
-- **Looker Studio Dashboard:** [<https://datastudio.google.com/reporting/f8db8c82-30a9-4c24-a7f8-04d69d73dd7c>]
-- **Google Drive Folder:** [Insert link]
-- **Product Feed:** [Insert link]
+- **Final Report:** \[Insert link\]
+- **GitHub Pages:** \[Insert link\]
+- **GitHub Repository:** \[Insert link\]
+- **Shopify Prototype:** \[Insert link\]
+- **Looker Studio Dashboard:** \[<https://datastudio.google.com/reporting/f8db8c82-30a9-4c24-a7f8-04d69d73dd7c>\]
+- **Google Drive Folder:** \[Insert link\]
+- **Product Feed:** \[Insert link\]
 
 ## Additional Evidence
 
-- [Shopify screenshots]
-- [Gift Basket form screenshots]
+- \[Shopify screenshots\]
+- \[Gift Basket form screenshots\]
 - [Creative assets]
-- [Product feed]
+- \[Product feed\]
 - [Dashboard]
-- [Additional project materials]
+- \[Additional project materials\]
 
 # Thank You
 
