@@ -136,45 +136,44 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 # 5. Product Feed / Retail Media Recommendation
 
-## Product Feed Strategy
+### Product Feed Strategy
 
-- [Selected products]
-- [Product titles]
-- [Descriptions]
-- [Prices]
-- [Availability]
-- [Images]
-- [Pickup information]
+- **Selected products:** Raw Honey, Seasonal Produce Box, Local Gift Basket, Strawberry Jam, Farm Fresh Eggs
+- **Product titles:** Each name includes the brand, product, and size (e.g., "CPP Farm Store Raw Honey, 16 oz") so customers instantly know what they're looking at
+- **Descriptions:** Every listing explains what it is, why it's local, how to use it, and whether pickup is available
+- **Prices:** Set for each product, ranging from everyday items like eggs and jam to the higher-priced Gift Basket
+- **Availability:** Labeled clearly as In Stock, Seasonal, or Out of Stock
+- **Images:** One coordinated photo shoot — natural lighting, consistent background, photos that show exactly what's included
+- **Pickup information:** Each listing states whether the item is available for in-store pickup, shipping, or both
 
-## Recommended Products for Promotion
+### Recommended Products for Promotion
 
-- [Product 1]
-- [Product 2]
-- [Product 3]
+- **Raw Honey** — low cost, strong local story, best for attracting new customers
+- **Seasonal Produce Box** — keeps customers coming back throughout the year
+- **Local Gift Basket** — highest value, best for graduation, holidays, and other gifting occasions
 
-## Retail Media Opportunity
+### Retail Media Opportunity
 
-- [Google Merchant Center]
-- [Google Shopping]
-- [Improved online product discovery]
-
+- **Google Merchant Center:** Gets products listed and approved for Google's shopping platforms
+- **Google Shopping:** Puts products in front of customers already searching for local or campus gifts
+- **Improved online product discovery:** Makes it easier for new customers to find CPP Farm Store online
 
 # 6. Campaign Strategy
 
-## Business Problem
+### Business Problem
 
-- [Insert campaign problem]
+- CPP Farm Store already offers online gift box ordering, but most customers don't know it exists — so they buy gifts elsewhere instead
 
-## Campaign Objective
+### Campaign Objective
 
 - Increase awareness and adoption of CPP Farm Store's online gift box ordering option.
 - Drive customers from digital channels to Shopify and in-store pickup.
 
-## Campaign Message
+### Campaign Message
 
 **Thoughtful Gifts, Grown Here**
 
-## Target Audience
+### Target Audience
 
 - Students
 - Families
@@ -182,7 +181,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus organizations
 - Local customers
 
-## Channels
+### Channels
 
 - Instagram
 - TikTok
@@ -192,7 +191,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus signage
 - Shopify
 
-## Campaign KPIs
+### Campaign KPIs
 
 - Website traffic
 - Product page views
