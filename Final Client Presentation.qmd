@@ -136,45 +136,44 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 # 5. Product Feed / Retail Media Recommendation
 
-## Product Feed Strategy
+### Product Feed Strategy
 
-- [Selected products]
-- [Product titles]
-- [Descriptions]
-- [Prices]
-- [Availability]
-- [Images]
-- [Pickup information]
+- **Selected products:** Fresh Fruit Boxes (Avocado/Mandarin, Satsuma, Deluxe, Navel), Build-Your-Own Boxes (Non Perishable, Fruit & Snacks, Farm Store, Anti Pasti, Pasta, Sweet), Seasonal Baskets (Christmas, Custom Christmas, Valentine's)
+- **Product titles:** Keep the current recognizable names (e.g., "Deluxe Box," "Satsuma Gift Box") but standardize formatting across the feed
+- **Descriptions:** Fresh Fruit Boxes note they're packed with CPP-grown fruit available at time of order; Build-Your-Own Boxes explain customers can shop in-store or call with a budget to have one built
+- **Prices:** Not currently listed on the website — this is a gap to fix once the site can process orders
+- **Availability:** Fresh Fruit Boxes are seasonal (depends on what's ripe); Build-Your-Own Boxes and Baskets are available year-round on request
+- **Images:** Existing photos are usable but small and inconsistently cropped — recommend a refresh so all products share the same background and framing
+- **Pickup information:** Gift Boxes ship anywhere in the US or can be picked up in-store; Gift Baskets are pickup-only
 
-## Recommended Products for Promotion
+### Recommended Products for Promotion
 
-- [Product 1]
-- [Product 2]
-- [Product 3]
+- **Deluxe Box** — most visually appealing fresh-fruit option, strongest "grown here" story
+- **Farm Store Gift Box** — flexible build-your-own option, appeals to a range of budgets
+- **Custom Christmas Basket** — highest perceived value, ideal for the holiday gifting window
 
-## Retail Media Opportunity
+### Retail Media Opportunity
 
-- [Google Merchant Center]
-- [Google Shopping]
-- [Improved online product discovery]
-
+- **Google Merchant Center:** Focus on the shippable Gift Boxes, since Baskets are pickup-only and don't fit standard shipping-based retail feeds
+- **Google Shopping:** Fresh Fruit Boxes are the most differentiated — no local competitor can claim "CPP-grown" produce
+- **Improved online product discovery:** Current Wix site can't process orders — this feed only becomes actionable once the group's Shopify recommendation is live
 
 # 6. Campaign Strategy
 
-## Business Problem
+### Business Problem
 
-- [Insert campaign problem]
+- CPP Farm Store's current website runs on Wix, which cannot process online orders — customers must call or visit in person, no matter how much interest they have after browsing
 
-## Campaign Objective
+### Campaign Objective
 
 - Increase awareness and adoption of CPP Farm Store's online gift box ordering option.
 - Drive customers from digital channels to Shopify and in-store pickup.
 
-## Campaign Message
+### Campaign Message
 
 **Thoughtful Gifts, Grown Here**
 
-## Target Audience
+### Target Audience
 
 - Students
 - Families
@@ -182,7 +181,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus organizations
 - Local customers
 
-## Channels
+### Channels
 
 - Instagram
 - TikTok
@@ -192,7 +191,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - Campus signage
 - Shopify
 
-## Campaign KPIs
+### Campaign KPIs
 
 - Website traffic
 - Product page views
