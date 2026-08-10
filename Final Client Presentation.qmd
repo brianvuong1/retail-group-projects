@@ -159,26 +159,35 @@ The biggest omnichannel opportunity is to create a seamless customer journey fro
 :::
 
 ## Target Customers
+CPP Farm Store serves five key customer groups:
+- ** Students ** - Convenient on-campus shoppers who value affordability, local products, and digital promotions.
+- ** Faculty and staff** -Frequent customers who prioritize convenience, reliable product availability, and consistent store information.
+- [Alumni：Emotionally connected customers who are especially valuable for seasonal and gift purchases but depend heavily on digital channels.]
+- [Local community members：Off-campus shoppers interested in local products who face additional barriers related to awareness, campus navigation, parking, and store information.]
+- [Online-first shoppers：Digitally driven customers who expect clear product information, online ordering, secure checkout, and convenient pickup.
+]
+Among these groups, Local Community Members and Online-First Shoppers experience the greatest friction, making them especially important when designing the omnichannel experience.
 
-- \[Students\]
-- \[Faculty and staff\]
-- \[Alumni\]
-- \[Local community members\]
-- \[Online-first shoppers\]
 
 ## Key Journey Insight
 
-- \[Main pain point\]
-- \[Important customer touchpoints\]
-- \[Biggest omnichannel opportunity\]
+- [Main pain point：The largest gap is not product quality, but the disconnect between customer touchpoints. Customers may discover CPP Farm Store but struggle to find complete product information, confirm availability, understand online ordering, or confidently navigate the pickup process.]
+- [Important customer touchpoints：Google Search, Google Maps, Shopify, product pages, Instagram, email, campus events, in-store signage, order confirmations, store pickup, employees, and product packaging all influence the customer experience.]
+- [Biggest omnichannel opportunity：Connect these individual touchpoints into one continuous journey so customers can move easily from 
+
+discovery → product research → online purchase → store pickup → post-purchase engagement → repeat purchase.]
 
 ## Customer Journey Opportunity
 
-- \[Online discovery\]
-- \[Product research\]
-- \[Online ordering\]
-- \[Store pickup\]
-- \[Post-purchase engagement\]
+- [Online discovery：Improve visibility through Google Search, Google Merchant Center, social media, email, campus events, and in-store promotion. Customers should immediately understand that CPP Farm Store is open to the public and offers unique campus-grown products.
+]
+- [Product research：Use Shopify to provide clear product photos, descriptions, pricing, availability, seasonal collections, store hours, location, and parking information. Better information reduces uncertainty during the Consideration stage.]
+- [Online ordering：Create a simple ecommerce experience with clear customization options, secure checkout, transparent pricing, and automatic order confirmation. This is especially important for custom gift boxes and Online-First Shoppers.]
+- [Store pickup：Connect online purchasing to the physical store through scheduled pickup times, designated parking locations, clear directions, curbside options, and pickup notifications. This reduces one of the largest barriers for off-campus customers.]
+- [Post-purchase engagement：Continue the relationship through thank-you emails, seasonal promotions, personalized recommendations, loyalty incentives, and upcoming product announcements. This turns a one-time transaction into an opportunity for repeat purchase and long-term loyalty.]
+
+Key Takeaway: CPP Farm Store does not need to treat digital and physical channels as separate experiences. The strongest opportunity is to connect discovery, ecommerce, pickup, and customer retention into one seamless omnichannel journey.
+
 
 # 4. Shopify / Ecommerce Recommendation
 
@@ -367,44 +376,47 @@ This would allow management to identify where customers leave the ordering proce
 
 # 9. Final Recommendations
 
-## Recommendation 1: Highest Priority
+## Recommendation 1 — Highest Priority
 
-**\[Insert highest-priority recommendation\]**
-
-- What CPP Farm Store should do:
-  - \[Insert\]
-- Why it matters:
-  - \[Insert\]
-- Resources needed:
-  - \[Insert\]
-- Measurement:
-  - \[Insert\]
-
-## Recommendation 2: Medium-Term Opportunity
-
-**\[Insert recommendation\]**
+**[Insert highest-priority recommendation]**
 
 - What CPP Farm Store should do:
-  - \[Insert\]
+  - [Improve Shopify product pages, simplify checkout, automate order confirmations, and provide clear pickup, parking, and store information.]
 - Why it matters:
-  - \[Insert\]
+  - [The greatest customer friction occurs between product consideration, online purchase, and physical pickup.
+]
 - Resources needed:
-  - \[Insert\]
+  - [Shopify updates • Product photos/content • Email automation • Pickup signage • Staff training
+]
 - Measurement:
-  - \[Insert\]
+  - [Conversion Rate • Cart Abandonment • Purchases • Store Pickup Interest • AOV]
 
-## Recommendation 3: Future Opportunity
+## Recommendation 2 — Medium-Term Opportunity
 
-**\[Insert recommendation\]**
+**[Insert recommendation]**
 
 - What CPP Farm Store should do:
-  - \[Insert\]
+  - [Launch campaign across Google, email, campus events, in-store QR codes, and the Shopify gift box landing page.]
 - Why it matters:
-  - \[Insert\]
+  - [Custom gift boxes combine CPP's local story with high-demand gifting occasions such as Graduation, Mother's Day, and holidays.]
 - Resources needed:
-  - \[Insert\]
+  - [Google Ads • Email marketing • Campaign creative • Event displays • QR codes • Shopify landing page]
 - Measurement:
-  - \[Insert\]
+  - [+25% Product Page Traffic • 3% Conversion Rate • +40% Gift Box Orders]
+
+## Recommendation 3 — Future Opportunity
+
+**[Insert recommendation]**
+
+- What CPP Farm Store should do:
+  - [Introduce automated post-purchase emails, seasonal reminders, personalized recommendations, and loyalty rewards.]
+- Why it matters:
+  - [Turning satisfied first-time shoppers into repeat customers reduces dependence on continuous customer acquisition.]
+- Resources needed:
+  - [Email/CRM platform • Shopify integration • Loyalty tools • Customer segmentation]
+- Measurement:
+  - [Repeat Purchase Rate • Returning Customers • Email CTR • Customer Lifetime Value • 20% Repeat-Purchase Goal]
+
 
 # 10. Closing
 
