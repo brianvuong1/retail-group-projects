@@ -445,37 +445,38 @@ Once CPP Farm Store has access to live ecommerce data, the simulated information
 
 ### Recommendation 1: Highest Priority
 
-**What CPP Farm Store Should Do:** \[ \]
+**What CPP Farm Store Should Do:** \[Improve the Shopify ecommerce experience and create a seamless online-to-offline purchase and pickup process. Priority improvements should include complete product pages with clear photos, descriptions, pricing, and availability; simplified checkout; automatic order confirmation; clear pickup instructions; designated pickup locations; and accurate store hours, parking, and location information. \]
 
-**Why It Matters:** \[ \]
+**Why It Matters:** \[The customer journey analysis identified the largest amount of friction between the Consideration, Purchase, and Fulfillment stages. Customers may be interested in CPP Farm Store products but still abandon the journey if they cannot confirm availability, understand how to order, or confidently plan their pickup. Improving Shopify and pickup first creates the digital foundation needed for every other marketing activity. Driving additional traffic before fixing these issues could increase visits without producing meaningful conversions. \]
 
-**Resources Needed:** \[ \]
+**Resources Needed:** \[Shopify configuration and maintenance, updated product photography and descriptions, inventory and pricing updates, automated email/order confirmation setup, pickup procedures, parking and directional signage, and staff training to ensure online and physical fulfillment processes remain consistent. \]
 
-**How Success Should Be Measured:** \[ \]
+**How Success Should Be Measured:** \[ Track product page views, add-to-cart rate, checkout starts, completed purchases, conversion rate, cart abandonment, store pickup interest, and average order value. The dashboard should also monitor where customers drop off between product viewing, checkout, purchase, and pickup.\]
 
 ### Recommendation 2: Medium-Term Opportunity
 
-**What CPP Farm Store Should Do:** \[ \]
+**What CPP Farm Store Should Do:** \[Launch an integrated seasonal campaign around the custom gift box under the theme "Thoughtful Gifts, Grown Here." The campaign should connect Google Search and Shopping, email marketing, campus events, in-store QR code displays, seasonal promotions, and the Shopify gift box landing page. \]
 
-**Why It Matters:** \[ \]
+**Why It Matters:** \[Custom gift boxes combine several of CPP Farm Store's strongest advantages: locally produced products, the emotional connection to Cal Poly Pomona, product customization, and seasonal gifting demand. Graduation, Mother's Day, holidays, and campus appreciation events create predictable opportunities to reach students, parents, alumni, local community members, and campus organizations. A coordinated campaign can increase awareness while directing customers toward one clear online conversion path. \]
 
-**Resources Needed:** \[ \]
+**Resources Needed:** \[ Campaign creative assets, Google Ads and Merchant Center setup, email marketing tools, a dedicated Shopify landing page, event displays, QR code signage, promotional materials, and a defined seasonal campaign budget. Staff should also coordinate product availability and fulfillment capacity before major promotional periods.\]
 
-**How Success Should Be Measured:** \[ \]
+**How Success Should Be Measured:** \[Measure gift box product page traffic, campaign clicks, click-through rate, conversion rate, gift box orders, revenue, average order value, QR code traffic, and channel-level performance. Initial campaign targets should include a 25% increase in gift box product page traffic, a 3% online conversion rate, and a 40% increase in custom gift box orders during peak gifting periods. \]
 
 ### Recommendation 3: Future Opportunity
 
-**What CPP Farm Store Should Do:** \[ \]
+**What CPP Farm Store Should Do:** \[ Build a customer retention program using email marketing, seasonal reminders, personalized product recommendations, loyalty incentives, and repeat-purchase campaigns. Customers should be encouraged to subscribe during checkout and after purchase so CPP Farm Store can maintain the relationship beyond a single transaction. \]
 
-**Why It Matters:** \[ \]
+**Why It Matters:** \[ The current journey largely ends after the customer receives the product. Without consistent post-purchase communication, CPP Farm Store must repeatedly spend time and marketing resources acquiring customers who may already be satisfied with the brand. Email and loyalty tools can turn first-time customers into repeat shoppers while creating opportunities to promote seasonal produce, gift boxes, campus events, and limited-time products throughout the year. \]
 
-**Resources Needed:** \[ \]
+**Resources Needed:** \[ An email marketing platform integrated with Shopify, customer segmentation, automated post-purchase and seasonal email flows, loyalty or rewards functionality, campaign templates, customer consent management, and staff responsibility for maintaining the communication calendar.
+\]
 
-**How Success Should Be Measured:** \[ \]
+**How Success Should Be Measured:** \[  Track returning customer rate, repeat purchase rate, email signup growth, email open and click-through rates, revenue from returning customers, customer lifetime value, and repeat gift box purchases. A useful initial goal would be for at least 20% of first-time custom gift box customers to make a repeat purchase.\]
 
 ------------------------------------------------------------------------
 
-# 10. Conclusion
+
 
 # 10. Conclusion
 
