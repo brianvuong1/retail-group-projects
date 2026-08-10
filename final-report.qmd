@@ -125,80 +125,84 @@ CPP Farm Store competes on two fronts — local farmers' markets and specialty f
 # 5. Product Feed / Retail Media Setup
 
 ## 5.1 Purpose in the Overall Story
-Before CPP Farm Store can run the omnichannel campaign described in Section 6, its products need to be discoverable outside the physical store. This section explains how the Farm Store's product catalog should be structured for Google Merchant Center so that Google Shopping, Search, and retail-media placements can surface the right products to the right shoppers — feeding traffic into the same Shopify experience the rest of the plan relies on.
+
+CPP Farm Store's current website is built on Wix, which can display a photo gallery of gift products but cannot process an online order — every purchase still depends on a phone call. Before CPP Farm Store can run the omnichannel campaign described in Section 6 or benefit from any retail-media investment, its gift products need to live on a platform that can actually complete a sale. This section assumes the group's Shopify recommendation (Section 4) as the destination platform, and explains how the existing gift box and basket lineup — currently just a static gallery on Wix — should be structured as a real product feed for Google Merchant Center once that platform is in place, so Google Shopping, Search, and retail-media placements can drive traffic into an online ordering experience instead of a phone call.
 
 ## 5.2 Selected Products
-The feed prioritizes a focused set of products chosen for broad appeal, clear local story, and gifting relevance rather than a full catalog dump:
 
-| Product | Role in Strategy |
-|---|---|
-| CPP Campus Apiary Raw Honey (16 oz) | Acquisition — low-cost, grab-and-go, strongest "local" story |
-| CPP Seasonal Fresh Produce Box | Retention — recurring, seasonal, drives repeat visits |
-| CPP Farm Store Local Gift Basket | High-value occasions — highest price point, gifting-focused |
-| CPP Strawberry Jam (12 oz) | Everyday add-on / bundling item |
-| CPP Farm Fresh Eggs (Dozen) | Everyday staple, broad appeal |
+Rather than introducing new SKUs, the feed is built directly from CPP Farm Store's real, existing gift lineup, grouped into three categories:
 
-Together these five cover three distinct jobs — **acquisition** (Honey), **retention** (Produce Box), and **high-value occasions** (Gift Basket) — so the feed doesn't compete for the same customer with every product at once.
+| Group | Products | Role in Strategy |
+|---|---|---|
+| Fresh Fruit Boxes | Avocado/Mandarin, Satsuma, Deluxe, Navel | Most differentiated — genuinely "CPP-grown," best story for new customer acquisition |
+| Build-Your-Own Boxes | Non Perishable, Fruit & Snacks, Farm Store, Anti Pasti, Pasta, Sweet | Flexible, budget-driven — appeals to a wide range of shoppers and occasions |
+| Seasonal Baskets | Christmas, Custom Christmas, Valentine's | Highest perceived value — tied to specific gifting windows |
+
+Grouping the existing products this way — rather than treating all fourteen as equal — lets the feed and campaign prioritize a few standouts instead of spreading effort evenly across a long, undifferentiated list.
 
 ## 5.3 Feed Structure
-Each product record includes the fields Google Merchant Center requires for approval and strong ranking: Product ID, Title, Description, Price, Availability, Product Category, Product Type, Brand, Condition, Image Link, Landing Page URL, Shipping/Pickup Info, Promotion Message, and Custom Label. This structure was built and populated in GP3 and carries forward unchanged into the final feed.
+
+Each product record should include the fields Google Merchant Center requires for approval and ranking: Product ID, Title, Description, Price, Availability, Product Category, Product Type, Brand, Condition, Image Link, Landing Page URL, Shipping/Pickup Info, Promotion Message, and Custom Label. Currently, none of the gift products on the website have this structure — they exist only as a photo and a short caption in a gallery, with no dedicated product pages, prices, or ordering flow. Building this structure is the core deliverable of this section.
 
 ## 5.4 Title & Description Recommendations
-Titles were standardized to a consistent pattern — **[Brand] + [Product] + [Size/Qty] + [Key Attribute]** — for example, "CPP Farm Store Raw Honey (16 oz) – CPP Campus Apiary." This improves searchability and gives customers an immediate, scannable sense of what they're buying.
 
-Descriptions were rewritten to consistently answer: what it is, why it's meaningfully local, how it's best used, and whether it's available for pickup — rather than generic marketing copy. Gift-oriented items also explicitly flag their gifting/bundling potential, since that's the primary purchase occasion this campaign targets.
+The existing product names are already usable and recognizable ("Deluxe Box," "Satsuma Gift Box," "Custom Christmas Basket") and should be kept rather than replaced, but formatting should be standardized across the feed so every listing follows the same pattern.
 
-## 5.5 Image Needs
+Descriptions should be split by product type rather than using one generic caption for everything, since the current site repeats nearly the same sentence across most listings:
 
-CPP Farm Store should run a single coordinated product photo shoot covering both the Shopify website and the Google Merchant Center feed at once — one shoot, two uses, one consistent look.
+- **Fresh Fruit Boxes:** Emphasize that each box is packed with CPP-grown fruit available at the time of order — this is the strongest, most locally authentic claim in the entire catalog and should be stated clearly rather than buried in a footnote.
+- **Build-Your-Own Boxes:** Emphasize the flexibility — customers can shop in-store or call with a budget and have a box built for them — and should clarify what "build your own" actually includes so online shoppers aren't left guessing.
+- **Seasonal Baskets:** Emphasize the occasion (Christmas, Valentine's) and the value of a pre-curated, ready-to-give option.
+
+## 5.5 Product Photography Recommendation
+
+The current Gift Gallery photos are usable as a starting point but are small, inconsistently cropped, and vary in lighting and background from product to product — the gallery reads as a collection of individually snapped photos rather than a cohesive catalog. CPP Farm Store should run one coordinated photo shoot covering the full gift lineup for both the website and the Google Merchant Center feed at once.
 
 **Shot Setup**
-- **Lighting:** Natural, diffused daylight (near a window or outdoors in open shade) to match the farm-fresh brand identity — avoid harsh direct sun or artificial studio flash, which reads as generic/corporate rather than local.
-- **Background:** One consistent surface across all products — a light neutral wood or matte white backdrop — so the feed and website feel like a cohesive catalog rather than mismatched photos.
-- **Angle:** Straight-on product shot for the primary feed image (Google Merchant Center requires this), plus one optional lifestyle/angled shot per product for the website only.
-- **Framing:** Product fills 70–80% of the frame with even margin on all sides; no cropped edges or cut-off labels.
+- **Lighting:** Natural, diffused daylight to match the farm-fresh brand identity — avoid harsh direct sun or artificial flash.
+- **Background:** One consistent surface across every product — a light neutral wood or matte white backdrop — so the fourteen gift items feel like one catalog rather than mismatched photos.
+- **Angle:** Straight-on shot for the primary feed image (required for Google Merchant Center), plus one optional angled/lifestyle shot per product for the website only.
+- **Framing:** Product fills 70–80% of the frame with even margin on all sides; no cropped edges.
 
-**Per-Product Shot List**
-- **Raw Honey:** Jar straight-on with label fully legible; one supplementary shot with honey dipper/drizzle for the website lifestyle image.
-- **Seasonal Produce Box:** Overhead flat-lay showing the actual current contents — never a stand-in or "ideal" arrangement, since availability changes weekly.
-- **Local Gift Basket:** Full basket shot showing exactly what's included, no props or filler items not in the actual box — this is the highest-risk item for over-promising visually.
-- **Strawberry Jam:** Jar straight-on, label legible, matching the honey composition for visual consistency.
-- **Farm Fresh Eggs:** Carton open, eggs visible, straight-on.
+**Per-Category Shot Notes**
+- **Fresh Fruit Boxes:** Since contents depend on what's ripe at time of order, these should be reshot periodically rather than using one fixed photo indefinitely — the current site already notes this variability in its captions, but the photos don't reflect it.
+- **Build-Your-Own Boxes:** Show a realistic, representative example of contents, not an empty box — customers currently have no visual sense of what a finished box looks like.
+- **Seasonal Baskets:** Full basket shot showing exactly what's included, since these are the highest-price items and carry the greatest risk of visually over-promising.
 
 **Technical Specs (for Google Merchant Center compliance)**
 - Minimum 800×800px, recommended 1200×1200px, square aspect ratio (1:1)
-- White or light neutral background for the primary feed image (no lifestyle backgrounds in the feed image itself)
+- White or light neutral background for the primary feed image
 - No text, logos, watermarks, or promotional overlays baked into the image
 - JPEG or PNG, sRGB color profile
-
-**Why This Approach**
-A single planned shoot — rather than sourcing images piecemeal — guarantees visual consistency across the feed and website, keeps every image an honest representation of what's actually for sale (directly addressing the over-promising risk flagged in the creative brief), and produces feed-compliant images and richer lifestyle images from the same session at minimal added cost.
 
 ## 5.6 Feed-Quality Concerns
 
 | Concern | Status | Recommendation |
 |---|---|---|
-| Image links | Missing (TBD) | Complete a single coordinated product photo shoot per the specs in 5.5, then upload square, feed-compliant images for all five SKUs |
-| Landing page URLs | Missing (TBD) | Link each SKU to its live Shopify product page 
-| Availability | Partially defined | Standardize to "In Stock," "Seasonal," or "Out of Stock" |
-| Shipping/pickup | Inconsistent across items | Explicitly state shipping vs. pickup eligibility per SKU |
-| Category mapping | Needs review | Confirm each item matches Google's official taxonomy |
+| Pricing | Missing entirely | No gift box or basket currently shows a price — this is the single largest gap and must be fixed before any retail-media investment, since customers can't compare or decide without it |
+| Online ordering | Missing | Orders are currently phone-only; a Shopify-based checkout flow is needed to make the feed and any ads actually convert |
+| Images | Usable but inconsistent | Complete one coordinated product photo shoot per the specs in 5.5, then upload square, feed-compliant images across all fourteen items |
+| Landing page URLs | Missing | Each product needs its own page rather than a shared gallery listing |
+| Availability | Inconsistent | Standardize to "In Stock," "Seasonal," or "Made to Order" |
+| Shipping/pickup | Inconsistent across items | Gift Boxes already note shipping vs. pickup; Baskets need the same explicit "pickup-only" label applied consistently |
 
-These are the blocking issues before the feed can go live — the structure and copy are ready, but the media and URLs are not.
+The pricing and online-ordering gaps are the most urgent — without them, the rest of the feed work (titles, descriptions, photos) has nothing to convert customers into.
 
 ## 5.7 Recommended Promotion Priority
-1. **Raw Honey** — promote first; low price point and strongest local story make it the best entry point for a first-time Google Shopping shopper.
-2. **Seasonal Produce Box** — best suited to retargeting and recurring email/social content tied to what's currently in season.
-3. **Local Gift Basket** — reserved for high-intent gifting windows (graduation, finals week, holidays), where a pre-order/pickup model addresses fulfillment constraints.
 
-This staged approach connects directly to the Campaign Plan below — the Gift Basket promotion should peak exactly when the campaign's seasonal budget (Section 6) is weighted most heavily toward gifting occasions.
+1. **Deluxe Box** — promote first; the most visually appealing Fresh Fruit Box and the strongest "grown here" story for a first-time Google Shopping shopper.
+2. **Farm Store Gift Box** — the most flexible Build-Your-Own option, suited to ongoing, budget-driven promotion across a wide range of occasions.
+3. **Custom Christmas Basket** — reserved for the holiday gifting window, where its higher price point and pre-curated format match customer intent.
+
+This staged approach connects directly to the Campaign Plan below — the Custom Christmas Basket promotion should peak exactly when the campaign's seasonal budget (Section 6) is weighted most heavily toward gifting occasions.
 
 ---
 
 # 6. Campaign Plan
 
 ## 6.1 Business Problem
-CPP Farm Store built a custom gift box ordering feature on Shopify, but students, families, and campus organizations largely don't know it exists. Demand for meaningful, local gifts already exists around graduation, Mother's Day, and holiday seasons — the Farm Store just isn't capturing it, so customers default to generic off-campus gift retailers instead.
+
+CPP Farm Store already sells a wide range of gift boxes and baskets — Fresh Fruit Boxes, Build-Your-Own Boxes, and Seasonal Baskets — but its current website is built on Wix, a platform that does not support online ordering or checkout. The Gift Gallery page can only display photos and captions; it cannot take payment, process an order, or confirm a pickup or shipping request. As a result, every gift purchase depends entirely on a phone call or an in-person visit, regardless of how much interest a customer has after browsing online. This is a platform problem, not a marketing problem — no amount of awareness or ad spend converts if the website itself is structurally unable to complete a sale. The client's stated goal is a functioning website that can actually take online orders for custom gift boxes, which is why the group's Shopify recommendation (Section 4) is the direct fix underlying this campaign.
 
 ## 6.2 Campaign Objective
 **Drive awareness and online adoption of CPP Farm Store's custom gift box feature, targeting a 40% increase in gift box orders during the spring peak gifting season (February–May).**
