@@ -241,6 +241,22 @@ The dashboard includes:
 - Product-level performance can identify where customers show interest but do not complete a purchase.
 - Store Pickup Interest helps connect digital activity with the physical CPP Farm Store.
 
+## What Should Be Measured?
+
+The dashboard should help CPP Farm Store determine whether the new digital Gift Basket ordering process is improving customer behavior.
+
+Important measures include:
+
+- Gift Basket product page views
+- Online Gift Basket form starts
+- Completed Gift Basket orders
+- Add-to-cart activity
+- Conversion rate
+- Revenue
+- Average Order Value
+- Store Pickup Interest
+- Traffic source
+
 ## Recommended Measurement Actions
 
 CPP Farm Store should:
@@ -252,17 +268,15 @@ CPP Farm Store should:
 - Regularly review dashboard data and adjust marketing decisions.
 - Replace simulated data with live GA4 and Shopify data when available.
 
-::: {.notes}
-For this part of the project, we created a Looker Studio dashboard to show how CPP Farm Store could measure its omnichannel and ecommerce performance.
+## Measurement Opportunity
 
-At the top of the dashboard, management can quickly see major KPIs such as users, sessions, purchases, revenue, conversion rate, average order value, and store pickup interest.
+A digital Gift Basket ordering process would provide CPP Farm Store with data that a paper form cannot easily provide.
 
-The dashboard also allows the Farm Store to compare marketing channels, campaigns, and individual products. One important takeaway is that generating traffic alone is not enough. CPP Farm Store should also look at whether that traffic leads to purchases and revenue.
+With Shopify and GA4, the Farm Store could measure:
 
-Store pickup interest is especially important because it helps measure whether digital activity is helping customers transition from the online experience to the physical Farm Store.
+**Discovery → Product View → Order Intent → Completed Order → Store Pickup**
 
-Because our dashboard uses simulated data, these results should be viewed as a measurement framework. In the future, CPP Farm Store could connect real GA4, Shopify, advertising, and pickup data.
-:::
+This would allow management to identify where customers leave the ordering process and continuously improve the experience.
 
 
 # 9. Final Recommendations
@@ -309,43 +323,56 @@ Because our dashboard uses simulated data, these results should be viewed as a m
 
 # 10. Closing
 
-## Connecting the Customer Experience
+## From Paper Forms to a Connected Customer Journey
 
-CPP Farm Store has an opportunity to create a stronger connection between its **physical location and digital customer experience**.
+One of the clearest opportunities identified in this project is CPP Farm Store's Gift Basket ordering process.
 
-Our proposed strategy connects:
+Instead of requiring customers to visit the store and complete a paper order form, CPP Farm Store can allow customers to **discover, customize, and order Gift Baskets online through Shopify**.
 
-**Digital Discovery → Shopify → Product Information → Online Ordering → Store Pickup → Post-Purchase Engagement**
+The physical Farm Store would remain an important part of the experience through preparation, fulfillment, and customer pickup.
+
+## Recommended Customer Journey
+
+**Discover Online**
+
+↓
+
+**View Gift Basket Options**
+
+↓
+
+**Customize & Order Through Shopify**
+
+↓
+
+**Receive Order Confirmation**
+
+↓
+
+**Pick Up at CPP Farm Store**
+
+↓
+
+**Receive Follow-Up Marketing**
 
 ## Overall Value
 
-The proposed omnichannel strategy can help CPP Farm Store:
+This strategy connects every major part of our project:
 
-- Increase product visibility
-- Improve customer convenience
-- Expand ecommerce opportunities
-- Strengthen digital marketing
-- Encourage online-to-store customer activity
-- Use customer data to make better decisions
-- Build stronger long-term relationships with customers
+- The **customer journey** identifies the friction.
+- **Shopify** provides the digital ordering solution.
+- The **product feed** improves online discovery.
+- The **campaign** promotes the new ordering option.
+- The **creative assets** communicate the offering.
+- The **analytics dashboard** measures whether customers use it.
 
 ## Final Takeaway
 
-CPP Farm Store does not need to replace its physical retail experience with ecommerce.
+CPP Farm Store does not need ecommerce to replace the physical Farm Store.
 
-Instead, digital tools should make the existing Farm Store experience **easier to discover, easier to shop, and easier to measure**.
+It can use ecommerce to eliminate unnecessary steps such as paper Gift Basket ordering while making the physical store more convenient and valuable.
 
-By gradually implementing Shopify ecommerce, improved product data, integrated campaigns, store pickup, and analytics, CPP Farm Store can create a more connected and convenient omnichannel experience for the Cal Poly Pomona community and surrounding customers.
-
-::: {.notes}
-Our overall recommendation is not to replace the physical CPP Farm Store with ecommerce. Instead, ecommerce should strengthen the physical store.
-
-Customers should be able to discover products online, learn what is available, place an order, and then conveniently pick it up at the Farm Store.
-
-The different parts of our project support that same journey. Shopify improves the shopping experience, the product feed improves discoverability, campaigns bring customers into the journey, creative content builds awareness, and the dashboard measures the results.
-
-Overall, this strategy gives CPP Farm Store a practical foundation for future ecommerce growth while maintaining the local and community-focused experience that makes the Farm Store unique.
-:::
+**The goal is a simpler journey: order online, pick up at the Farm Store.**
 
 
 # 11. Appendix
