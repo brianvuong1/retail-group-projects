@@ -498,4 +498,4 @@ Overall, the proposed omnichannel strategy provides CPP Farm Store with a practi
 [GitHub Repository](<https://github.com/brianvuong1/retail-group-projects.git>)
 
 ## GitHub Pages
-[Published Report] https://brianvuong1.github.io/retail-group-projects/final-report.html
+[Published Report](<https://brianvuong1.github.io/retail-group-projects/final-report.html>)
