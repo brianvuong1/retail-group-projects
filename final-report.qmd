@@ -1,6 +1,6 @@
 ---
 title: "Final Report: CPP Farm Store Omnichannel Strategy"
-author: "Kevin, Alexa, Sandy, Brian, Ron Sabilla"
+author: "Kevin, Alexa, Sandy Zhu, Brian, Ron Sabilla"
 date: today
 format:
   html:
