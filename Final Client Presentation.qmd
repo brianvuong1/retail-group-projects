@@ -1,7 +1,7 @@
 ---
 title: "CPP Farm Store Omnichannel Strategy"
 subtitle: "Final Client Presentation"
-author: "Kevin, Alexa, Sandy, Brian, Ron"
+author: "Kevin, Alexa, Sandy, Brian, Ron Sabilla"
 date: today
 format:
   revealjs:
@@ -12,34 +12,79 @@ format:
     embed-resources: true
 ---
 
-# 1. Introduction and Client Challenge
+## Executive Summary
 
-## CPP Farm Store
+CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produce, estate wine, plants, honey, and custom gift items — all grown on site. Most people don't know it exists, and those who do find the website confusing.
 
-- [Brief introduction to CPP Farm Store]
-- [Main business challenge]
-- [Why an omnichannel strategy is needed]
+**Recommendation:** Build a connected omnichannel strategy by improving Shopify, launching a gift box campaign, setting up Google Merchant Center, and adding loyalty and email tools.
 
-## Client Challenge
+**What we found:** Customers drop off between Awareness and Consideration — not enough product info online, unclear checkout, and zero post-purchase communication.
 
-- [Current customer problem]
-- [Digital/ecommerce opportunity]
-- [Main challenge the project addresses]
+**Projected results:** 40% increase in gift box orders, 25% jump in traffic, 3% conversion rate, and a growing base of repeat customers.
 
+## Client and Situation Analysis
 
-# 2. Business Objective and Project Objective
+**About CPP Farm Store**
 
-## Business Objective
+- Founded on W.K. Kellogg's 1925 horse ranch, now part of Cal Poly Pomona
+- Operated by the Huntley College of Agriculture as a student-run enterprise
+- Students grow, harvest, market, and sell everything themselves
+- Located at 4102 S. University Drive | Open Daily 10AM–6PM
 
-- [Insert business objective]
-- [What CPP Farm Store wants to improve]
-- [Expected business benefit]
+**Products:** Fresh produce, estate wine, plants, honey, eggs, student-made ice cream, and custom gift boxes
 
-## Project Objective
+## Target Customers
 
-- [Insert project objective]
-- [How the project supports the Farm Store]
-- [Main areas analyzed]
+- **CPP Students** — on campus daily but largely unaware the store exists
+- **Faculty & Staff** — reliable shoppers, easiest to retain
+- **Local Community** — find via Google, blocked by navigation and parking friction
+- **Alumni** — emotionally connected, ideal gift box buyers, rely on digital
+- **Online-First Shoppers** — expect smooth browsing, checkout, and pickup
+
+## Product Categories
+
+- **Fresh produce & agricultural goods** — fruits, vegetables, eggs, honey
+- **Specialty products** — estate wine, student-made ice cream, jams
+- **Nursery & ornamentals** — plants and seasonal items
+- **Gift products** — customizable gift boxes and fruit packs *(highest margin, lowest visibility)*
+
+## Strengths & Weaknesses
+
+**Strengths**
+
+- Authentic student-run story no competitor can replicate
+- High-quality standout products drive word of mouth
+- Built-in campus audience every day
+- Shopify store already live
+
+**Weaknesses**
+
+- Low awareness on and off campus
+- Incomplete Google profile, no retail media presence
+- Confusing checkout, no order confirmation or pickup updates
+- No loyalty program or post-purchase follow-up
+
+## Opportunities & Challenges
+
+**Opportunities**
+
+- Growing demand for local, mission-driven food
+- Seasonal gifting: Mother's Day, graduation, holidays
+- Google Shopping tools accessible for small businesses
+- Campus event traffic that can convert to online customers
+
+**Challenges**
+
+- Farmers' markets and national gift brands (Amazon, Edible Arrangements) competing for the same budget
+- Rotating student staff affects consistency
+- Campus parking and navigation deters off-campus visitors
+
+## SWOT Summary
+
+| | Helpful | Harmful |
+|---|---|---|
+| **Internal** | Campus-grown story, quality products, Shopify foundation, loyal alumni | Low awareness, poor discoverability, no post-purchase communication |
+| **External** | Local food trends, Google Shopping, seasonal gifting windows | Stronger competitors, campus barriers, limited budget |
 
 
 # 3. Key Customer Journey Insight
