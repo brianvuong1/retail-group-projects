@@ -71,7 +71,6 @@ execute:
 
 **Key Touchpoints:**The journey crosses both digital and physical channels, including Google Search, Google Maps, the CPP Farm Store website and Shopify store, Instagram, email, campus signage and events, product pages, the physical Farm Store, store employees, order-confirmation messages, pickup areas, product packaging, and seasonal promotions. These touchpoints should function as one connected experience rather than as separate channels. For example, a customer may discover a seasonal gift box through Google or Instagram, research it on Shopify, purchase it online, receive pickup instructions by email, collect it at the physical store, and later receive a seasonal promotion encouraging another purchase.
 
-
 **Pain Points:**The journey analysis revealed several points of friction. Awareness is limited because many potential customers do not know that CPP Farm Store exists or that it is open to the public. During consideration, customers may struggle to find accurate product information, current availability, store hours, parking instructions, and detailed product images or descriptions. The purchase stage introduces additional friction when online ordering, customization, or confirmation processes are unclear. Off-campus customers may then experience difficulty navigating campus and understanding where or how to pick up an order. Finally, limited post-purchase communication means that satisfied customers are not consistently encouraged to return, explore seasonal products, or develop a longer-term relationship with the Farm Store.
 
 **Omnichannel Opportunities:** These pain points create several opportunities to connect the customer experience across channels. CPP Farm Store can strengthen awareness through improved Google visibility, Google Merchant Center, social media, email, and campus promotion. A stronger Shopify experience can provide detailed product pages, accurate pricing and availability, seasonal collections, and a dedicated custom gift box landing page. Online ordering can be connected to the physical store through clear confirmation messages, scheduled pickup windows, parking instructions, and designated pickup locations. After purchase, automated email communication, seasonal promotions, loyalty incentives, and product recommendations can keep customers engaged and encourage repeat purchases.
@@ -261,9 +260,9 @@ Performance is reviewed on a layered cadence: **weekly** for product-level and t
 
 ![Figure 7.1: Homepage banner](images/banner.png)
 
-![Figure 7.2: Basket product image](images/basket.png)
+![Figure 7.2: Basket product image](images/basket.png){width="549"}
 
-![Figure 7.3: Instagram Poll](images/Insta Poll.png)
+![Figure 7.3: Instagram Poll](images/Insta%20Poll.png)
 
 **Channel Fit:** Instagram and email are the strongest fits for this creative, since both formats reward the kind of warm, visual, gift-forward content the baskets are built around. On-site banners reuse the same creative direction to keep the Shopify store and the promotional content visually consistent, so a customer clicking through from Instagram lands on a page that looks and feels like what drew them in.
 
