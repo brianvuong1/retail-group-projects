@@ -1,6 +1,6 @@
 ---
 title: "Final Report: CPP Farm Store Omnichannel Strategy"
-author: "Kevin, Alexa, Sandy, Brian, Ron"
+author: "Kevin, Alexa, Sandy, Brian, Ron Sabilla"
 date: today
 format:
   html:
@@ -16,45 +16,59 @@ execute:
 # 1. Executive Summary
 
 **Client Problem or Opportunity:**
-[ ]
+CPP Farm Store is a student-run specialty retail store on the Cal Poly Pomona campus that sells fresh produce, estate wine, plants, honey, and custom gift items that are all grown or made on site. It has a unique story and high-quality products, but it faces a problem that's hard to ignore: most people don't know it exists. Off-campus locals, alumni, and even students on campus often have no idea the store is open to the public, and the ones who do find the website confusing to use.
 
 **Main Recommendation:**
-[ ]
+Build a connected omnichannel strategy that bridges the gap between the physical store and the digital experience. That means improving the Shopify store, running a focused campaign around the custom gift box feature, setting up Google Merchant Center so products show up in search, and adding loyalty and email tools to keep customers coming back after their first purchase.
 
 **Key Supporting Evidence:**
-[ ]
+We analyzed the customer journey across five different shopper segments, reviewed competitor strategies from local farm stores and specialty food retailers, audited CPP Farm Store's current Shopify and social media presence, and built out a campaign plan targeting the store's most underperforming — but highest-potential — product: the customizable gift box. What we found across all of that work was the same issue showing up at every stage: customers drop off between Awareness and Consideration because there's not enough product information online, checkout is unclear, and there's zero communication after a purchase.
 
 **Expected Benefits:**
-[ ]
+A 40% increase in custom gift box orders during peak gifting seasons, a 25% jump in product page traffic, a 3% online conversion rate, and a growing base of repeat customers — all while giving student operators more hands-on experience running a real digital retail operation.
 
 ---
 
 # 2. Client and Situation Analysis
 
 **Target Customers:**
-[ ]
+CPP Farm Store has five main customer groups, and each one shops a little differently.
+
+*CPP Students* are the most convenient audience — they're already on campus every day. They care about affordability and locally made products and spend a lot of time on Instagram and TikTok. The problem is that a lot of them don't even know the store exists. With some awareness and better digital access, this group has serious potential for consistent, repeat purchases.
+
+*Faculty and Staff* are already showing up. They're reliable shoppers who value convenience and knowing that the store will have what they want when they come in. They're also the easiest segment to keep loyal.
+
+*Local Community Members* are off-campus shoppers who typically find the store through Google, Google Maps, or a friend's recommendation. They're interested in local food, but they run into real friction: the campus is hard to navigate, parking is unclear, and the website doesn't make it obvious that the store is open to everyone.
+
+*Alumni* are one of the most valuable groups, even if they're the hardest to reach. They have a strong emotional connection to CPP and love buying gifts tied to the campus, especially for holidays and special occasions. Since most of them live off campus, they depend almost entirely on the website, email, and social media to stay connected. The custom gift box was practically made for this segment.
+
+*Online-First Shoppers* want to browse, order, and pay online before ever stepping foot on campus. They expect a smooth e-commerce experience: good product photos, clear pricing, easy checkout, and a straightforward pickup process.
 
 **Product Categories:**
-[ ]
+
+- **Fresh produce and agricultural goods:** seasonal fruits, vegetables, eggs, and honey — the foundation of the store's farm-fresh identity and the core of what brings regular shoppers in
+- **Specialty and value-added products:** estate wine from the campus vineyard, student-made ice cream, jams, and other preserved goods that tend to surprise and delight customers, setting the store apart from a regular grocery run
+- **Nursery and ornamentals:** plants and seasonal items that appeal mostly to local community members and faculty looking for something a little different
+- **Gift products:** customizable gift boxes and curated fruit packs — the store's highest-margin category and the main focus of our campaign strategy
 
 **Current Strengths:**
-[ ]
+CPP Farm Store's biggest strength isn't any single product — it's the story behind all of them. Products grown and made by students on a working campus farm, sold through a student-managed store with over a century of agricultural history. That kind of authenticity is genuinely rare, and it's something no big-box retailer or Amazon competitor can replicate. Product quality backs that story up — customers consistently highlight the student-made ice cream and estate honey as standout items they tell their friends about. The campus location still brings in a built-in daily audience of students, faculty, and staff, and the Shopify store is already live and ready to be improved rather than rebuilt from scratch.
 
 **Current Weaknesses:**
-[ ]
+The biggest issue is awareness. Most students have never been to CPP Farm Store and don't know it's open to anyone. Off campus, the problem is even bigger — the store has limited search visibility, an incomplete Google Business Profile, and no presence in retail media channels where potential customers are actively shopping. The online experience doesn't help either: it's missing detailed product descriptions, quality photos, and clear pricing. The custom gift box checkout is confusing, there's no automated order confirmation or pickup update, and there's basically no post-purchase relationship with customers — no loyalty program, no follow-up email, no way to bring them back.
 
 **Market or Environmental Opportunities:**
-[ ]
+Interest in local, sustainable, and mission-driven food has been growing, and farm-to-table branding resonates especially well with the millennial and Gen Z shoppers who make up a big part of the target audience. Seasonal gifting moments like Mother's Day, graduation, the winter holidays, and campus appreciation events give the store predictable windows of high demand that a focused digital campaign can take full advantage of. Google Shopping and retail media tools are more accessible than ever for small businesses, and the campus itself generates constant event-based foot traffic that, with the right follow-up tools, can be turned into long-term online customers.
 
 **Competitive or Operational Challenges:**
-[ ]
+CPP Farm Store competes on two fronts — local farmers' markets and specialty food retailers with stronger digital presence and easier parking, and national gift retailers like Amazon and Edible Arrangements that capture the gifting budget CPP's custom boxes should be winning. Operationally, staffing changes with the academic calendar, marketing and tech budgets are limited, and campus infrastructure like parking and wayfinding creates friction that the store can't fully control.
 
 **SWOT Analysis (optional):**
 
 | | Helpful | Harmful |
 |---|---|---|
-| **Internal** | Strengths: [ ] | Weaknesses: [ ] |
-| **External** | Opportunities: [ ] | Threats: [ ] |
+| **Internal** | **Strengths:** Unique campus-grown story, high-quality differentiated products, existing Shopify infrastructure, captive on-campus audience, strong alumni emotional connection | **Weaknesses:** Low awareness beyond campus, poor online discoverability, friction-heavy checkout and pickup experience, no post-purchase communication, underpromoted gift box feature |
+| **External** | **Opportunities:** Growing local food and gifting trends, Google Shopping and retail media setup, predictable seasonal gifting windows, alumni loyalty potential, rising interest in mission-driven brands | **Threats:** Better-resourced local competitors with stronger digital presence, campus navigation barriers, budget constraints limiting marketing investment, seasonal revenue concentration |
 
 ---
 
