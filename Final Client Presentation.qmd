@@ -153,7 +153,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 # Product Feed / Retail Media Recommendation
 
-### Product Feed Strategy
+## Product Feed Strategy
 
 - **Selected products:** Fresh Fruit Boxes (Avocado/Mandarin, Satsuma, Deluxe, Navel), Build-Your-Own Boxes (Non Perishable, Fruit & Snacks, Farm Store, Anti Pasti, Pasta, Sweet), Seasonal Baskets (Christmas, Custom Christmas, Valentine's)
 - **Product titles:** Keep the current recognizable names (e.g., "Deluxe Box," "Satsuma Gift Box") but standardize formatting across the feed
@@ -163,13 +163,13 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 - **Images:** Existing photos are usable but small and inconsistently cropped — recommend a refresh so all products share the same background and framing
 - **Pickup information:** Gift Boxes ship anywhere in the US or can be picked up in-store; Gift Baskets are pickup-only
 
-### Recommended Products for Promotion
+## Recommended Products for Promotion
 
 - **Deluxe Box** — most visually appealing fresh-fruit option, strongest "grown here" story
 - **Farm Store Gift Box** — flexible build-your-own option, appeals to a range of budgets
 - **Custom Christmas Basket** — highest perceived value, ideal for the holiday gifting window
 
-### Retail Media Opportunity
+## Retail Media Opportunity
 
 - **Google Merchant Center:** Focus on the shippable Gift Boxes, since Baskets are pickup-only and don't fit standard shipping-based retail feeds
 - **Google Shopping:** Fresh Fruit Boxes are the most differentiated — no local competitor can claim "CPP-grown" produce
