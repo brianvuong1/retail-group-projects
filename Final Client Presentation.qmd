@@ -151,7 +151,7 @@ CPP Farm Store is a student-run store at Cal Poly Pomona that sells fresh produc
 
 ![Figure 4.3: Build Your Own basket flow](images/byo-basket.png){width=45%}
 
-# 5. Product Feed / Retail Media Recommendation
+# Product Feed / Retail Media Recommendation
 
 ### Product Feed Strategy
 
